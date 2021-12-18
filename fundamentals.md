@@ -163,6 +163,8 @@ pass --- handy when statement is required syntactically but the program requires
 ```python
   def myfunction(*args):
     ''' docstring ''' # can be fetched by myfunction.__doc__
+    do_this
+  ```
     
 1. Global variables and variables of enclosing functions cannot be directly assigned a value within a function (unless, for global variables, named in a global statement, or, for variables of enclosing functions, named in a nonlocal statement), although they may be referenced.
 2. Functions always return a value. It returns ```python None``` if there is no ```python return``` statement.
