@@ -13,7 +13,7 @@ In multiple assignment, the expressions on the right-hand side are all evaluated
 In interactive mode, the last printed expression is assigned to the variable _
 
 ```python
-  a + b;
+  a + b; 
   a - b;
   a * b;
   a / b; # returns a float
@@ -47,24 +47,14 @@ Operations on strings, lists, etc.
   subname = name[-1::-1] # reverse string
   ```
 
-Built-in methods.
-
-```python
-  len(str)
-  ```
-  
 List methods. Some of these may not work for strings because strings are immutable.
 
 ```python
   lst.append()
   ```
   
-  
-  
 String literals can span multiple lines. One way is using triple-quotes: """...""" or '''...'''. End of lines are
 automatically included in the string, but it’s possible to prevent this by adding a \ at the end of the line.
-
-
  
 ### Basics
 
@@ -74,10 +64,9 @@ automatically included in the string, but it’s possible to prevent this by add
   sys.argv[1] // first argument, if it exists
   ```
   
-  
 ## Control Flow
  
-```if```, ```elif```, ```else``` --- elif and else are optional, elif can be one or more.
+```if```, ```elif```, ```else``` &mdash; elif and else are optional, elif can be one or more.
  
 ```python
   if (condition):
@@ -88,7 +77,7 @@ automatically included in the string, but it’s possible to prevent this by add
     do_this
   ```
 
-```for``` --- iterates over an iterable (like list, string, dictionary, etc). Code that modiﬁes a collection while iterating over that same collection can be tricky to get right. Instead, it is usually more straight-forward to loop over a copy of the collection or to create a new collection.
+```for``` &mdash; iterates over an iterable (like list, string, dictionary, etc). Code that modiﬁes a collection while iterating over that same collection can be tricky to get right. Instead, it is usually more straight-forward to loop over a copy of the collection or to create a new collection.
 
 ```python
   # iterate over a copy
@@ -103,7 +92,7 @@ automatically included in the string, but it’s possible to prevent this by add
       active_users[user] = status
   ```
   
-```range()``` --- accepts arguments as (start:stop:step), generates arithmetic progressions.
+```range()``` &mdash; accepts arguments as (start:stop:step), generates arithmetic progressions.
 
 ```python
   # handy in looping, default values: start = 0, step = 1
@@ -130,7 +119,7 @@ automatically included in the string, but it’s possible to prevent this by add
       do_this # execute this if the loop was not terminated by break
   ```
 
-```pass``` --- handy when statement is required syntactically but the program requires no action.
+```pass``` &mdash; handy when statement is required syntactically but the program requires no action.
 
 ```python
   # commonly used for creating minimal classes
@@ -177,7 +166,7 @@ Keyword arguments must follow positional arguments (if any) in function call arg
   myfunction(type='programmer', id=24, name='Knuth')
   ```
   
-  
+
 
 
 
