@@ -1,19 +1,14 @@
 
-## Fundamentals
+# Fundamentals
 
 ```python
   # multiple assignment
-  a, b = 0, 1
-  
-  
+  a, b = 0, 1 
   ```
   
-  In multiple assignment, the expressions on the right-hand side are all evaluated ﬁrst before any of the assignments take place. The right-hand side expressions are evaluated from the left to the right.
+In multiple assignment, the expressions on the right-hand side are all evaluated ﬁrst before any of the assignments take place. The right-hand side expressions are evaluated from the left to the right.
 
-
-
-
-### Arithmetic
+## Arithmetic.
 
 In interactive mode, the last printed expression is assigned to the variable _
 
@@ -27,7 +22,7 @@ In interactive mode, the last printed expression is assigned to the variable _
   a ** b; # a to the power b
   ```
   
-Strings.
+## Strings and lists.
 
 ```python
 	# raw string
@@ -58,8 +53,6 @@ Built-in methods.
   len(str)
   ```
   
-  
-  
 List methods. Some of these may not work for strings because strings are immutable.
 
 ```python
@@ -72,17 +65,8 @@ String literals can span multiple lines. One way is using triple-quotes: """..."
 automatically included in the string, but it’s possible to prevent this by adding a \ at the end of the line.
 
 
-  
-
-
-
-
+ 
 ### Basics
-
-
-
-
-
 
 ```python
   sys.argv // a list that stores script name and additional arguments
@@ -91,7 +75,7 @@ automatically included in the string, but it’s possible to prevent this by add
   ```
   
   
-### Control Flow
+## Control Flow
  
 if, elif, else --- elif and else are optional, elif can be one or more.
  
@@ -145,7 +129,6 @@ break, continue, else-in-loop (for-else, while-else)
     else:      
       do_this # execute this if the loop was not terminated by break
     ```
-
 pass --- handy when statement is required syntactically but the program requires no action.
 
 ```python
@@ -158,7 +141,7 @@ pass --- handy when statement is required syntactically but the program requires
     pass
   ```
 
-### Functions
+## Functions
 
 ```python
   def myfunction(*args):
@@ -167,9 +150,9 @@ pass --- handy when statement is required syntactically but the program requires
   ```
     
 1. Global variables and variables of enclosing functions cannot be directly assigned a value within a function (unless, for global variables, named in a global statement, or, for variables of enclosing functions, named in a nonlocal statement), although they may be referenced.
-2. Functions always return a value. It returns ```python None``` if there is no ```python return``` statement.
+2. Functions always return a value. It returns ```None``` if there is no ```return``` statement.
 
-Default arguments.
+### Default arguments.
 
 ```python
   def myfunction(name, type='language', id=0):
@@ -184,7 +167,7 @@ Default arguments.
   # this makes a diﬀerence when the default is a mutable object such as a list, dictionary, etc
   ```
   
-Keyword arguments.
+### Keyword arguments.
 
 ```python
   # the above function can be called as
