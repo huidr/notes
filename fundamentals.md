@@ -1,0 +1,205 @@
+
+## Fundamentals
+
+```python
+  # multiple assignment
+  a, b = 0, 1
+  
+  
+  ```
+  
+  In multiple assignment, the expressions on the right-hand side are all evaluated ﬁrst before any of the assignments take place. The right-hand side expressions are evaluated from the left to the right.
+
+
+
+
+### Arithmetic
+
+In interactive mode, the last printed expression is assigned to the variable _
+
+```python
+  a + b;
+  a - b;
+  a * b;
+  a / b; # returns a float
+  a // b; # floor division
+  a % b;
+  a ** b; # a to the power b
+  ```
+  
+Strings.
+
+```python
+	# raw string
+  print(r'\usr\bin\name') # characters prefaced by \ will NOT be interpreted as special characters
+  
+  # f-strings, formatstrings
+  x = 5
+  print(f'this is {x*x}') # f-string: {x*x} becomes 25
+  print('this is {}'.format(x*x)) # formatstrings
+  ```
+  
+Operations on strings, lists, etc.
+  
+```python
+  # concatenation
+  name = 'Computer' + 'programming'
+  name = 'Computer' 'programming' # useful for long strings, works only for string literals
+  
+  # slicing [start:stop:step]
+  subname = name[2:8] # step = 1 (by default)
+  subname = name[-1] # the last entry
+  subname = name[-1::-1] # reverse string
+  ```
+
+Built-in methods.
+
+```python
+  len(str)
+  ```
+  
+  
+  
+List methods. Some of these may not work for strings because strings are immutable.
+
+```python
+  lst.append()
+  ```
+  
+  
+  
+String literals can span multiple lines. One way is using triple-quotes: """...""" or '''...'''. End of lines are
+automatically included in the string, but it’s possible to prevent this by adding a \ at the end of the line.
+
+
+  
+
+
+
+
+### Basics
+
+
+
+
+
+
+```python
+  sys.argv // a list that stores script name and additional arguments
+  sys.argv[0] // script name
+  sys.argv[1] // first argument, if it exists
+  ```
+  
+  
+### Control Flow
+ 
+if, elif, else --- elif and else are optional, elif can be one or more.
+ 
+```python
+  if (condition):
+  	do_this
+  elif (condition):
+    do_this
+  else:
+    do_this
+  ```
+
+for --- iterates over an iterable (like list, string, dictionary, etc). Code that modiﬁes a collection while iterating over that same collection can be tricky to get right. Instead, it is usually more straight-forward to loop over a copy of the collection or to create a new collection.
+
+```python
+  # iterate over a copy
+  for user, status in users.copy().items():
+    if status == 'inactive':
+      del users[user]
+      
+  # create a new collection
+  active_users = {}
+  for user, status in users.items():
+    if status == 'active':
+      active_users[user] = status
+  ```
+  
+range() --- accepts arguments as (start:stop:step), generates arithmetic progressions.
+
+```python
+  # handy in looping, default values: start = 0, step = 1
+  for i in range(10):
+    do_this
+    
+  # turn it into a list
+  nums = list(range(40, 20, -2))
+  
+  # sum it up because it is an iterable
+  sum(range(10))
+  ```
+
+break, continue, else-in-loop (for-else, while-else)
+
+```python
+  for i in range(10):
+    for j in range(5):
+      if (condition):
+        break # terminate the innermost loop containing this statement
+      if (condition):
+        continue # skip to the next iteration of the innermost loop containing this statement
+    else:      
+      do_this # execute this if the loop was not terminated by break
+    ```
+
+pass --- handy when statement is required syntactically but the program requires no action.
+
+```python
+  # commonly used for creating minimal classes
+  class EmptyClass:
+    pass
+  
+  # also used as a place-holder
+  def func(*args):
+    pass
+  ```
+
+### Functions
+
+```python
+  def myfunction(*args):
+    ''' docstring ''' # can be fetched by myfunction.__doc__
+    
+1. Global variables and variables of enclosing functions cannot be directly assigned a value within a function (unless, for global variables, named in a global statement, or, for variables of enclosing functions, named in a nonlocal statement), although they may be referenced.
+2. Functions always return a value. It returns ```python None``` if there is no ```python return``` statement.
+
+Default arguments.
+
+```python
+  def myfunction(name, type='language', id=0):
+    do_this
+  
+  # different ways to call the above function
+  myfunction('Python')
+  myfunction('van Rossum', 'programmer')
+  myfunction('Aventador', 'car', 10)
+  
+  # the default value is evaluated only once even when the function is called multiple times
+  # this makes a diﬀerence when the default is a mutable object such as a list, dictionary, etc
+  ```
+  
+Keyword arguments.
+
+```python
+  # the above function can be called as
+  myfunction(type='programmer', id=24, name='Knuth')
+  
+  # keyword arguments must follow positional arguments in function call arguments list
+  ```
+  
+  
+
+
+
+
+
+  
+ 
+ 
+  
+  
+  
