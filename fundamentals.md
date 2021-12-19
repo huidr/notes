@@ -271,20 +271,61 @@ Lists can be used as **stacks** &mdash; use ```list.append()``` and ```list.pop(
   queue.pop()
   ```
 
-List comprehensions provide a concise way to create lists and other data structures. The following are some examples.
+List comprehensions provide a concise way to create lists and other data structures.
 
 ```python
   pairs = [(x, y) for x in [2, 3, 7] for y in [1, 3, 4] if x != y]
   # [(2, 1), (2, 3), (2, 4), (3, 1), (3, 4), (7, 1), (7, 3), (7, 4)]
   
-  old_names = ['  time', 'money  ', ' skill ']
-  new_names = [x.strip() for x in old_names]
-  # new_names = ['time', 'money', 'skill']
+  a = ['  time', 'money  ', ' skill ']
+  b = [x.strip() for x in old_names]
+  # b = ['time', 'money', 'skill']
   
   vec = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
   flattened_list = [item for elem in vec item in elem]
   # flattened_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
   ```
   
+List comprehensions can be nested.
+
+```python
+  matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+  transpose = [[row[i] for row in matrix] for i in range(3)]
+  ```
   
+```del``` can be used to remove items from a list given its index instead of its value.
+
+```python
+  a = ['Tom', 'Huck', 'Mark']
+  del a[2]
+  del a[1:] # use slicing
+  del a # delete entire variables
+  ```
+  
+### Tuples
+
+Tuples are like lists but immutatable.
+
+```python
+  # tuple packing
+  t = 2, 4, 6
+  
+  # sequence unpacking
+  a, b, c = t
+  
+  # nesting
+  u = t, ('Python', 'C++')
+  
+  # can contain mutable objects
+  s = ([1, 2], [3, 4])
+  
+  # empty tuple
+  s = ()
+  
+  # one-element tuple
+  s = 1,
+  ```
+
+### Sets
+
 
