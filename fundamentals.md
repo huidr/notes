@@ -194,9 +194,9 @@ A parameter of the form ```*args``` receives a tuple while ```**kwargs``` receiv
   # grades = {'algorithms':'A', 'topology':'B', 'electrodynamics':'A'}
   ```
 
-### Parameters list
+### Parameter list
 
-One can specify only positional arguments, standard (either positional or keyword) and only keyword argumements in the parameters list. The general form of the parameters list look something like this:
+One can specify only positional arguments, standard (either positional or keyword) and only keyword argumements in the parameter list. The general form of the parameter list look something like this:
 
 ```
   def f(pos_only, /, pos_or_kw, *, kw_only)
