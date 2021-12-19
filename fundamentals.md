@@ -628,11 +628,120 @@ Reconstructing the data from the string representation is called **deserializing
 
 ### Handling exceptions
 
+The general syntax is
 
+```python
+  try:
+    # code_to_try
+    if (condition):
+      raise ExceptionOne
+  except ExceptionOne:
+    # do_this
+  except (ExceptionTwo, ExceptionThree):
+    # do_this
+  else:
+    # do_this_if_no_exception_occurred
+  finally:
+    # do_this_always
+  ```
+
+The use of the ```else``` clause is better than adding additional code to the ```try``` clause. The ```Exception``` class is the base class for all exceptions (including built-in). Hence writing ```except Exception``` is the same as writing only ```except```.
+
+The except clause may specify a variable after the exception name. One may also instantiate an exception ﬁrst before raising it and add any attributes to it as desired.
+
+```python
+  try:
+    raise Exception('discord', 'me')
+  except Exception as obj:
+    
+    type(obj)
+    # <class 'Exception'>
+    
+    obj.args
+    # ('discord', 'me')
+    
+    obj
+    # ('discord', 'me')
+    
+    s, t = obj.args
+    # s = 'discord', t = 'me'
+  ```
   
+### Raising exceptions
+
+The ```raise``` statement forces a specified exception to occur. Its sole argument must be either an exception instance or an exception class (derived from ```Exception```). A standalone ```raise``` with no arguments re-raises the exception (this is cool when you need to see if an exception has occurred).
+
+```python
+  try:
+    raise ValueError('message')
+  except ValueError:
+    print('There was an exception')
+    
+    # re-raise ValueError
+    raise
+  ```
   
+Exceptions can also be chained using ```raise SomeException from exc```, where exc must be exception instance or None. This can be useful in transforming exceptions.
+
+```python
+  def f():
+    raise ValueError
   
-  
-  
-  
-  
+  try:
+    f()
+  except ValueError as exc:
+    raise RuntimeError('message') from exc.
+  ```
+
+### User-defined exceptions
+
+It is a common practice to create a base class for exceptions deﬁned by a module, and subclass that to create speciﬁc exception classes for different error conditions.
+    
+```python
+  class Error(Exception):
+    ''' Base class for exceptions in this module. '''
+    pass
+    
+  class InputError(Error):
+    ''' Exceptions raised for errors in the input. 
+    
+    Atrributes:
+      expression --- input expression in which the error occurred
+      message --- explanation of the error
+    '''
+    
+    def __init__(self, expr, msg):
+      self.expression = expr
+      self.message = msg
+    
+  class TransitionError(Error):
+    ''' Raised when an operation attempts a state transition that's not allowed.
+    
+    Attributes:
+      previous --- state at beginning of transition
+      next --- attempted new state
+      message --- explanation of why the specific transition is not allowed
+    '''
+    
+    def __init__(self, prev, nxt, msg):
+      self.previous = prev
+      self.next = nxt
+      self.message = msg
+  ```
+
+### Clean-up actions
+
+The ```finally``` clause is executed in any event.
+
+- If the exception is not handled by an ```except``` clause, the exception is re-raised after the ```finally``` clause has been executed.
+- An exception could occur during execution of an ```except``` or ```else``` clause. Again, the exception is re-raised after the ```finally``` clause has been executed.
+- If the ```finally``` clause executes a *break*, *continue* or *return* statement, exceptions are not re-raised.
+- If the ```try``` statement reaches a *break*, *continue* or *return* statement, the ```finally``` clause will execute just
+prior to the *break*, *continue* or *return* statement’s execution.
+- If a ```finally``` clause includes a *return* statement, the returned value will be the one from the ```finally``` clause’s *return* statement, not the value from the ```try``` clause’s *return* statement.
+
+In real world applications, the ```finally``` clause is useful for releasing external resources (such as ﬁles or network connections), regardless of whether the use of the resource was successful.
+
+## Classes
+
+
