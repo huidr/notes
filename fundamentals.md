@@ -328,4 +328,170 @@ Tuples are like lists but immutatable.
 
 ### Sets
 
+Sets are unordered collections and have no duplicate elements. One can perform set operations like union, intersection, etc.
+
+```python
+  # initialization
+  vowels = set('aeiou')
+  letters = {'a', 'b', 'c', 'l', 'm'}
+  
+  # membership testing
+  if 'e' in vowels:
+    print("Yes")
+ 
+  # set union
+  u = vowels | letters
+  
+  # set intersection
+  u = vowels & letters
+  
+  # set difference
+  u = vowels - letters
+  
+  # symmetric difference
+  u = vowels ^ letters
+  
+  # set comprehensions
+  a = {x for x in 'python' if x not in 'javascript'}
+  ```
+  
+### Dictionaries
+
+A dictionary is just a set of *key: value* pairs where *value* can be almost any Python object while *key* must be immutable (strings, numbers or tuples that do not contain mutable objects directly or indirectly).
+
+```python
+  # empty dictionary
+  d = {}
+  
+  # add elements
+  d['jack'] = 24
+  
+  # delete elements
+  del d['jack']
+  
+  # get a list of its keys
+  keys = list(d)
+  
+  # get a sorted list of its keys
+  keys = sorted(d)
+  
+  # membership test
+  'jack' in d
+  'jack' not in d
+  
+  # dict comprehensions
+  d = {x: x**2 for x in range(10)}
+  
+  # dict() constructor
+  d = dict([(1, 1), (2, 4), (3, 9)])
+  
+  # if keys are simple strings
+  d = dict(jack = 24, jill = 36)
+  ```
+  
+### Looping techniques
+
+When looping through dictionaries, use ```items()``` to retrieve key, value pairs.
+
+```python
+  d = dict(one = 1, two = 2, three = 3)
+  for key, value in d.items():
+    print(key, value)
+  ```
+  
+When looping through sequences, use ```enumerate()``` to retrieve index, value pairs.
+
+```python
+  lst = ['time', 'money', 'skill']
+  for index, value in enumerate(lst):
+    print(index, value)
+  ```
+ 
+When looping over two or more sequences simultaneously, use ```zip()``` to pair the entries. If the sequences are of different length, it loops until the smallest sequence is looped over.
+
+```python
+  sqs = [1, 4, 9, 16, 25]
+  cbs = [1, 8, 27, 64, 125]
+  for s, c in zip(sqs, cbs):
+    print(s, c)
+  ```
+To loop over a sequence in reverse, ﬁrst specify the sequence in a forward direction and then call ```reversed()```.
+
+```python
+  for i in reversed(range(10)):
+    print(i)
+  ```
+  
+To loop over a sequence in sorted order, use the ```sorted()``` function which returns a new sorted list while leaving the source unaltered.
+
+```python
+  seq = [x in x in range(10, 0, -1)]
+  for i in sorted(seq):
+    print(i)
+  ```
+  
+To loop over unique elements of a sequence in sorted order, you ```sorted(set(sequence))```.
+
+### Comparisons
+
+Comparisons between sequences of the same type are lexicographical. Also, comparisons can be chained.
+
+```python
+  [1, 2, 3] < [1, 2, 4]
+  'C' < 'Java' < 'Python'
+  (1, 2, 3, 4) < (1, 3)
+  (1, 1) < (1, 2) == (1.00, 2.00)
+  ```
+
+The conditions used in ```while``` and ```if``` statements can contain any operators, not just comparisons.
+
+## Modules
+
+### Importing
+
+The following are different ways of importing modules.
+
+```python
+  import sys
+  from math import e, pi
+  from os import *
+  import matplotlib.pyplot as plt
+  from numpy import array as arr
+  ```
+
+Defined in ```sys``` module, the variable ```sys.path``` is a list of strings that determines the interpreter’s search path for modules. It can modified as follows:
+
+```python
+  sys.path.append('/home/user/python/modules')
+  ```
+
+Use ```dir()``` to find out all names which a module defines. Without arguments, it displaces the names you have defined currently.
+
+```python
+  dir(sys)
+  
+  # find out built-in functions and variables
+  dir(builtins) 
+  ```
+
+### ```main()``` function
+
+To add versatility to a python file, one can add the ```main()``` function so that it can be used both as a script or a module.
+
+```python
+  def main():
+    do_this
+  
+  if __name__="__main__":
+    main()
+  ```
+
+### Packages
+
+A package is a collection of modules. The modules may be put in hierarchical directory system. To make the interpreter treat a directory of modules as if it were a package in itself, put ```__init__.py``` in the directory even if it is an empty file.
+
+When using ```from package import item```, the item can be either a submodule (or subpackage) of the package or some other name defined in the package. Contrary to this, when using ```import item.subitem.subsubitem```, each item except the last must be a package and the last item must be a module or package but can't be a class or function or variable defined in the previous item.
+
+
+
 
