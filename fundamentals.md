@@ -765,53 +765,53 @@ class ClassName:
 Objects are instances of its class. Suppose A is a class whose constructor takes only one positional argument ```self```. Also suppose f is a method defined in A taking only ```self``` argument.
 
 ```python
-  # instantiate an object
-  a = A()
+# instantiate an object
+a = A()
   
-  # the following are equivalent
-  A.f(A)
-  A.f(a)
-  a.f()
+# the following are equivalent
+A.f(A)
+A.f(a)
+a.f()
 
-  # define new attributes of a
-  a.x = 4
+# define new attributes of a
+a.x = 4
   
-  # define new attributes of A
-  A.y = 6
+# define new attributes of A
+A.y = 6
   
-  # access newly created attributes
-  print(a.y)
-  c = A()
-  print(c.y)
+# access newly created attributes
+print(a.y)
+c = A()
+print(c.y)
   
-  # define new methods of A
-  def myfunc(self):
-    print('Takes 1 positional argument')
-  def yrfunc():
-    print('Takes no positional argument')
-  A.g = myfunc
-  A.h = yrfunc
+# define new methods of A
+def myfunc(self):
+  print('Takes 1 positional argument')
+def yrfunc():
+  print('Takes no positional argument')
+A.g = myfunc
+A.h = yrfunc
   
-  # the following are equivalent
-  A.g(A)
-  A.g(a)
-  a.g()
+# the following are equivalent
+A.g(A)
+A.g(a)
+a.g()
   
-  # h takes no argument, so it cannot be called by a
-  A.h() # okay
-  a.h() # error
+# h takes no argument, so it cannot be called by a
+A.h() # okay
+a.h() # error
   
-  # define new methods of c
-  c.p = myfunc
-  c.q = yrfunc
+# define new methods of c
+c.p = myfunc
+c.q = yrfunc
   
-  # call the newly created methods of c
-  c.p() # error, needs 1 argument
-  c.p(c) # works
-  c.p(4) # works, the value of the argument does not matter
-  c.q() # works
-  c.q(c) # error, takes 0 argument
-  ```
+# call the newly created methods of c
+c.p() # error, needs 1 argument
+c.p(c) # works
+c.p(4) # works, the value of the argument does not matter
+c.q() # works
+c.q(c) # error, takes 0 argument
+```
 
 s
   
