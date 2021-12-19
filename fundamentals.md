@@ -743,7 +743,7 @@ In real world applications, the ```finally``` clause is useful for releasing ext
 
 ### Objects
 
-The general syntax of a class definition looks like:
+The syntax of class definition looks like:
 
 ```python
 class ClassName:
@@ -810,6 +810,136 @@ c.q() # works
 c.q(c) # error, takes 0 argument
 ```
 
-s
+Keep in mind that
+- If the same attribute name occurs in both an instance and in a class, then attribute lookup prioritizes the instance.
+- Methods can be defined outside the class (examples shown above).
+- Methods may call other methods by using method attributes of the ```self``` argument.
+
+To build something close to *struct* of C/C++, use an empty class.
+
+```python
+class Date:
+  pass
+
+date = Date()
+
+date.day = 19
+date.month = 'December'
+date.year = 2021
+```
+
+### Inheritance
+
+The syntax for derived class definition looks like:
+
+```python
+class DerivedClass(BaseClass):
+  # regular_class_definition
+
+# base class may be from another module
+class DerivedClass(modname.BaseClass):
+```
+
+Python has two built-in functions that work with inheritance: ```isinstance(obj, A)``` checks if obj.__class__ is A or some class derived from A, ```issubclass(B, A)``` checks if B is a subclass of A.
+
+```python
+class A:
+  x = 2
+  def f(self):
+    print('I am in A.')
+  def g(self):
+    print('A has me.')
+
+class B(A):
+  y = 4
+  def p(self):
+    print('I am in B.')
+  def g(self):
+    print('I am also in B.')
   
+b = B()
+
+# access A's attributes and methods
+print(b.x)
+b.f()
+
+# override rule: use the most recent definition (in this case, B's)
+b.g()
+```
+
+Do multiple inheritance as follows:
+
+```python
+class D(A, B, C):
+  # class definition
+```
+
+If an attribute is not found in D, it is searched for in A, then (recursively) in the base classes of A, and if it was not found there, it was searched for in B, and so on.
+
+### Iterators
+
+One can for-loop over an iterable using ```for i in iterable:```. The following happens behind the scenes.
+
+```python
+t = 1, 3, 5, 7
+i = iter(t)
+
+next(i) # 1
+next(i) # 3
+next(i) # 5
+next(i) # 7
+next(i) # raises error: StopIteration
+```
+
+To create a iterable object, one needs to implement ```__iter__()``` and ```__next()__``` and then one can for-loop over this object.
+
+```python
+class Reverse:
+  def __init__(self, data):
+    self.data = data
+    self.index = len(data)
   
+  def __iter__(self):
+    return self
+   
+  def __next__(self):
+    if self.index == 0:
+      raise StopIteration
+    self.index -= 1
+    return self.data[self.index]
+ 
+r = Reverse('python')
+for c in r:
+  print(c)
+```
+
+### Generators
+
+Generators are just like regular functions but use ```yield``` instead of ```return```. Each time ```next()``` is called on it, the generator resumes where it left off (it remembers all the data values and which statement was last executed).
+
+```python
+def reverse(data):
+  for i in range(len(data)-1, -1, -1):
+    yield data[i]
+
+for c in reverse('python'):
+  print(c, end='')
+
+# prints nohtyp
+```
+
+What makes generators so compact is that the ```__iter__()``` and ```__next__()``` methods are created automatically. Generators make it so easy to create iterators with no more effort than writing a regular function.
+
+Generator expressions makes building generators easy by creating anonymous generator functions. The syntax for generator expression is just like that of a list comprehension with parentheses instead. A list comprehension produces an entire list while the generator expression produces one item at a time.
+
+```python
+# sum of squares
+sum(i*i for i in range(10)) 
+
+# inner product
+xv = [2, 4, -1]
+yv = [1, -1, -8]
+sum(x*y for x,y in zip(xv, yv))
+
+unique_words = set(word for line in page for word in line.split())
+```
