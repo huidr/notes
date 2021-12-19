@@ -749,18 +749,18 @@ In real world applications, the ```finally``` clause is useful for releasing ext
 The general syntax of a class definition looks like:
 
 ```python
-  class ClassName:
-    ''' docstring '''
+class ClassName:
+  ''' docstring '''
     
-    # constructor
-    def __init__(self, *args):
-      pass
+  # constructor
+  def __init__(self, *args):
+    pass
       
-    # shared by all instances
-    a = 10
-    def f(self, *args):
-      pass
-  ```
+  # shared by all instances
+  a = 10
+  def f(self, *args):
+    pass
+```
 
 Objects are instances of its class. Suppose A is a class whose constructor takes only one positional argument ```self```. Also suppose f is a method defined in A taking only ```self``` argument.
 
