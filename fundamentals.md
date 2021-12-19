@@ -203,8 +203,7 @@ One can specify only positional arguments, standard (either positional or keywor
   
 pos_only arguments cannot receive keyword arguments and so on. If there is no ```/``` and ```*```, the arguments are standard (either positional or keyword).
 
-```
-  python
+```python
   def get_info(name, /, age, *, weight):
     print(name, age, height, sep=' ')
   
@@ -212,7 +211,7 @@ pos_only arguments cannot receive keyword arguments and so on. If there is no ``
   get_info('Tom', 24, weight=76)
   get_info('Tom', age=24, weight=76)
 
-	# some ways to write parameters list
-	def get_info(name, /) # receive pos_only arguments
-	def get_info(*, weight) # receive kw_only arguments
-	```
+  # some ways to write parameters list
+  def get_info(name, /) # receive pos_only arguments
+  def get_info(*, weight) # receive kw_only arguments
+  ```
