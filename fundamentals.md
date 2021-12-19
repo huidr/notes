@@ -163,6 +163,7 @@ The default value is evaluated only once even when the function is called multip
   print(f(1)) # [1]
   print(f(2)) # [1, 2]
   print(f(3)) # [1, 2, 3]
+  ```
 
 
 ### Keyword arguments
