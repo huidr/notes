@@ -27,11 +27,6 @@ In interactive mode, the last printed expression is assigned to the variable _
 ```python
 	# raw string
   print(r'\usr\bin\name') # characters prefaced by \ will NOT be interpreted as special characters
-  
-  # f-strings, formatstrings
-  x = 5
-  print(f'this is {x*x}') # f-string: {x*x} becomes 25
-  print('this is {}'.format(x*x)) # formatstrings
   ```
   
 Operations on strings, lists, etc.
@@ -492,6 +487,152 @@ A package is a collection of modules. The modules may be put in hierarchical dir
 
 When using ```from package import item```, the item can be either a submodule (or subpackage) of the package or some other name defined in the package. Contrary to this, when using ```import item.subitem.subsubitem```, each item except the last must be a package and the last item must be a module or package but can't be a class or function or variable defined in the previous item.
 
+Suppose a ```__init__.py``` file of a directory (package) contain the following code.
+
+```python
+  __all__ = ["effects", "saver", "bottle"]
+  ```
+
+The following code only imports the modules defined in ```__all__``` even if there are other modules in the package. In fact, avoid using ```from package import *``` syntax to avoid clashes and confusion.
+
+```python
+  from package import *
+  ```
+
+One can write relative imports using leading dots to indicate the current and parent packages involved.
+
+```python
+  from . import saver
+  from .. import hubs
+  from ..lines import senses
+  ```
+
+## I/O
+
+### Formatting
+
+```f```-strings and ```str.format()``` are used when strings contain variables and expressions.
+
+```python
+  name = 'Robert'
+  
+  string = f'I call him {name}'
+  string = 'I call him {}'.format(name)
+  
+  string = '{} is {}.'.format('Tom', 'insame')
+  
+  # using keyword arguments
+  string = '{name} is nice.'.format(name = 'Tom')
+  
+  # using integer markers
+  string = '{0} is {1}. {0} is good.'.format('Life', 'enjoyable')
+  
+  # using both intgers markers and keyword arguments
+  string = 'I like {0}, {1} and {var}.'.format('Python', 'Java', var = 'C++') 
+  
+  # using dictionaries
+  d = dict(Tom = 6, Sam = 4, John = 2)
+  s = '{John:d}, {Tom:d}, {Sam:d}'.format(**d) 
+  # s = '6, 4, 2'
+  
+  # print table of squares and cubes with columns aligned
+  for x in range(10):
+    print('{0:2d} {1:3d} {2:4d}'.format(x, x*x, x*x*x))
+  ```
+  
+One can format the number of digits after the decimal point.
+
+```python
+  from math import pi
+  text = f'The value of pi is approximately {pi:.4f}.'
+  # automatically rounds upto 4 decimal points
+  ```
+  
+Passing an integer after the ':' will cause that ﬁeld to be a minimum number of characters wide. This is useful for making columns line up.
+
+```python
+  d = dict(February = 28, March = 31, April = 30)
+  for k, v in d.items():
+    print(f'{k:10} has {v:2d} days')
+  ```
+  
+```str.zfill()``` pads a numeric string on the left with zeroes.
+
+```python
+  '71'.zfill(5) # 00071
+  ```
+  
+### Reading/writing files
+
+A good way of doing this is by using ```with``` keyword.
+
+```python
+  with open('file.txt', 'r+') as f:
+    pass
+  ```
+
+Assuming a file object f has been created, the following are some of functionalities available.
+
+```python
+  # read the entire file
+  f.read()
+  
+  # read size characters (in text mode) or size bytes (in binary mode)
+  f.read(size)
+  
+  # read a single line
+  f.readline()
+  
+  # for reading lines, loop over the file object
+  for line in f:
+    print(line, end = ' ')
+  
+  # read all lines in a list, use any of the following
+  list(f)
+  f.readlines()
+  
+  # write a string to a file, returns the number of characters written
+  f.write('This is me\n')
+  
+  # return an integer giving the file object's current position
+  f.tell()
+  
+  # change the file object's position
+  # whence is the reference point, defaults to 0
+  f.seek(offset, whence)
+  ```
+  
+### Using JSON
+
+The standard module called ```json``` can take Python data hierarchies, and convert them to string representations; this process is called **serializing**.
+Reconstructing the data from the string representation is called **deserializing**.
+
+```python
+  import json
+  
+  # serialize
+  json.dumps(obj)
+  
+  # deserialize
+  json.loads(s)
+  
+  # serialize to a text file
+  # assume f is the file object
+  json.dump(obj, f)
+  
+  # decode the object again
+  x = json.load(f)
+  ```
+
+## Exceptions
+
+### Handling exceptions
 
 
-
+  
+  
+  
+  
+  
+  
+  
