@@ -1,7 +1,7 @@
 import sys
 
 def agrv_list():
-  if len(sys.argv) > 0:
+  if len(sys.argv) > 1:
     return sys.agrv[0], sys.argv[1:]
   else:
     return sys.argv[0], None
