@@ -5,7 +5,7 @@
 On completion, the cheatsheet will have the following three main parts.
 
 1. [Fundamentals](https://github.com/ronaldmangang/python-cheatsheet/blob/main/fundamentals.md)
-2. Intermediate
+2. [Intermediate](https://github.com/ronaldmangang/python-cheatsheet/blob/main/intermediate.md)
 3. Extras
 4. Libraries
 
