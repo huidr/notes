@@ -152,11 +152,19 @@ automatically included in the string, but it’s possible to prevent this by add
   myfunction('Python')
   myfunction('van Rossum', 'programmer')
   myfunction('Aventador', 'car', 10)
-  
-  # the default value is evaluated only once even when the function is called multiple times
-  # this makes a diﬀerence when the default is a mutable object such as a list, dictionary, etc
   ```
+The default value is evaluated only once even when the function is called multiple times. This makes a diﬀerence when the default is a mutable object such as a list, dictionary, etc. See the following.
+
+```python
+  def f(a, L=[]):
+    L.append(a)
+    return L
   
+  print(f(1)) # [1]
+  print(f(2)) # [1, 2]
+  print(f(3)) # [1, 2, 3]
+
+
 ### Keyword arguments
 
 Keyword arguments must follow positional arguments (if any) in function call arguments list.
@@ -164,17 +172,47 @@ Keyword arguments must follow positional arguments (if any) in function call arg
 ```python
   # the above function can be called as
   myfunction(type='programmer', id=24, name='Knuth')
+  myfunction('van Rossum', id=10, type='programmer')
   ```
   
+A parameter of the form ```*args``` receives a tuple while ```**kwargs``` receives a dictionary. Note that if both exist, ```**kwargs``` should follow ```*args```. Also, keywords become the keys of the dictionary.
 
-
-
-
-
-
+```python
+  def insert_data(name, *marks, **grades):
+    print(name)
+    print(marks)
+    print(grades)
+    
+  insert_data('John',
+  						83, 77, 80,
+  						algorithms='A', topology='B', electrodynamics='A')
   
- 
- 
+  # this becomes
+  # name = 'John'
+  # marks = (83, 77, 80)
+  # grades = {'algorithms':'A', 'topology':'B', 'electrodynamics':'A'}
+  ```
+
+### Parameters list
+
+One can specify only positional arguments, standard (either positional or keyword) and only keyword argumements in the parameters list. The general form of the parameters list look something like this:
+
+```
+  def f(pos_only, /, pos_or_kw, *, kw_only)
+  ```
   
+pos_only arguments cannot receive keyword arguments and so on. If there is no ```/``` and ```*```, the arguments are standard (either positional or keyword).
+
+```
+  python
+  def get_info(name, /, age, *, weight):
+    print(name, age, height, sep=' ')
   
-  
+  # possible function calls
+  get_info('Tom', 24, weight=76)
+  get_info('Tom', age=24, weight=76)
+
+	# some ways to write parameters list
+	def get_info(name, /) # receive pos_only arguments
+	def get_info(*, weight) # receive kw_only arguments
+	```
