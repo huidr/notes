@@ -22,7 +22,7 @@ In interactive mode, the last printed expression is assigned to the variable _
   a ** b; # a to the power b
   ```
   
-## Strings and lists.
+## Strings and lists
 
 ```python
 	# raw string
@@ -216,3 +216,75 @@ pos_only arguments cannot receive keyword arguments and so on. If there is no ``
   def get_info(name, /) # receive pos_only arguments
   def get_info(*, weight) # receive kw_only arguments
   ```
+
+Dictionaries can deliver keyword arguments with the ```**```-operator.
+
+```python
+  def f(name, weight=50, beverage='beer'):
+    print(f'{name} weighs {weight} kilos and drinks {beverage}.')
+  
+  d = {'name':'Robert', 'weight':58, 'beverage':'vodka'}
+  
+  # then call the function this way
+  f(**d)
+  ```
+### Lambdas
+
+Lambda functions can take any number of arguments but can only have one expression.
+
+```python
+  f = lambda x, y : x ** y
+  
+  print(f(2,4)) # 2 to the power 4
+  ```
+Lambdas are better used inside function definitions when an anonymous function is required for a short period of time.
+
+## Data Structures
+
+### Lists
+
+The following are some common list methods.
+
+```python
+  list.append(x)
+  list.extend(iterable)
+  list.insert(index, x)
+  list.remove(x) # removes first occurrence of x, returns ValueError if not found
+  list.pop([index]) # returns the popped off item
+  list.clear()
+  list.index(x [, start[, stop]]) # finds the index of x searching in list[start:stop]
+  list.count(x)
+  list.sort(*, key=None, reverse=False)
+  list.reverse()
+  list.copy() # returns a copy of the list
+  ```
+
+Lists can be used as **stacks** &mdash; use ```list.append()``` and ```list.pop()``` to add/remove items at the top of the stack. Although lists can be used as **queues** as well, it is not recommended as performing inserts/pops from the beginning of a list is slow (as it involves shifting of all other elements by one) &mdash for this purpose, use ```collections.deque``` which was designed to have fast appends/pops from both ends.
+
+```python
+  from collections import deque
+  queue = deque(['Newton', 'Maxwell', 'Einstein'])
+  queue.append('Dirac')
+  queue.popleft()
+  
+  # can be used as stack as well
+  queue.pop()
+  ```
+
+List comprehensions provide a concise way to create lists and other data structures. The following are some examples.
+
+```python
+  pairs = [(x, y) for x in [2, 3, 7] for y in [1, 3, 4] if x != y]
+  # [(2, 1), (2, 3), (2, 4), (3, 1), (3, 4), (7, 1), (7, 3), (7, 4)]
+  
+  old_names = ['  time', 'money  ', ' skill ']
+  new_names = [x.strip() for x in old_names]
+  # new_names = ['time', 'money', 'skill']
+  
+  vec = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+  flattened_list = [item for elem in vec item in elem]
+  # flattened_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  
+  
+  
+
