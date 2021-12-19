@@ -184,8 +184,8 @@ A parameter of the form ```*args``` receives a tuple while ```**kwargs``` receiv
     print(grades)
     
   insert_data('John',
-  						83, 77, 80,
-  						algorithms='A', topology='B', electrodynamics='A')
+	83, 77, 80,
+ 	algorithms='A', topology='B', electrodynamics='A')
   
   # this becomes
   # name = 'John'
