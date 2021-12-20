@@ -1,6 +1,8 @@
 
 # Fundamentals
 
+### Variables
+
 ```python
 # multiple assignment
 a, b = 0, 1 
@@ -8,7 +10,7 @@ a, b = 0, 1
   
 In multiple assignment, the expressions on the right-hand side are all evaluated ﬁrst before any of the assignments take place. The right-hand side expressions are evaluated from the left to the right.
 
-## Arithmetic
+### Arithmetic
 
 In interactive mode, the last printed expression is assigned to the variable _
 
@@ -22,7 +24,7 @@ a % b;
 a ** b; # a to the power b
 ```
   
-## Strings and lists
+## Strings
 
 ```python
 # raw string
@@ -155,7 +157,7 @@ print(f(2)) # [1, 2]
 print(f(3)) # [1, 2, 3]
 ```
 
-### Keyword arguments
+### ```*args``` and ```**kwargs```
 
 Keyword arguments must follow positional arguments (if any) in function call arguments list.
 
