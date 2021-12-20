@@ -116,8 +116,66 @@ outer()
 # x = 2
 ```
 
+### Higher-order functions
+
+Almost everything in Python is an object, i.e., it is an subclass or an instance of a subclass of the ```Object``` class. Hence, functions are also objects and they can be passed as arguments to other functions or returned from other functions.
+
+```python
+def f(text):
+  return text.upper()
+  
+def g(text):
+  return text.lower()
+
+# function as a parameter
+def h(func, text):
+  s = func(text)
+  print(s)
+  
+# function as arguments
+h(f, 'Python') # PYTHON
+h(g, 'JavaScript') # javascript
+```
+
+The following are also possible.
+
+1. Assign the function to a variable.
+2. Use ```del``` to delete functions.
+3. Functions can be stored in lists, etc.
+
+```python
+def f(n):
+  i = 2
+  a = []
+  def g(x):
+    return x*i
+  while (i<=n):
+  
+    # store functins in a list
+    a.append(g)
+    i += 1
+    
+  # return a list of functions
+  return a
+
+# assign the function to a variable
+h = f
+
+# h and f are two references to the function
+# let's delete f and work with h
+del f
+
+# unpack the functions
+x, y, z = h(4)
+
+# all are multipliers of 5
+x(5) # 25
+y(7) # 35
+z(9) # 45
+```
+
 ### Decorators
 
+Decorators are the most common use of higher-order functions.
 
-   
-  
+
