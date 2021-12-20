@@ -283,6 +283,32 @@ adder(1, 2, 3)
 adder = second_decorator(first_decorator(adder))
 ```
 
+One can pass arguments to the decorator itself. To achieve this, define a decorator maker that accepts arguments then define a decorator inside it.
+
+```python
+def decorator_maker(dec_arg_1, dec_arg_2):
+  def decorator(func):
+    def inner(*args, **kwargs):
+      print('I am the inner function')
+      print(dec_arg1, dec_arg_2)
+      return func(*args, **kwargs)
+    
+    return inner
+  return decorator
+
+@decorator_maker(4, 8)
+def f():
+  return 'I want to get decorated'
+
+f()
+# I am the inner function
+# 4 8
+# 'I want to get decorated'
+```
+
+The inner() function hides the metadata of the orginal function 
+
+
 
 
 
