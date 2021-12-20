@@ -176,6 +176,67 @@ z(9) # 45
 
 ### Decorators
 
-Decorators are the most common use of higher-order functions.
+Decorators are the most common use of higher-order functions. They take in functions (as arguments), add functionality (decorate) and return it.
 
+```python
+def decorate(f):
+  def inner():
+    print("Just got decorated.")
+    f()
+  return inner
+
+def g():
+  print("I am just a function")
+
+# send g to decorate()
+# h is also a closure function
+h = decorate(g)
+
+g()
+# I am just a function
+
+h()
+# Just got decorated
+# I am just a function
+```
+
+In the above, one could have written:
+
+```python
+g = decorate(g)
+```
+
+The function g just got upgraded (or decorated). This is exactly what a decorator is. Python has a special syntax for this.
+
+```python
+@decorate
+def g():
+  print('I am just a function')
+
+# above code is equivalent to the following
+def g():
+  print('I am just a function')
+g = decorate(g)
+```
+
+Parametrized functions can be decorated like the following:
+
+```python
+def smart_divider(f):
+  def inner(a, b):
+    if b == 0:
+      print("Can't divide by zero.")
+      return
+    return f(a, b)
+  return inner
+  
+@smart_divider
+def divider(x, y):
+  return x/y
+  
+divider(4, 2) # 2.0
+
+divider(4, 0)
+# Can't divide by zero.
+```
 
