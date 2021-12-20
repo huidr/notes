@@ -240,3 +240,46 @@ divider(4, 0)
 # Can't divide by zero.
 ```
 
+Parameters of the nested inner() function inside the decorator is the same as the parameters of functions it decorates. A general decorator can be made using ```*args``` (which accepts tuple of positional arguments) and ```**kwargs``` (which accepts dictionary of keyword arguments).
+
+```python
+def decorate(f):
+  def inner(*args, **kwargs):
+    print('I can decorate any function')
+    return f(*args, **kwargs)
+  return inner
+```
+
+Decorators can also be chained. One can decorate functions with same or different decorators many times.
+
+```python
+def first_decorator(f):
+  def inner(*args, **kwargs):
+    print('I am first decorator')
+    return f(*args, **kwargs)
+  return inner
+  
+def second_decorator(f):
+  def inner(*args, **kwargs):
+    print('I am second decorator')
+    return f(*args, **kwargs)
+  return inner
+
+@second_decorator
+@first_decorator
+def adder(*args):
+  return sum(args)
+
+adder(1, 2, 3)
+# I am second decorator
+# I am first decorator
+# 6
+
+# an equivalent way of decorating
+adder = second_decorator(first_decorator(adder))
+```
+
+
+
+
+
