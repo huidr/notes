@@ -283,13 +283,15 @@ adder(1, 2, 3)
 adder = second_decorator(first_decorator(adder))
 ```
 
-One can pass arguments to the decorator itself. To achieve this, define a decorator maker that accepts arguments then define a decorator inside it. Henceforth, we replace ```inner()``` by ```wrapper()``` because it wraps around the orginal function, decorating it.
+One can pass arguments to the decorator itself. To achieve this, define a decorator maker that accepts arguments then define a decorator inside it. Henceforth, we replace inner() by wrapper() because it wraps around the orginal function, decorating it.
 
 ```python
 def decorator_maker(dec_arg_1, dec_arg_2):
   def decorator(func):
     def wrapper(*args, **kwargs):
-      print('I am the inner function')
+      ''' I am wrapper '''
+    
+      print('I am the wrapper function')
       print(dec_arg1, dec_arg_2)
       return func(*args, **kwargs)
     
@@ -298,15 +300,46 @@ def decorator_maker(dec_arg_1, dec_arg_2):
 
 @decorator_maker(4, 8)
 def f():
+  ''' I am f '''
   return 'I want to get decorated'
 
 f()
-# I am the inner function
+# I am the wrapper function
 # 4 8
 # 'I want to get decorated'
 ```
 
-The wrapper() function hides the metadata of the orginal (undecorated) function. In trying to get metadata of the undecorated function, you get the metadata of the wrapper() function instead which might be frustrating during debugging process. Python offers ```functools.wraps``` decorator which copies the lost metadata from the undecorated function to the decorated closure.
+In trying to get metadata of the undecorated function, you get the metadata of the wrapper() function instead which might be frustrating during debugging process. Python offers ```functools.wraps``` decorator which copies the lost metadata from the undecorated function to the decorated closure.
+
+```python
+# try to get metadata of f
+f.__name__ # 'wrapper'
+f.__doc__ # ' I am wrapper '
+
+# the metadata of f() is hidden or overriden by wrapper()
+
+import functools
+
+def decorator(func):
+  @functools.wraps(func)
+  def wrapper():
+    ''' I am wrapper '''
+    
+    return func().upper()
+  return wrapper
+
+@decorator
+def printer():
+  ''' I am printer '''
+  
+  return 'Python'
+  
+# check metadata
+printer.__name__ # printer
+printer.__doc__ # I am printer
+```
+
+### @property
 
 
 
