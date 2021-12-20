@@ -1,4 +1,4 @@
-# Python CheatSheet
+# Python Walkthrough
 
 Compiled and edited by Ronald Mangang.
 
