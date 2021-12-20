@@ -228,6 +228,7 @@ def smart_divider(f):
       print("Can't divide by zero.")
       return
     return f(a, b)
+    
   return inner
   
 @smart_divider
@@ -247,6 +248,7 @@ def decorate(f):
   def inner(*args, **kwargs):
     print('I can decorate any function')
     return f(*args, **kwargs)
+    
   return inner
 ```
 
@@ -257,12 +259,14 @@ def first_decorator(f):
   def inner(*args, **kwargs):
     print('I am first decorator')
     return f(*args, **kwargs)
+    
   return inner
   
 def second_decorator(f):
   def inner(*args, **kwargs):
     print('I am second decorator')
     return f(*args, **kwargs)
+    
   return inner
 
 @second_decorator
