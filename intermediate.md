@@ -341,10 +341,77 @@ printer.__doc__ # I am printer
 
 ### ```@property``` decorator
 
+Python offers ```property()``` which is used to create property of a class. It has the following syntax.
 
+```python
+property(getter=None, setter=None, deleter=None, doc=None)
 
+# getter() – used to get the value of attribute
+# setter() – used to set the value of attribute
+# deleter() – used to delete the attribute value
+# doc() – string that contains the documentation (docstring) for the attribute
+```
 
+If doc isn’t provided, property() takes the docstring of getter().
 
+```python
+class Person:
+  def __init__(self, val = 0):
+    self.age = val
+  
+  # getter
+  def getter(self):
+    return self._age
+    
+  # setter
+  def setter(self, val):
+    if val < 0:
+      raise ValueError('Age cannot be negative.')
+    
+    # note the use of private variable
+    self._age = val
+  
+  # give age a property from getter, setter
+  age = property(getter, setter)
+
+p = Person(-4) # ValueError: Age cannot be negative
+p = Person(24) # okay
+p.age = -12 # ValueError: Age cannot be negative
+
+# comment the line where we used property(), then try the following
+p.age = -12 # okay
+p.__dict__ # {'age': -12}
+
+# uncomment the line where we used property(), then try the following
+p.age = 26
+p.__dict__ # {'_age': 26}
+
+# interesting, when we modified age, it reflects on _age and __dict__ shows only _age as attribute
+```
+
+In short, the attribute age has gained some properties from getter, setter functions. Any code that retrieves the value of *age* automatically calls getter() instead of a dictionary (__dict__) look-up. Any code that assigns a value to *age* automatically calls setter().
+
+Also, the actual age value is stored in the private *_age* variable. The age attribute is just a property object which provides an interface to this private variable.
+
+Python offers ```@property``` decorator as a syntactic sugar for ```property()```.
+
+```python
+class Person:
+  def __init__(self, val = 0):
+    self.age = val
+    
+  @property
+  def age(self):
+    return self._age
+  
+  @age.setter
+  def age(self, val):
+    if val < 0:
+      raise ValueError('Negative value is illegal')
+    self._age = val
+```
+
+This code has the same functionality as the one we wrote using property().
 
 ### RegEx
 
