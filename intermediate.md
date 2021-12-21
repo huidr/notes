@@ -339,7 +339,7 @@ printer.__name__ # printer
 printer.__doc__ # I am printer
 ```
 
-### ```python @property```
+### ```@property``` decorator
 
 
 
