@@ -341,7 +341,7 @@ printer.__doc__ # I am printer
 
 ### @property
 
-@mdash will come back later @mdash
+@mdash will come back later @mdash;
 
 ### RegEx
 
