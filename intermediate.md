@@ -419,7 +419,14 @@ Python has ```re``` module to work with regular expressions. The following is a 
 
 | Expression | Meaning | Examples |
 | :---       | :---    | :---     |
-| \[abc]     | match any a or b or c | a, b, c |
+| \[abc]     | any a or b or c |  |
+| \[a-e]     | \[abcde] |   |
+| \[1-39]    | \[1239] |   |
+| \[^abc]    | any character except a or b or c |  |
+| .          | any single character except \n |   |
+| ^a         | start with a? |  ab, ash |
+| ^a3        | start with a3? | a3b, a347 |
+
 
 
 ### Concurrent programming
