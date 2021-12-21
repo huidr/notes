@@ -415,7 +415,12 @@ This code has the same functionality as the one we wrote using property().
 
 ### RegEx
 
-&mdash; will come back later &mdash;
+Python has ```re``` module to work with regular expressions. The following is a small recap about RegEx.
+
+| Expression | Meaning | Examples |
+| :---       | :---    | :---     |
+| \[abc]     | match any a or b or c | a, b, c |
+
 
 ### Concurrent programming
 
