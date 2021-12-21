@@ -341,6 +341,121 @@ printer.__doc__ # I am printer
 
 ### @property
 
+&mdash will come back later &mdash
+
+### RegEx
+
+&mdash will come back later &mdash
+
+### Concurrent programming
+
+A process can broken down into threads and each thread can be run by different cores (of a multi-processor) simultaneously, thus reducing the time spent in solving the problem. This is called threading. In Python, Global Interpreter Lock (```GIL```) allows only one thread to hold the control of the Python interpreter. This means you can execute only one thread at a given time. Thus, there is no true threading in Python.
+
+Despite there is no true threading in Python, there is ```threading``` library which allows you to use threads. Let's explore this.
+
+```python
+import threading
+import time
+
+def f():
+  for i in range(10000000):
+    pass
+
+def g():
+  # start time
+  t = time.time()
+  f()
+  f()
+  # stop time
+  s = time.time()
+  
+  # return execution time
+  return s - t
+  
+# use threading
+def h():
+  t = time.time()
+  
+  # create two threads
+  thread_1 = threading.Thread(target = f)
+  thread_2 = threading.Thread(target = f)
+  
+  # start threads
+  thread_1.start()
+  thread_2.start()
+  
+  # ensure that threads have been terminated
+  thread_1.join()
+  thread_2.join()
+  
+  s = time.time()
+  
+  # return execution time
+  return s - t
+
+# without threading
+g()
+
+# with threading
+h()
+```
+
+Funnily enough, threading might actually consume more execution time than without threading. In fact, in many cases it actually slows down execution rather than speed it up. However if the code includes I/O operations, file operations or user interaction, threading can actually be very beneficial.
+
+### Parallel programming
+
+Instead of ```threading```, one can use ```multiprocessing``` to break the program into processes rather than threads. Since processes are not constrained by GIL, multiple cores can be used for multiple processes at a given time. The syntax is very similar.
+
+```python
+import multiprocessing
+import time
+
+def f():
+  for i in range(10000000):
+    pass
+    
+def g():
+  t = time.time()
+  
+  # execute f four times
+  for i in range(4):
+    f()
+    
+  s = time.time()
+  return s - t
+  
+def h():
+  t = time.time()
+  
+  # create four processes
+  proc_1 = multiprocessing.Process(target = f)
+  proc_2 = multiprocessing.Process(target = f)
+  proc_3 = multiprocessing.Process(target = f)
+  proc_4 = multiprocessing.Process(target = f)
+
+  # start processes
+  proc_1.start()
+  proc_2.start()
+  proc_3.start()
+  proc_4.start()
+  
+  # block the execution of the processes until they terminate 
+  proc_1.join()
+  proc_2.join()
+  proc_3.join()
+  proc_4.join()
+
+  s = time.time()
+  return s - t
+
+# without multiprocessing
+g()
+
+# with multiprocessing
+h()
+```
+
+In the above case, multiprocessing significantly speeds up execution time. In general, use multiprocessing on computationally intensive code and threading on code which relies on I/O, file operations and user interactions.
 
 
 
