@@ -430,12 +430,26 @@ re.match('^p.*t+hon$', 'python')
 re.findall('\d+', 'I am 18, weighs 64 kgs and 6 ft tall.') # ['18', '64', '6']
 re.findall('\bse', 'Twenty seconds ago, I set the timer.') # []
 re.findall('[bc].r', 'I took the car to the bar') # ['car', 'bar']
+re.findall('a{1,2}', 'It was my cat') # ['a', 'a']
+re.findall('a*j', 'I love jazz') # ['j']
 
+# split the string where there is a match and return a list of strings where the splits have occurred.
+re.split('\d+', 'I am 18, weighs 64 kgs and 6 ft tall.') # ['I am ', ', weights ', ' kgs and ', ' ft tall.']
+re.split('\bse', 'Twenty seconds ago, I set the timer.') # ['Twenty seconds ago, I set the timer.']
+re.split('[bc].r', 'I took the car to the bar') # ['I took the ', ' to the ', '']
+re.split('a{1,2}', 'It was my cat') # ['It w', 's my c', 't']
+re.split('a*j', 'I love jazz') # ['I love ', 'azz']
 
+# some other methods
 
+# return a string where matched occurrences are replaced with the content of replace variable
+re.sub(pattern, replace, string)
+
+# look for the first location where the RegEx pattern produces a match with the string
+re.search(pattern, str)
 ```
 
-
+See ```re``` library for more functionality.
 
 ### Concurrent programming
 
@@ -546,6 +560,9 @@ h()
 ```
 
 In the above case, multiprocessing significantly speeds up execution time. In general, use multiprocessing on computationally intensive code and threading on code which relies on I/O, file operations and user interactions.
+
+### Metaprogramming
+
 
 
 
