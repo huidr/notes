@@ -415,17 +415,25 @@ This code has the same functionality as the one we wrote using property().
 
 ### RegEx
 
-Python has ```re``` module to work with regular expressions. The following is a small recap about RegEx.
+Python has ```re``` module to work with regular expressions. See [regex101](https://regex101.com/) for building, testing, debugging regular expressions.
 
-| Expression | Meaning | Examples |
-| :---       | :---    | :---     |
-| \[abc]     | any a or b or c |  |
-| \[a-e]     | \[abcde] |   |
-| \[1-39]    | \[1239] |   |
-| \[^abc]    | any character except a or b or c |  |
-| .          | any single character except \n |   |
-| ^a         | start with a? |  ab, ash |
-| ^a3        | start with a3? | a3b, a347 |
+```python
+# match a RegEx against a string
+# returns a re.Match object if matching is found, else returns None
+re.match('^a.[s].k*t$', 'apsyt') # match = 'apsyt'
+re.match('\bfoot[pqr]', 'footr') # None
+re.match('a+j?s{1,2}', 'aaajssh') # match = 'aaajss'
+re.match('^p.*{tyz}h?(k|o)n', 'python') # None
+re.match('^p.*t+hon$', 'python')
+
+# find all matches and return a list
+re.findall('\d+', 'I am 18, weighs 64 kgs and 6 ft tall.') # ['18', '64', '6']
+re.findall('\bse', 'Twenty seconds ago, I set the timer.') # []
+re.findall('[bc].r', 'I took the car to the bar') # ['car', 'bar']
+
+
+
+```
 
 
 
