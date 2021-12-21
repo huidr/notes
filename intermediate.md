@@ -389,7 +389,7 @@ p.__dict__ # {'_age': 26}
 # interesting, when we modified age, it reflects on _age and __dict__ shows only _age as attribute
 ```
 
-In short, the attribute age has gained some properties from getter, setter functions. Any code that retrieves the value of *age* automatically calls getter() instead of a dictionary (__dict__) look-up. Any code that assigns a value to *age* automatically calls setter().
+In short, the attribute age has gained some properties from getter, setter functions. Any code that retrieves the value of *age* automatically calls getter() instead of a dictionary (```__dict__```) look-up. Any code that assigns a value to *age* automatically calls setter().
 
 Also, the actual age value is stored in the private *_age* variable. The age attribute is just a property object which provides an interface to this private variable.
 
