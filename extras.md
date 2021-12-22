@@ -32,3 +32,20 @@ An object’s mutability is determined by its type; e.g., numbers, strings and t
 
 The built-in function ```ord()``` converts a code point from its string form to an integer in the range 0 - 10FFFF; ```chr()``` converts an integer in the range 0 - 10FFFF to the corresponding length 1 string object. ```str.encode()``` can be used to convert a str to bytes using the given text encoding, and ```bytes.decode()``` can be used to achieve the opposite.
 
+A function has the following special attributes:
+
+```python
+__doc__ # docstring, not inherited by subclasses
+__name__ # function's name
+__qualname__ # function's qualified name
+__module__ # name of the module where the function is defined in
+__defaults__ # tuple containing default argument values
+__code__ # code object representing the compiled function body
+__dict__ # namespace supporting arbitrary function attributes
+__closure__ # None or a tuple of cells that contain bindings for the function’s free variables
+__kwdefaults__ # dict containing defaults for keyword-only parameters
+```
+
+
+
+
