@@ -561,6 +561,77 @@ h()
 
 In the above case, multiprocessing significantly speeds up execution time. In general, use multiprocessing on computationally intensive code and threading on code which relies on I/O, file operations and user interactions.
 
+Each process is independent and has its own memory space.
+
+```python
+import os
+import multiprocessing
+
+lst = []
+
+def f(nums):
+  global lst
+  for i in nums:
+    lst.append(i)
+  print('lst =', lst)
+  
+  # os.getpid() returns the process ID of the process running this code
+  print(os.getpid())
+
+nums = [2, 4, 6, 8]
+proc_1 = multiprocessing.Process(target = f, args = (nums, ))
+proc_1.start()
+
+# lst = [2, 4, 6, 8]
+# 4859 (this is PID, might be different on another run)
+
+print(lst) # []
+os.getpid() # 4842
+
+# lst in main process is not affected by what happens in process 1
+```
+
+Sometimes you may need the processes to communicate or have shared memory. For this, ```multiprocessing``` provides ```Array``` and ```Value``` objects.
+
+```python
+import os, multiprocessing
+
+def f(lst, val):
+  for i, v in enumerate([2, 4, 6, 8]):
+    
+    # cannot use append method (why?)
+    lst[i] = v
+  
+  # you need [:] operator to convert it into normal list form
+  # you need value method of Value class to access or assign values
+  val.value = sum(lst[:])
+  print ('lst = ', lst[:])
+  print ('sum = ', val.value)
+  
+# lst should hold 4 'i'nteger values 
+lst = multiprocessing.Array('i', 4)
+
+# val should hold integer value
+val = multiprocessing.Value('i')
+
+# you can give initial value as
+val = multiprocessing.Value('i', 0)
+
+# you should give the Array and Value objects as arguments
+proc_1 = multiprocessing.Process(target = f, args = (lst, val))
+
+proc_1.start()
+# lst = [2, 4, 6, 8]
+# sum = 20
+
+# changes are reflected in the main process
+print(lst[:]) # [2, 4, 6, 8]
+print(val.value) # 20
+```
+
+
+
+
 ### Metaprogramming
 
 
