@@ -347,7 +347,12 @@ u = vowels ^ letters
 # set comprehensions
 a = {x for x in 'python' if x not in 'javascript'}
 ```
-  
+
+Sets can be iterated over. Common uses for sets are fast membership testing, removing duplicates from a sequence, and computing
+mathematical operations such as intersection, union, diﬀerence, and symmetric diﬀerence.
+
+Frozen sets represent an immutable sets and are created by the built-in ```frozenset()``` constructor.
+
 ### Dictionaries
 
 A dictionary is just a set of *key: value* pairs where *value* can be almost any Python object while *key* must be immutable (strings, numbers or tuples that do not contain mutable objects directly or indirectly).
@@ -381,6 +386,8 @@ d = dict([(1, 1), (2, 4), (3, 9)])
 # if keys are simple strings
 d = dict(jack = 24, jill = 36)
 ```
+  
+Dictionaries preserve insertion order. Replacing an existing key does not change the order, however removing a key and re-inserting it will add it to the end instead of keeping its old place.
   
 ### Looping techniques
 
