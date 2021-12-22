@@ -837,6 +837,24 @@ date.month = 'December'
 date.year = 2021
 ```
 
+A class has a namespace implemented by a dictionary object. Class attribute references are translated to lookups in this dictionary, e.g., C.x is translated to C.```__dict__```\["x"].
+
+The following are some special attributes of a class:
+
+```python
+__name__ # class name
+__module__ # module name in which the class is defined
+__dict__ # dictionary containing the class's namespace
+__bases__ # tuple containing the base classes
+__doc__ # docstring
+```
+
+Attribute assignments and deletions update the instance’s dictionary, never a class’s dictionary.
+
+For an object, ```__dict__``` is the attribute dictionary; ```__class__``` is the instance’s class.
+
+
+
 ### Inheritance
 
 The syntax for derived class definition looks like:
@@ -952,3 +970,6 @@ sum(x*y for x,y in zip(xv, yv))
 
 unique_words = set(word for line in page for word in line.split())
 ```
+
+### Coroutine functions
+
