@@ -1,10 +1,22 @@
-# Favourite Songs
+## My List of Greatest Songs Ever Made
 
 - *Hound Dog* (1953) by Elvis Presley
 - *All My Loving* (1963) by The Beatles
 - *Blowin' in the Wind* (1963) by Bob Dylan
 - *Like a Rolling Stone* (1965) by Bob Dylan
+- *Yesterday* (1965) by The Beatles
+- *A Day in the Life* (1967) by The Beatles
 - *Suspicious Minds* (1968) by Elvis Presley
+- *Space Oddity* (1969) by David Bowie
+- *Imagine* (1971) by John Lennon
+- *Knockin' on Heaven's Door* (1973) by Bob Dylan
+- *No Woman No Cry* (1975) by Bob Marley and the Wailers
 - *Dancing Queen* (1976) by ABBA
 - *Hotel California* (1977) by Eagles
+- *Billie Jean* (1983) by Michael Jackson
+- *Purple Rain* (1984) by Prince
+- *When Doves Cry* (1984) by Prince
+- *One* (1991) by U2
+- *I Will Always Love You* (1992) by Whitney Houston
+- *Stan* (2000) by Eminem
 - *Lose Yourself* (2002) by Eminem
