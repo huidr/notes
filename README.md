@@ -1,6 +1,7 @@
 ## My List of Greatest Songs Ever Made
 
 - *Hound Dog* (1953) by Elvis Presley
+- *Jailhouse Rock* (1957) by Elvis Presley
 - *All My Loving* (1963) by The Beatles
 - *Blowin' in the Wind* (1963) by Bob Dylan
 - *Like a Rolling Stone* (1965) by Bob Dylan
