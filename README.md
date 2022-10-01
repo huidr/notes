@@ -11,6 +11,7 @@
 - *Hey Jude* (1968) by The Beatles
 - *Suspicious Minds* (1968) by Elvis Presley
 - *Space Oddity* (1969) by David Bowie
+- *Your Song* (1970) by Elton John
 - *Imagine* (1971) by John Lennon
 - *Knockin' on Heaven's Door* (1973) by Bob Dylan
 - *No Woman No Cry* (1975) by Bob Marley and the Wailers
