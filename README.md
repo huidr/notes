@@ -14,6 +14,7 @@
 - *Your Song* (1970) by Elton John
 - *Imagine* (1971) by John Lennon
 - *Knockin' on Heaven's Door* (1973) by Bob Dylan
+- *Bohemian Rhapsody* (1975) by Queen
 - *No Woman No Cry* (1975) by Bob Marley and the Wailers
 - *Dancing Queen* (1976) by ABBA
 - *Hotel California* (1977) by Eagles
