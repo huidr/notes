@@ -8,6 +8,7 @@
 - *Like a Rolling Stone* (1965) by Bob Dylan
 - *Yesterday* (1965) by The Beatles
 - *A Day in the Life* (1967) by The Beatles
+- *Hey Jude* (1968) by The Beatles
 - *Suspicious Minds* (1968) by Elvis Presley
 - *Space Oddity* (1969) by David Bowie
 - *Imagine* (1971) by John Lennon
