@@ -19,6 +19,7 @@
 - *No Woman No Cry* (1975) by Bob Marley and the Wailers
 - *Dancing Queen* (1976) by ABBA
 - *Hotel California* (1977) by Eagles
+- *Comfortably Numb* (1979) by Pink Floyd
 - *Billie Jean* (1983) by Michael Jackson
 - *Purple Rain* (1984) by Prince
 - *When Doves Cry* (1984) by Prince
