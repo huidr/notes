@@ -4,6 +4,7 @@
 - *Jailhouse Rock* (1957) by Elvis Presley
 - *All My Loving* (1963) by The Beatles
 - *Blowin' in the Wind* (1963) by Bob Dylan
+- *The Sound of Silence* (1964) by Simon & Garfunkel
 - *In My Life* (1965) by The Beatles
 - *Like a Rolling Stone* (1965) by Bob Dylan
 - *Yesterday* (1965) by The Beatles
