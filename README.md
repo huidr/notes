@@ -13,6 +13,7 @@
 - *Space Oddity* (1969) by David Bowie
 - *Your Song* (1970) by Elton John
 - *Imagine* (1971) by John Lennon
+- *Stairway to Heaven* (1971) by Led Zeppelin
 - *Knockin' on Heaven's Door* (1973) by Bob Dylan
 - *Bohemian Rhapsody* (1975) by Queen
 - *No Woman No Cry* (1975) by Bob Marley and the Wailers
