@@ -27,4 +27,6 @@
 
 ### Prehistory and Proto-history
 
-14. 
+14. Evidence of Old Stone Age confined to the hills, but New Stone Age relics all over hills and valley—Manipur appears to have received Brone Age culture from Thailand and upper Burma—evidence of pleistocene men in Manipur dating back to about 30,000 BC
+15. Tharon caves findings indicate Hoabinhian culture (of Southeast Asia, Vietnam), possibly of Proto-Austroloids occupying these caves before the advent of Tibeto-Burman speakers, proposed date 5000-4000 BC—
+16. 
