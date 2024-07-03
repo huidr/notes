@@ -5,6 +5,7 @@
 1. [Introductory: The Land and People](#introductory-the-land-and-people)
 2. [Sources of History](#sources-of-history)
 3. [Prehistory and Proto-history](#prehistory-and-proto-history)
+4. [Pakhangba and Foundation of Ningthouja Dynasty](#pakhangba-and-foundation-of-ningthouja-dynasty)
 
 ### Introductory: The Land and People
 
@@ -29,4 +30,12 @@
 
 14. Evidence of Old Stone Age confined to the hills, but New Stone Age relics all over hills and valley—Manipur appears to have received Brone Age culture from Thailand and upper Burma—evidence of pleistocene men in Manipur dating back to about 30,000 BC
 15. Tharon caves findings indicate Hoabinhian culture (of Southeast Asia, Vietnam), possibly of Proto-Austroloids occupying these caves before the advent of Tibeto-Burman speakers, proposed date 5000-4000 BC—
-16. 
+16. Napachik (hillock near a Meitei village at Wangoo) archaeological findings—materials dated 1450 BC found—modern pottery found, which has affinity with those of Neolithic culture of China—edge ground tools found, have affinity with those of caves of Thailand, Burma, Hoabinhian sites in Vietnam—tripod wares found, they are characteristic of Chinese neolithic culture
+17. Likely sequence of events as per Napachik findings: while a culture (Austroloid) having affinity to Hoabinhian continued, a full neolithic culture (Tibeto-Burman?) equipped with more advanced tools having affinity to Chinese neolithic culture arrived at Napachik around 2000-1000 BC—Tibeto-Burman Mongoloid settled around 1000 BC
+18. Myths abound concerning Meitei origins and early days—Atiya Sidaba, Leimarel Sidabi, Kuptreng (Sanamahi), Sentreng (Pakhangba) and many stories, versions surrounding them—King kangba; first recorded king (some sources say: Tangja Leela Pakhangba)—burial of the dead during King Tonkonba—continuation of long reign, then big flood in the valley, political vacuum till the emergence of Nongda Lairen Pakhangba
+
+### Pakhangba and Foundation of Ningthouja Dynasty
+
+19. 
+
+
