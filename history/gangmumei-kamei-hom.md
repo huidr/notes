@@ -2,9 +2,9 @@
 
 ### Contents
 
-1. [Introductory: The Land and People](introductory-the-land-and-people)
-2. [Sources of History](sources-of-history)
-3. [Prehistory and Proto-history](prehistory-and-proto-history)
+1. [Introductory: The Land and People](#introductory-the-land-and-people)
+2. [Sources of History](#sources-of-history)
+3. [Prehistory and Proto-history](#prehistory-and-proto-history)
 
 ### Introductory: The Land and People
 
