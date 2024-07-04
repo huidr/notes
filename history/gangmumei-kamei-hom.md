@@ -6,6 +6,7 @@
 2. [Sources of History](#sources-of-history)
 3. [Prehistory and Proto-history](#prehistory-and-proto-history)
 4. [Pakhangba and Foundation of Ningthouja Dynasty](#pakhangba-and-foundation-of-ningthouja-dynasty)
+5. [Evolution of the Meitei State](#evolution-of-the-meitei-state)
 
 ### Introductory: The Land and People
 
@@ -36,6 +37,9 @@
 
 ### Pakhangba and Foundation of Ningthouja Dynasty
 
-19. 
+19. Salai literally means ancestor-god of lineage (sa = sagei = lineage, lai = god)—clans were ethnic groups with own language/dialect and culture, occupying a territory
+20. Geographical distribution of clans—Luwang, capital at Koubru foothills and later at Lammangdong—Khuman (who lived together with Luwang), separated, went southeast, capital originally at Thoubal, later shifted to Meikoipung (near Mayang Imphal)—Angom, migrated from Ukhrul, later supported Pakhangba to be the ruler of Kangla—Khaba, once very powerful, ruled Kangla before Pakhangba (whom they defeated), later defeated by Pakhangba ascending the throne, then were reduced to a mere social group and merged with Nganbas to form Kha-Nganba—Heiren Khunjam, village level politics, existence and struggle against Meitei kings several centuries after Pakhangba, orginally inhabitated south of Kakching, east of Moirang; later absorbed into different Salais—Sarang-Leisangthem (Chengleis), old ethnic groups, their earliest chiefs also ruled from Kangla at some point
+21. Flood due to landslides caused by change of course of Leimatak?—valley people rushed to hills, some Angom became (merged with) Tangkhul?—when dried, people came down to the valley but no organised state at Kangla—political vacuum and anarchy; many ethnic groups struggled, sponsored candidates for throne of Kangla—Nongda Lairen Pakhangba emerged successful
+22. 
 
-
+### Evolution of the Meitei State
