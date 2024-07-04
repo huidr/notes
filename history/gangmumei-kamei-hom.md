@@ -7,6 +7,7 @@
 3. [Prehistory and Proto-history](#prehistory-and-proto-history)
 4. [Pakhangba and Foundation of Ningthouja Dynasty](#pakhangba-and-foundation-of-ningthouja-dynasty)
 5. [Evolution of the Meitei State](#evolution-of-the-meitei-state)
+6. [Regional Principalities](#regional-principalities)
 
 ### Introductory: The Land and People
 
@@ -47,4 +48,15 @@
 
 ### Evolution of the Meitei State
 
-26. 
+26. Khuiyoi Tompok (Pakhangba's son)—invention of drums, technical innovation in metallurgy
+27. Taothingmang (Tompok's younger son)—dredging of Imphal and Iril rivers, helped by his brother Yoimongba—conquered Lokkha-Haokha (near Sugnu), first contact between the Ningthouja and hillmen recorded in _Kumbaba_—more kings came...
+28. Naophangba—a religious leader from Bengal influenced him (the king) to adopt Hinduism?—stopped burial of the dead, introduced cremation, declared meat consumption taboo—but ultimately, king rejected the new religion?
+29. Naothingkhong, runaway prince who came back to ascend the throne (under his mother's pleas) after a political anarchy of 5 years—poorly equipped, surrendered to Shamlung (invader from Pong) who, unlike other Burmese conquerers, did not commit any atrocities in Manipur, rather lifted the society, introduced change in clothing and food habits (women were completely naked before?)
+30. Phayeng copper plate of King Khongtekcha—oldest Meitei script written inscribed inscription? deals with worship of Shiva and Devi by Khongtekcha—preachers of Hinduism must have been arriving in Manipur from time to time—mention of "Hari" implying worship of Vishnu—the authenticity of the finding doubtful, language adopted not as archaic as to be of 8th-cen AD—royalty did not embrace Vaishnavism before 18th-cen, but worship of Vishnu by Brahmin immigrants possibly existed in 15th-cen or before
+31. By 12th-cen AD, Meitei state had handicrafts, weaving, maibas (shamans), artisans—continued to have conflict with Khuman (over encroachments of territory during hunting?) , Moirang, raided small tribes—Shans invaded, defeated Khumans; Meitei king Khumomba (1263-78) defeated Shans on the bank of Ikop lake, first victory against foreign invasion?
+32. Ningthou Khomba (1432-67)—tricked Shans of Tamu, gained their support in his invasion of Moirang (first major defeat of Moirang), but Moirang continued to stay autonomous—his queen Linthoingambi outwitted the Tangkhuls who invaded Meitei in Khomba's absence, she raided/invaded and conquered several other tribes?—Kabaw Shans settled in valley, married Manipuri women, absorbed in Meitei society—Meitei, feudal system, almost a complete state except for Moirang's autonomy
+
+### Regional Principalities
+
+33. 
+
