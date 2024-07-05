@@ -7,6 +7,26 @@
 
 ### Inferno
 
+**Prelude to Hell** (Cantos I-III)
+
+**Circle I: Limbo** (Canto IV)
+
+**Circle II: Lust** (Canto V)
+
+**Circle III: Gluttony** (Canto VI)
+
+**Circle IV: Greed** (Canto VII)
+
+**Circle V: Wrath** (Cantos VII-IX)
+
+**Circle VI: Heresy** (Cantos X-XI)
+
+**Circle VII: Violence** (Cantos XII-XVII)
+
+**Circle VIII: Fraud** (Cantos XVIII-XXXI)
+
+**Circle IX: Treachery** (Cantos XXXII-XXXIV)
+
 ### Purgatorio
 
 Dante and Virgil climb the Mount Purgatory in the southern hemisphere. "The poem posits the theory that all sins arise from love – either perverted love directed towards others' harm, or deficient love, or the disordered or excessive love of good things."
