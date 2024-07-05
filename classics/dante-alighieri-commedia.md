@@ -16,4 +16,5 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 **Ante-Purgatory: The Excommunicate** (Cantos I-)
 
 1. Meets Cato (general guardian); an old stern man?—Angel Boatman carrying souls; Dante recognizes Casella (friend and musician), embraces him but grasps only air—Caella sings to comfort Dante; Cato urges the group to be on their way
-
+2. Not seeing Virgil's shadow, Dante panics fearing he has lost his guide; Virgil reassures him, explains spirits don't have bodies, hence no shadows—Tribe of souls; poets ask for advice; awed by Dante's shadow; one soul is King Manfred of Sicily who repented his sins at his death, explains that those waiting outside the mountain are souls excommunicated by the Church during their lifetimes, they must serve additional sentence before purgatory climb
+3. 
