@@ -8,6 +8,7 @@
 4. [Pakhangba and Foundation of Ningthouja Dynasty](#pakhangba-and-foundation-of-ningthouja-dynasty)
 5. [Evolution of the Meitei State](#evolution-of-the-meitei-state)
 6. [Regional Principalities](#regional-principalities)
+7. [Expansion of the Kingdom of Manipur: Kyamba to Paikhomba](#expansion-of-the-kingdom-of-manipur-kyamba-to-paikhomba)
 
 ### Introductory: The Land and People
 
@@ -58,5 +59,14 @@
 
 ### Regional Principalities
 
-33. 
+33. Seven-clan system not yet established during Pakhangba's time, possibly many clans, groups, tribes—Khabas, who ruled at Kangla before Pakhangba, had been defeated—Pakhangba gained the support of Luwang, Angom—Chengleis, Heiren Khunjan, Chakpa, Mangang had village level chiefdoms, foreign-sponsored Bangal (Mayang?) principality at Lammangdong?
+34. Khabas rebelled (attacked) against Pakhangba, who fled to Moirang; Khaba (oppressively) ruled Kangla again for some time, the people were unhappy—Pakhangba, with Moirang's help, drove out Khabas who fled to hills (scattered all over) and became hillmen, regained throne—Pakhangba and wife Laisna lived in constant fear of Khaba rebels; later when Pakhangba was killed by Khabas, Laisna fled and lived among Shelloi Langmais—Khaba could not capture political power, were later blended into a single clan Kha-Nganba after Naothingkhong's reign?
+35. Luwang (Poirei village?) supposedly founded by Poireiton who settled down with Luwangs after his colonizing adventure?—splitted into Luwang proper and Khumans—Luwang are peaceful group, supported Pakhangba, maintained good relations with Ningthouja dynasty (despite some conflicts?), deplomacy enabled them to maintain autonomy—Luwang Punshiba, compemporary of Meitei king Ura Konthouba (Naothingkhong's father), introduced boat making?, boat races, horse training, new learning period, scholarship
+36. Angom: a common name for several tribes, migrated from the Ukrhul hills—Puleiromba (chief, progenitor of Angom?) supported Pakhangba for the throne—matrimonial relations with Ningthouja dynasty, feeding brides and queens—occasional conflicts with Meitei and other tribes occured
+37. Khumans splitted two generations after Poireiton (depicted as progenitor of both Luwang and Khuman), came to known as Khumans after they moved to the east of Loktak?—had matrimonial alliance with Ningthouja, but numerous conflicts too, mostly defeats—later absorbed into Meitei, ceased to have political power but remained a clan
+38. Heirem-Khunjans, once very powerful ethnic group, maintaned autonomy for a long time—settled around Kakching, had conflicts with Khuman, Meitei and Moirang—at one point, Khuman needed Ningthouja's assistance to subdue Heirem-Khanjans?—later absorbed into Meitei
+39. Moirang (founded by Thangjing Koirel Lai?)—origins: Ngangoi, Kege and Moirang were different principalities, ethnic groups; Keges ruled first? attacked but defeated by Meitei (Khongtekcha); Moirangs (Tibeto-Burman speakers from upper Burma?) later came down from hlls, merged with Keges who were scattered and chief-less?—powerful and great geographic extent, had conficts with Meitei, Khuman, Burmese and other tribes—Sanahongba (Moirang king) was defeated by Meitei in 1432 AD (the end of independence)—after 1432 AD, no king for Moirang for 24 years, Ningthou Khomba sent his younger brother to be king of Moirang but failed due to resistance from Moirang people—absorbed into Meitei (completing Manipur state?) but maintained cultural identity, still continued to have their own kings—Khellei Nungnang Telheiba (1743-67), Moirang king, revolted against Manipur king, had capital at Kwakta, taking advantage of Burmese invasion and with their help, he became Manipur king
 
+### Expansion of the Kingdom of Manipur: Kyamba to Paikhomba
+
+40. 
