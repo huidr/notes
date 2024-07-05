@@ -9,6 +9,7 @@
 5. [Evolution of the Meitei State](#evolution-of-the-meitei-state)
 6. [Regional Principalities](#regional-principalities)
 7. [Expansion of the Kingdom of Manipur: Kyamba to Paikhomba](#expansion-of-the-kingdom-of-manipur-kyamba-to-paikhomba)
+8. [The Zenith and the Decline: 1697-1826](#the-zenith-and-the-decline-1697-1826)
 
 ### Introductory: The Land and People
 
@@ -75,5 +76,10 @@
 43. Kyamba's reign saw surge in Brahmin immigration and Vishnu worship—Brahmins employed to look after Hindu temples, astrologers; non-Brahmin Hindu migrants were the Lairikyengbams empolyed as royal scribes; ancestors of Meitei Brahmins came during Kyamba's time; more Shans absorbed—legend of Pong king giving a Vishnu statue to Kyamba—Kyamba built a Vishnu temple at Lamangdong? the architecture similar to Burmese pagoda style
 44. Mungyamba (after some weak post-Kyamba rulers who lost control over Kabaw Valley?) conquered some principalities in Kabaw Valley, consolidated western, south-eastern and southern hills—boat race became annual festive, granaries established, Ametpa Loishang (medical department) established—gave his son Khagemba proper training in warfare, statecraft, religion, diplomacy and use of Arambai (weapon)
 45. Khagemba (1597-1652) ascended throne at age 24, fully matured and trained, original name: Sana Hihouhan Poirei Ningthouhanba—conquered Chinese (Khagi), hence known as Khegemba (Khagi + Ngamba), maintained political control over Kabaw Valley, defended Manipur from Burmese invasions and Kachari-Muslim invasion, defeated Tripuris—control over hill tribes and most tribes of valley; Moirang ceased to be autonomous principality; no Meitei king made as big a military conquest; biggest political and geographic extent yet
-46. Kachari-Muslim invasion 1606 AD—dispute over boat among Khagemba's brothers; Sanongba fled with mother and other nobles to Cachar, asked Kachari king to invade Manipur—Kachari sent forces; Meitei forces initally defeated, Khagemba summoned all his nobles, subdued the invasion—Kachari and Muslim forces invaded again but were defeated; Sanongba was captured (later forgiven by Khagemba), other invaders taken prisoners—influence of Muslim civilization under Mughal was felt; Muslim prisoners settled, absorbed into Meitei
-47. 
+46. Kachari-Muslim invasion 1606 AD—dispute over boat among Khagemba's brothers; Sanongba fled with mother and other nobles to Cachar, asked Kachari king to invade Manipur—Kachari sent forces; Meitei forces initally defeated, Khagemba summoned all his nobles, subdued the invasion—Kachari and Muslim forces invaded again but were defeated; Sanongba was captured (later forgiven by Khagemba), other invaders taken prisoners—influence of Muslim civilization under Mughal was felt; Muslim peasant-prisoners settled, absorbed into Meitei
+47. Khagemba's reign—liberal social policies; more Brahmin families arrived, Kachari-Muslim captives married local women, given liberty to practice their relgion—introduction (improvement) of Dolai, capital city divided into four quarters for better administration: Yaiskul (under Yaiskullakpa), Khwai (under Khwairakpa), Khurai (under Khurailakpa), Wangkhei (Wangkheilakpa); Sanongba was given Khurailakpa—more Loisangs (depts) established, Kei (granaries) improved, Taothabi (red and tailed paddy) new crop introduced?, ten markets established, bell metal currency introduced—foreign trade improved, learned brick making and gun powder making from Chinese—contact with Muslims introduced tobacco and pipe smoking, though tobacco was already known in Manipur—Pana Sagol Kangjei introduced, women in sports—Meitei literature reached new highs; reading introduced—secularism: Brahmins, Muslims; Khagemba was deeply religious, follows Sanamahi cult
+48. Two more kings: Khunjaoba and Paikhomba—tiger menace in forests, keisumsang introduced, occasional gladiatorial fights between men and animals at market places—foreign trade continued, mostly elephants (elephant stable at Samurou)
+
+### The Zenith and the Decline: 1697-1826
+
+49. 
