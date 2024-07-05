@@ -46,4 +46,5 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 **Terrace I: Pride** (Cantos X- 
 
-6. [X] On the terrace where proud souls purge their sin, Dante and Virgil see beautiful sculptures expressing humility, the opposite virtue—among the sculptures are Annunciation to the Virgin Mary, and Emperor Trajan stopping his journey to render justice to a poor widow—[XI] Dante and Virgil meet the souls of the proud, who are bent over by the weight of huge stones on their backs; they profit from the sculpted examples of humility as they walk around the terrace
+6. [X-XI] On the terrace where proud souls purge their sin, Dante and Virgil see beautiful sculptures expressing humility, the opposite virtue—among the sculptures are Annunciation to the Virgin Mary, and Emperor Trajan stopping his journey to render justice to a poor widow—Dante and Virgil meet the souls of the proud, who are bent over by the weight of huge stones on their backs; they profit from the sculpted examples of humility as they walk around the terrace
+7. [XII] 
