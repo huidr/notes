@@ -35,7 +35,7 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 **Ante-Purgatory: The Excommunicate** (Cantos I-III)
 
-1. [I-II] Meets Cato (general guardian); an old stern man?—Angel Boatman carrying souls; Dante recognizes Casella (friend and musician), embraces him but grasps only air—Caella sings to comfort Dante; Cato urges the group to be on their way
+1. [I-II] Meets [Cato](https://en.wikipedia.org/wiki/Cato_the_Younger) (general guardian); an old stern man?—Angel Boatman carrying souls; Dante recognizes Casella (friend and musician), embraces him but grasps only air—Caella sings to comfort Dante; Cato urges the group to be on their way
 2. [III] Not seeing Virgil's shadow, Dante panics fearing he has lost his guide; Virgil reassures him, explains spirits don't have bodies, hence no shadows—Tribe of souls (the excommunicate) detained at the base of the cliff for a period thirty times as long as their period of contumacy; poets ask for advice; awed by Dante's shadow; the excommunicate includes King Manfred of Sicily who says: prayer from those currently alive may reduce the amount of time a soul spends in purgatory
 
 **Ante-Purgatory: The Late-Repentant** (Cantos IV-IX)
@@ -46,5 +46,13 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 **Terrace I: Pride** (Cantos X- 
 
-6. [X-XI] On the terrace where proud souls purge their sin, Dante and Virgil see beautiful sculptures expressing humility, the opposite virtue—among the sculptures are Annunciation to the Virgin Mary, and Emperor Trajan stopping his journey to render justice to a poor widow—Dante and Virgil meet the souls of the proud, who are bent over by the weight of huge stones on their backs; they profit from the sculpted examples of humility as they walk around the terrace
-7. [XII] 
+6. [X-XI] On the terrace where proud souls purge their sin, Dante and Virgil see beautiful sculptures expressing humility, the opposite virtue—among the sculptures are [Annunciation](https://en.wikipedia.org/wiki/Annunciation) to Virgin Mary, and Emperor [Trajan](https://en.wikipedia.org/wiki/Trajan) stopping his journey to render justice to a poor widow—Dante and Virgil meet the souls of the proud, who are bent over by the weight of huge stones on their backs; they profit from the sculpted examples of humility as they walk around the terrace
+7. [XII] Dante notes sculptures under their feet, illustrating pride: Lucifer, the building of the [Tower of Babel](https://en.wikipedia.org/wiki/Tower_of_Babel), Troy and others—reach the stairway to the second terrace at noon; Angel of Humility removes one P from Dante's brow; finds ascent easier
+
+**Terrace II: Envy** (Cantos XIII-XV)
+
+8. [XIII] The poets hear voices on the air telling stories of generosity, the opposite virtue: Virgin Mary expressing her joy for a newly married couple in [Wedding at Cana](https://en.wikipedia.org/wiki/Wedding_at_Cana), Jesus saying "Love thy enemies"; envious souls have their eyes sewn (_blindness_) with iron wire—the poets converse with [Sapia Salvani](https://en.wikipedia.org/wiki/Sapia_Salvani)—[XIV] among the envious are Guido del Duca and Rinieri da Calboli, who tell about the deterioration of Florence and Tuscany—voices in the air include instances of envy: [Aglauros](https://en.wikipedia.org/wiki/Aglaurus,_daughter_of_Cecrops) (jealous of Hermes' love for her older sister) and [Cain](https://en.wikipedia.org/wiki/Cain_and_Abel) (jealousy of his younger brother [Abel](https://en.wikipedia.org/wiki/Cain_and_Abel))—[XV] A bright sunlight shuts Dante's eyes, revealed to be the Angel of Charity who brushes away another P and invites him to the next terrace
+
+**Terrace III: Wrath** (Cantos XV-
+
+9. [XV] Dante sleepwalks, sees visions of meekness (opposite virtue): Mary in [Finding in the Temple](https://en.wikipedia.org/wiki/Finding_in_the_Temple); wife of [Peisistratos](https://en.wikipedia.org/wiki/Pisistratus) wanting the execution of a man who kissed her daughter in public but Peisistratos swallowing his anger
