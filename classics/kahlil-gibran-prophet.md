@@ -6,6 +6,9 @@
 2. [Of Love](#of-love)
 3. [Of Marriage](#of-marriage)
 4. [Of Children](#of-children)
+5. [Of Giving](#of-giving)
+6. [Of Eating and Drinking](#of-eating-and-drinking)
+7. [Of Joy and Sorrow](#of-joy-and-sorrow)
 
 ### The Coming of the Ship
 
@@ -34,4 +37,23 @@ belong not to you._)
 
 ### Of Giving
 
-9. A rich man asks about giving; 
+9. A rich man asks about giving; the prophet says: a person truly gives when they give of the self, not possessions. Giving with expectating return is a godly act (_There are those who give with joy, and that joy is their reward._) While it is good _to give when asked, but it is better to give unasked, through understanding_. There is nothing one can _withhold_ (_All you have shall some day be given; Therefore give now, that the season of giving may be yours and not your inheritors'_)
+10. While giving, one should not think if the other deserves it (_Surely he who is worthy to receive his days and his nights, is worthy of all else
+from you. And he who has deserved to drink from the ocean of life deserves to fill his cup from your little stream._) The receiver must share the giver's joy rather than feel the weight of indebtedness, for such weight puts the giver's generosity in doubt. (_For to be overmindful of your debt, is
+to doubt his generosity who has the free­hearted earth for mother, and God for father._)
+
+### Of Eating and Drinking
+
+11. An old man asks about eating and drinking; the prophet says: it is necessary to eat and drink but they must be acts of worship, for they are violence against living things. All the living are governed by the same Nature's laws; a human too gives up life someday.
+12. Through eating, life is transferred from a living vessel to another (_And when you crush an apple with your teeth, say to it in your heart, "Your seeds shall live in my body, And the buds of your tomorrow shall blossom in my heart,
+And your fragrance shall be my breath,And together we shall rejoice through all the seasons."_)
+
+### Of Work
+
+13. A ploughman asked about work; the prophet says: work is a natural part of life, keeps the worker in rhythm with time and seasons. Approach work with love: (_And what is it to work with love? It is to weave the cloth with threads drawn from your heart, even as if your beloved were to wear that cloth. It is to build a house with affection, even as if your bebved were to dwell in that house. It is to sow seeds with tenderness and reap the harvest with joy, even as if your beloved were to eat the fruit. It is to charge all things you fashion with a breath of your own spirit, And to know that all the blessed dead are standing about you and watching._)
+14. Without love, one must not work; for all work is noble when it is performed with love. Work without love results in a inferior end product (_For if you bake bread with indifference, you bake a bitter bread that feeds but
+half man's hunger._)
+
+### Of Joy and Sorrow
+
+15. 
