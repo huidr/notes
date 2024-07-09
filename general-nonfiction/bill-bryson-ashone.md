@@ -23,4 +23,6 @@
 
 ### A New Age Dawns
 
-8. [_Einstein's Universe_]
+8. [_Einstein's Universe_] [Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs)'s theoretical contributions to science; [Michelson-Morley](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment) experiment on [ether](https://en.wikipedia.org/wiki/Luminiferous_aether) because EM waves being waves must require a medium?); Einstein and his contributions, gravity as bending of spacetme; [Doppler shift](https://en.wikipedia.org/wiki/Doppler_effect) ([blueshift](https://en.wikipedia.org/wiki/Blueshift_(disambiguation)) and [redshift](https://en.wikipedia.org/wiki/Redshift)); Hubble's discovery of galaxies drifting apart hence universe expanding hence big bang?
+9. [_The Mighty Atom_] Dalton's atomic theory, first evidence shown by Einstein's paper on Brownian motion; Thomson discovered electron; Rutherford gave (classical) structure of atom (almost an empty space); Chadwick discovered neutron; Bohr postulated quantized energy (and electron orbits) explaining hydrogen spectrum; nuclear forces explain why heavier elements are unstable
+10. [_Getting the Lead Out_] 
