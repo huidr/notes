@@ -1,0 +1,26 @@
+## _A Short History of Nearly Everything_ by Bill Bryson
+
+### Contents
+
+1. [Lost in the Cosmos](#lost-in-the-cosmos)
+2. [The Size of the Earth](#the-size-of-the-earth)
+3. [A New Age Dawns](#a-new-age-dawns)
+4. [Life Itself](#life-itself)
+5. [The Road to Us](#the-road-to-us)
+
+### Lost in the Cosmos
+
+1. [_How to Build a Universe?_] Anecdote of Penzias-Wilson; [inflation](https://en.wikipedia.org/wiki/Inflation_(cosmology)) theory explains early universe; our universe just right (for instance, a change in gravity's power could make the universe collapse or fill with void), thus the possibility of multiple universes and big bangs; possible fates of our universe: open, closed, flat; universe has no center or rather every point is a center?
+2. [_Welcome to the Solar System_] Our sun is a slight oddity for most star systems are binary; [Kuiper belt](https://en.wikipedia.org/wiki/Kuiper_belt): a region of the solar system beyond the orbit of Neptune, believed to contain many comets (including Halley's), asteroids, and other small bodies made largely of ice; Pluto's moon escaped discovery for so long for it's very dark there (the Sun is a pinhead on Pluto); the most perfect vacuum created by humans is not as empty as interstellar space; aliens likely exist, as given by Drake's equation but encounter very improbable
+3. [_The Reverand Evan's Universe_] [Supernova](https://en.wikipedia.org/wiki/Supernova) are very rare, and not all stars undergo supernova explosion; supernova generate enough heat to create heavy elements; about 4.6 billion years ago, gases aggregate to form the Sun, then the planets [[History of Earth](https://en.wikipedia.org/wiki/History_of_Earth)] , sometime later a Mars-sized object hit the earth forming the moon (created mostly from earth's crust for it lacks iron?); without carbon dioxide [[greenhouse](https://en.wikipedia.org/wiki/Greenhouse_effect)], Earth be frozen for Sun was dimmer back then
+
+### The Size of the Earth
+
+4. [_The Measure of Things_] Halley-Newton-Hooke anecdote; Earth, not perfect sphere, flatten at poles due to centrifugal force; [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) anecdotes: extremely shy, measured the mass of the earth
+5. [_The Stone-Breakers_] [James Hutton](https://en.wikipedia.org/wiki/James_Hutton) and modern geology, deposits into oceans must be accompanied by uplift (mountains), then the idea of [plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics) came later?; [catastrophism](https://en.wikipedia.org/wiki/Catastrophism) and [uniformitarianism](https://en.wikipedia.org/wiki/Uniformitarianism) (gradualism) in shaping the Earth
+6. [_Science Red in Tooth and Claw_] First [dinosuar](https://en.wikipedia.org/wiki/Dinosaur) bone to be found was also the first to be lost; dinosuars discovered, from fossils; Cope-Marsh discovered several (hundreds?) species of dinosuars (fueled by animosity?); Cope tried to donate his bones as specimen for homo sapiens
+7. [_Elemental Matters_] Deals with the birth of chemistry: descended from alchemy; [Carl Scheele](https://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele) (Swedish chemist): the original discoverer of many elements; Newlands's Law of Octaves was widely mocked, Mendeleev turned it into [periodic table](https://en.wikipedia.org/wiki/History_of_the_periodic_table); Becquerel discovered radioactivity, Curie couple discovered polonium and radium, Rutherford uses half-life to calculate [age of earth](https://en.wikipedia.org/wiki/Age_of_Earth)? [[radiocarbon dating](https://en.wikipedia.org/wiki/Radiocarbon_dating)] and found it to be much older than Kelvin's estimate
+
+### A New Age Dawns
+
+8. [_Einstein's Universe_]
