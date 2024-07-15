@@ -44,7 +44,7 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 4. [VI-VII] troubadour Sordello from Mantua (like Virgil), bows down to Virgil when he discovers his identity, explains to the poet, the rule of the mountain: after sunset souls are incapable of climbing any further (sun represents God)—[VIII] As sun sets, Dante, Virgil, and Sordello look down over the valley; see two angels whose job, Sordello explains, is to guard against a serpent (mini-Eden?)
 5. [IX] Dante falls asleep; dreams of an eagle carrying him up near the scorching sun, suddenly wakes up at dawn; Virgil explains a lady named Lucia brought him up to Purgatory proper—portal (gate of Purgatory, Peter's gate) guarded by an angel bearing a naked sword—climb three steps: first, made of marble so polished reflective mirror-like (self-reflection, sees one's own sins); second, dark and cracked (sorrow, guilt); third, blood red (atonement)—tracing of letter P seven times on Dante's brow by the guard with the tip of his sword; each P shall be erased each time Dante ascends a terrace (sign of purgation?); guards opens Peter's gate
 
-**Terrace I: Pride** (Cantos X- 
+**Terrace I: Pride** (Cantos X-XII)
 
 6. [X-XI] On the terrace where proud souls purge their sin, Dante and Virgil see beautiful sculptures expressing humility, the opposite virtue—among the sculptures are [Annunciation](https://en.wikipedia.org/wiki/Annunciation) to Virgin Mary, and Emperor [Trajan](https://en.wikipedia.org/wiki/Trajan) stopping his journey to render justice to a poor widow—Dante and Virgil meet the souls of the proud, who are bent over by the weight of huge stones on their backs; they profit from the sculpted examples of humility as they walk around the terrace
 7. [XII] Dante notes sculptures under their feet, illustrating pride: Lucifer, the building of the [Tower of Babel](https://en.wikipedia.org/wiki/Tower_of_Babel), Troy and others—reach the stairway to the second terrace at noon; Angel of Humility removes one P from Dante's brow; finds ascent easier
@@ -64,5 +64,9 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 **Terrace V: Avarice** (Cantos XIX-XXII)
 
-12. [XIX] The penitents are "turned face downwards, lying on the earth" and lamenting loudly—[XX] One weeping soul contemplates famous people who preferred noble poverty to corrupt riches, or who generously shared their wealth with others: Mary giving birth in a cave, Saint Nicholas helping a family in distress by dropping gold coins into their window; the penitents meditate on the cautionary examples of greedy figures, such as King Midas—[XXI] 
+12. [XIX] The penitents are "turned face downwards, lying on the earth" and lamenting loudly—[XX] One weeping soul contemplates famous people who preferred noble poverty to corrupt riches, or who generously shared their wealth with others: Mary giving birth in a cave, Saint Nicholas helping a family in distress by dropping gold coins into their window; the penitents meditate on the cautionary examples of greedy figures, such as King Midas—[XXI] The mountain trembles; the poets meet Statius (a poet and admirer of Virgil) who explains the trembling is due to a soul getting cleansed, praises _Aeneid_, says he would willingly serve extra time in Purgatory if he could have lived back when Virgil was alive to which Virgil urges Dante to keep silent. Statius, sensing the secret, demands to know, to which Dante reveals and Statius bows in admiration; Virgil urges Statius not to abase himself before a mere "shade"—[XXII] An angel wipes away Dante's fifth P
+
+**Terrace VI: Gluttony** (Cantos XXII-XXIV)
+
+13. [XXII] A voice from a strange tree recites examples of temperance (opposite virtue): Mary’s minimal regard for her own cravings at a wedding feast, Roman women satisfied with water, John the Baptist’s frugal existence in the wilderness—[XXIII]
 
