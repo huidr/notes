@@ -58,6 +58,10 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 9. [XV] Dante sleepwalks, sees visions of meekness (opposite virtue): Mary in [Finding in the Temple](https://en.wikipedia.org/wiki/Finding_in_the_Temple); wife of [Peisistratos](https://en.wikipedia.org/wiki/Pisistratus) wanting the execution of a man who kissed her daughter in public but Peisistratos swallowing his anger _“If we kill those who love us,” Pisistratus asks, “what shall we do with those who hate us?”_; Saint Stephen’s dying prayer for the forgiveness of his attackers.
 10. [XVI] Engulfed by smoke, the poets meet Marco Lombardo, who tells them that the absence of virtue is due to individuals possessing free will and then he blames on political and religious leaders—[XVII] As daylight fades, Dante witnesses (in his mind) wrath manifested as familial violence ([Procne](https://en.wikipedia.org/wiki/Procne)), genocidal rage ([Haman](https://en.wikipedia.org/wiki/Haman)), and spiteful harm to oneself ([Amata](https://en.wikipedia.org/wiki/Amata)) and thus to loved ones. An angel leads the poets to the next stairway; as Dante climbs, he feels the angel's wings removing the thrid P from his face
 
-**Terrace IV: Sloth** (Cantos XVII-XIX)
+**Terrace IV: Sloth** (Cantos XVIII-XIX)
 
-11. 
+11. [XVIII-IX] The poets see large, fast-moving crowd; two penitents shout out (weeping) examples of zeal (opposite virtue): Mary’s haste, following the annunciation, to visit pregnant Elizabeth and Caesar’s eagerness to drive his troops westward into Spain; one soul, continuing to run as he speaks, identifies himself as a twelfth-century abbot of the Church of Saint Zeno in Verona and laments the choice of his successor in Dante’s day; Dante dreams about a defomed woman (turning into a siren) whose clothes were then ripped off by Virgil (on a saintly woman's command), thus revealing her belly, the imagined stench of which wakes the dreamer; an angel removes the fourth P
+
+**Terrace V: Avarice** (Cantos XX-XXII)
+
+12. 
