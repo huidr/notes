@@ -53,6 +53,11 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 8. [XIII] The poets hear voices on the air telling stories of generosity, the opposite virtue: Virgin Mary expressing her joy for a newly married couple in [Wedding at Cana](https://en.wikipedia.org/wiki/Wedding_at_Cana), Jesus saying "Love thy enemies"; envious souls have their eyes sewn (_blindness_) with iron wire—the poets converse with [Sapia Salvani](https://en.wikipedia.org/wiki/Sapia_Salvani)—[XIV] among the envious are Guido del Duca and Rinieri da Calboli, who tell about the deterioration of Florence and Tuscany—voices in the air include instances of envy: [Aglauros](https://en.wikipedia.org/wiki/Aglaurus,_daughter_of_Cecrops) (jealous of Hermes' love for her older sister) and [Cain](https://en.wikipedia.org/wiki/Cain_and_Abel) (jealousy of his younger brother [Abel](https://en.wikipedia.org/wiki/Cain_and_Abel))—[XV] A bright sunlight shuts Dante's eyes, revealed to be the Angel of Charity who brushes away another P and invites him to the next terrace
 
-**Terrace III: Wrath** (Cantos XV-
+**Terrace III: Wrath** (Cantos XV-XVII)
 
-9. [XV] Dante sleepwalks, sees visions of meekness (opposite virtue): Mary in [Finding in the Temple](https://en.wikipedia.org/wiki/Finding_in_the_Temple); wife of [Peisistratos](https://en.wikipedia.org/wiki/Pisistratus) wanting the execution of a man who kissed her daughter in public but Peisistratos swallowing his anger
+9. [XV] Dante sleepwalks, sees visions of meekness (opposite virtue): Mary in [Finding in the Temple](https://en.wikipedia.org/wiki/Finding_in_the_Temple); wife of [Peisistratos](https://en.wikipedia.org/wiki/Pisistratus) wanting the execution of a man who kissed her daughter in public but Peisistratos swallowing his anger; Saint Stephen’s dying prayer for the forgiveness of his attackers.
+10. [XVI] Engulfed by smoke, the poets meet Marco Lombardo, who tells them that the absence of virtue is due to individuals possessing free will and then he blames on political and religious leaders—[XVII] As daylight fades, Dante witnesses (in his mind) wrath manifested as familial violence ([Procne](https://en.wikipedia.org/wiki/Procne)), genocidal rage ([Haman](https://en.wikipedia.org/wiki/Haman)), and spiteful harm to oneself ([Amata](https://en.wikipedia.org/wiki/Amata)) and thus to loved ones. An angel leads the poets to the next stairway; as Dante climbs, he feels the angel's wings removing the thrid P from his face
+
+**Terrace IV: Sloth** (Cantos XVII-XIX)
+
+11. 
