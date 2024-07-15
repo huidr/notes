@@ -2,9 +2,9 @@
 
 ### Contents
 
-1. [Classic literature](#classic-literature)
-2. [General nonfiction](#general-nonfiction)
-3. [History](#history)
+- [Classic literature](#classic-literature)
+- [General nonfiction](#general-nonfiction)
+- [History](#history)
 
 ### Classic literature
 
