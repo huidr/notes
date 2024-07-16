@@ -1,9 +1,10 @@
-## _Divine Comedy_ by Dante Alighieri
+## _Divina Commedia_ by Dante Alighieri
 
 ### Contents
 
 1. [Inferno](#inferno)
 2. [Purgatorio](#purgatorio)
+3. [Paradiso](#paradiso)
 
 ### Inferno
 
@@ -74,8 +75,10 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 **Terrace VII: Lust** (Cantos XXV-XXVII)
 
 15. [XXV] Virgil calls on Statius to satisfy Dante’s wish to know how shades on the previous terrace (gluttony) can waste away (get thinner) even though they no longer have earthly bodies. Statius replies with a detailed explanation of human physiology and the relation between mortal bodies and the form of the immortal soul in the afterlife. The travelers confront flames that extend out from the mountain wall, leaving only a narrow pathway on which to circle the terrace. Dante hears shades inside the fire singing a hymn (calling on God to help calm their lustful passions) and, between verses, shouting out examples of chastity (the Virgin Mary, the goddess Diana) and praising chaste spouses.
-16. [XXVI] The penitents greet and are curious of the visitors, especially Dante who has a shadow; the lustful shades (souls) are divided into two: homosexuals and heterosexuals—[XXVII] An angel tells the travelers to cross a wall of flame; Dante was terrified (haunted by remembrance of human bodies burnt in real life) but Virgil assures him by reminding that the flame separates him from Beatrice; Dante is overwhelmed by heat but emerges unharmed, and falls asleep as he ascend on the steps. As night falls, Dante dreams of biblical sisters Leah (gathering flowers to make a garland) and Rachel (looking at herself in the mirror); the trio climb the final steps, reach the Earthly Paradise; Virgil tells Dante he has finished his duty as a guide
+16. [XXVI] The penitents greet and are curious of the visitors, especially Dante who has a shadow; the lustful shades (souls) are divided into two: homosexuals and heterosexuals—[XXVII] An angel tells the travelers to cross a wall of flame; Dante was terrified (haunted by remembrance of human bodies burnt in real life) but Virgil assures him by reminding that the flame separates him from Beatrice; Dante is overwhelmed by heat but emerges unharmed, and falls asleep as he ascend on the steps. As night falls, Dante dreams of biblical sisters Leah (gathering flowers to make a garland) and Rachel (looking at herself in the mirror); the trio climb the final steps, reach the Earthly Paradise; Virgil tells Dante he has done his duty as a guide and he leaves him [Dante] to his own free will
 
 **Earthly Paradise** (Cantos XXVIII-XXXIII)
 
 17.
+
+### Paradiso
