@@ -79,6 +79,8 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 **Earthly Paradise** (Cantos XXVIII-XXXIII)
 
-17.
+17. [XXVIII] Dante, followed by Virgil and Statius, gazes at the dense forest in the day's first hours, his face caressed by soft morning breeze, sees a lovely woman (Matelda) singing as she gathers flowers on the other bank of a river, who tells Dante he is in the Garden of Eden, explains that the water separating her from Dante derives from a single source but flows in two directions, each stream having a name: Lethe (to forget sins) and Eunoe (to recall good acts)
+18. [XXIX] Dantes witnesses a procession led by 7 tall candles painting the sky with colors of ranbow, followed by 24 elders (in white). Then 4 winged creatures escort a chariot drawn by a Griffin. The procession abruptly stops with a sound of thunder—[XXX] Beatrice appears in the chariot; Dante's excitement turns to sorrow as he realiszes Virgil has left; she rebukes him for straying from the path of righteousness after her death, tells him that he can enter paradise but only after hating his sins
+19. 
 
 ### Paradiso
