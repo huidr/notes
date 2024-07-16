@@ -68,5 +68,14 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 **Terrace VI: Gluttony** (Cantos XXII-XXIV)
 
-13. [XXII] A voice from a strange tree recites examples of temperance (opposite virtue): Mary’s minimal regard for her own cravings at a wedding feast, Roman women satisfied with water, John the Baptist’s frugal existence in the wilderness—[XXIII]
+13. [XXII] A voice from a strange tree recites examples of temperance (opposite virtue): Mary’s minimal regard for her own cravings at a wedding feast, Roman women satisfied with water, John the Baptist’s frugal existence in the wilderness—[XXIII] Statius accompanies Dante and Virgil; a group of penitent souls, shriveled up with hunger and thirst, gather round the poets; Dante is recognized by a friend from his youth, Forese Donati, who explains that the denial of nourishment causes the spirits’ “bodies” to waste away, who feels that his suffering now is just and laments about moral decline of Florence. Having died less than five years earlier, Forese attributes his speedy progress up the mountain to the prayers of his wife (Nella)
+14. [XXIV] One penitent (poet Bonagiunta da Lucca) praises Dante; as Dante, Virgil, and Statius take their leave of the penitent souls, they are distracted by another oddly shaped tree with a fruit (this tree has some connection with the tree of Eden). A voice within the tree tells Dante not to be tempted to linger. He obeys and is soon greeted by an angel who wipes away the sixth scar on his forehead.
 
+**Terrace VII: Lust** (Cantos XXV-XXVII)
+
+15. [XXV] Virgil calls on Statius to satisfy Dante’s wish to know how shades on the previous terrace (gluttony) can waste away (get thinner) even though they no longer have earthly bodies. Statius replies with a detailed explanation of human physiology and the relation between mortal bodies and the form of the immortal soul in the afterlife. The travelers confront flames that extend out from the mountain wall, leaving only a narrow pathway on which to circle the terrace. Dante hears shades inside the fire singing a hymn (calling on God to help calm their lustful passions) and, between verses, shouting out examples of chastity (the Virgin Mary, the goddess Diana) and praising chaste spouses.
+16. [XXVI] The penitents greet and are curious of the visitors, especially Dante who has a shadow; the lustful shades (souls) are divided into two: homosexuals and heterosexuals—[XXVII] An angel tells the travelers to cross a wall of flame; Dante was terrified (haunted by remembrance of human bodies burnt in real life) but Virgil assures him by reminding that the flame separates him from Beatrice; Dante is overwhelmed by heat but emerges unharmed, and falls asleep as he ascend on the steps. As night falls, Dante dreams of biblical sisters Leah (gathering flowers to make a garland) and Rachel (looking at herself in the mirror); the trio climb the final steps, reach the Earthly Paradise; Virgil tells Dante he has finished his duty as a guide
+
+**Earthly Paradise** (Cantos XXVIII-XXXIII)
+
+17.
