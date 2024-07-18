@@ -8,6 +8,7 @@
 4. [Gene machines](#gene-machines)
 5. [Aggression: Stability and the selfish machine](#aggression-stability-and-the-selfish-machine)
 6. [Genesmanship](#genesmanship)
+7. [Family planning](#family-planning)
 
 ### Why are people?
 
@@ -42,3 +43,10 @@ _Question:_ What level of purposiveness defines consciousness? Perhaps when a si
 An evolutionarily stable strategy (EES) is one which, if most members of a population adopt it, cannot be bettered by another strategy. An ESS is stable because it is immune to treachery (there may exist other strategies that offer better average pay-off for individuals but are susceptible to treachery and hence are unstable). ESS concept is applicable whenever there is a conflict of interests. Territoriality might be an ESS. For understanding aggression among animals, it is convenient to treat each individual as selfish (this model breaks down when they are relatives because they share a substantial portion of their genes).
 
 ### Genesmanship
+
+A gene might be able to assist replicas of itself in other bodies. Selfish gene viewpoint explains altruism in kinship. But how do animals detect kinship? In a species whose members do not move around much or whose members move around in small groups, chances are good that any random individual you meet is fairly close kin to you. This could be why altruism is frequent in troops of monkeys and schools of whales. Some genes exploit this kinship-altruism (e.g., cuckoos laying eggs in the nests of other birds). Parental altruism is more common than fraternal altruism. Mother is more likely to care for offsprings than father is. This has to do with index of relatedness and degree of certainty. Similarly maternal grandmother more than paternal grandmother, maternal uncle more than paternal uncle (possibly even father) and so on. There are other factors to altruism: life-expectancy, cost-benefit, etc.
+
+_Background:_ Index of relatedness may be calculated from pidegree graph: $\sum (1/2)^k$ where $k$ is the distance of kinship and the sum accounts for each common ancestor.
+
+### Family planning
+
