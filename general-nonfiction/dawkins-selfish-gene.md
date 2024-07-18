@@ -7,6 +7,7 @@
 3. [Immortal coils](#immortal-coils)
 4. [Gene machines](#gene-machines)
 5. [Aggression: Stability and the selfish machine](#aggression-stability-and-the-selfish-machine)
+6. [Genesmanship](#genesmanship)
 
 ### Why are people?
 
@@ -38,3 +39,6 @@ _Question:_ What level of purposiveness defines consciousness? Perhaps when a si
 
 ### Aggression: Stability and the selfish machine
 
+An evolutionarily stable strategy (EES) is one which, if most members of a population adopt it, cannot be bettered by another strategy. An ESS is stable because it is immune to treachery (there may exist other strategies that offer better average pay-off for individuals but are susceptible to treachery and hence are unstable). ESS concept is applicable whenever there is a conflict of interests. Territoriality might be an ESS. For understanding aggression among animals, it is convenient to treat each individual as selfish (this model breaks down when they are relatives because they share a substantial portion of their genes).
+
+### Genesmanship
