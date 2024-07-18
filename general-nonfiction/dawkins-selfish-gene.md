@@ -34,7 +34,7 @@ _Background:_ The genetic unit can be a cistron or one whole chromosome or anyth
 
 Genes require survival machines (the individual which is a vessel) to survive for their [gene]'s own survival. This chapter deals with behaviors (due to genes). Genes cannot actively control individual's behavior due to time-lags. Thefore, genes that developed senses (to detect rivals, protect self or exterminate rivals), brain (to control the senses and muscles), memory (past experiences) were selected. Unconscious purposive behavior is observed in many species (negative feedbacks in engieering sciences emulate this behavior, e.g., guided missiles). Simulation is a method of predicting the future.
 
-_Question:_ What level of purposiveness defines consciousness? Perhaps when a simulator is aware that it is simulating. This is all rather philosophical and requires a definition of consciousness.
+_Question:_ What level of purposiveness defines consciousness? Perhaps when a simulator becomes aware that it is simulating. This is all rather philosophical and requires a definition of awareness (a circular argument).
 
 ### Aggression: Stability and the selfish machine
 
