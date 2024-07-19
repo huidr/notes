@@ -9,6 +9,12 @@
 5. [Aggression: Stability and the selfish machine](#aggression-stability-and-the-selfish-machine)
 6. [Genesmanship](#genesmanship)
 7. [Family planning](#family-planning)
+8. [Battle of the generations](#battle-of-the-generations)
+9. [Battle of the sexes](#battle-of-the-sexes)
+10. [You scratch my back, I'll ride on yours](#you-scratch-my-back-Ill-ride-on-yours)
+11. [Memes: The new replicators](#memes-the-new-replicators)
+12. [Nice guys finish first](#nice-guys-finish-first)
+13. [The long reach of the gene](#the-long-reach-of-the-gene)
 
 ### Why are people?
 
@@ -50,3 +56,36 @@ _Background:_ Index of relatedness may be calculated from pidegree graph: $\sum 
 
 ### Family planning
 
+To bear, or not to bear children, that is the question of this chapter. Child-bearing is not the same as child-caring. Mammals and birds tend to be good carers. Do members of a group altruistically control childbirth for better future of the group? Territoriality may be a necessary license to childbirth (females wedded to the male's territory rather than to the male). This may control population since the territories are limited. Dominance hierarchy is another factor.
+
+Individual parents practise family planning by optimizing birth rates (to maximize the number of surviving children) rather than restrict them for public good. In this way, birth control may not be altruistic.
+
+_Note:_ Population growth depends on when and how many children they bear.
+
+### Battle of the generations
+
+Do mothers have favortie offsprings? This can happen but is conditional. Ideally, a mother tries to distributes equal investment among all her chidren. A child, however, may want special treatment (at the cost of his siblings) and may accomplish this by lying, deceiving or other means. Genes of offspring are selected for their ability to outsmart their parents; genes of parents are selected for their ability to outsmart their young. Who wins this parent-offspring battle? There is no straight answer and often a compromise is reached.
+
+_Note_: Menopause may have evolved (explainable by selfish gene viewpoint)
+
+### Battle of the sexes
+
+Sex may be defined, across all animals and plants, in this way: male gametes are much smaller and more numerous than female gametes. It is possible to interpret all other differences between the sexes as stemming from this one difference.
+
+Binary sexes may have evolved from isogametic pool. Selfish gene viewpoint explains optimum sex ratio of 1:1 (group selection fails). External fertilization in water is probably how sexual reproduction began. Paternal care is more common in water.
+
+### You scratch my back, I'll ride on yours
+
+Some animals live/flock together. This apparent altruism centers around selfishness of the individuals. For instance, hydrodynamic advantage is probably why fishes school. Selfish gene viewpoint explains Kamikaze behavior and worker class behavior seen in some social insects. At least in the case of ants, bees, and wasps, the workers (sterile) may actually be more closely related to the brood than the queen herself (Hamilton).
+
+Selfish gene viewpoint also explains symbiosis. Reciprocal altruism is an ESS. Since long memory and capacity of individual recognition are well developed in humans, reciprocal altruism might have played an important part in human evolution.
+
+### Memes: The new replicators
+
+Culture (not unique to humans). Cultural evolution is faster, progressive, non-genetic. Meme (unit of imitation) analogue of gene for cultural evolution which is transmitted through imitation (replication). Once the genes have provided survival machines with brains that are capable of rapid imitation, the memes will automatically take over.
+
+Replicators have no foresight. We, humans, have brains to simulate the future in imagination. We may be built as gene machines and cultured as meme machines, but we have the power to rebel against the tyranny of our creators (selfish replicators).
+
+### Nice guys finish first
+
+### The long reach of the gene
