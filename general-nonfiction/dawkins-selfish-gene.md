@@ -88,4 +88,6 @@ Replicators have no foresight. We, humans, have brains to simulate the future in
 
 ### Nice guys finish first
 
+Prisoner's Dilemma abounds in nature. In an iterated Prisoner' Dilemma, Tit-for-Tat strategy (beginning with cooperating move, then mimic opponent's move thereafter) and its variants are often the best strategy (not strictly an ESS but feels like it), however this also depends on what strategies opponents adopt.
+
 ### The long reach of the gene
