@@ -10,7 +10,8 @@
 
 - [Alexandre Dumas, _The Count of Monte Cristo_](classics/dumas-monte-cristo.pdf)
 - [Dante Alighieri, _Divine Comedy_](classics/dante-alighieri-commedia.md)
-- [Homer, _Iliad_](classics/homer-iliad.md) 
+- [Fyodor Dostoevsky, _Crime and Punishment_](classics/dostoevsky-c&p.md)
+- [Homer, _Iliad_](classics/homer-iliad.md)
 - [Kahlil Gibran, _The Prophet_](classics/kahlil-gibran-prophet.md) 
 
 ### General nonfiction
