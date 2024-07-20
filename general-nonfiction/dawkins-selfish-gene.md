@@ -91,3 +91,10 @@ Replicators have no foresight. We, humans, have brains to simulate the future in
 Prisoner's Dilemma abounds in nature. In an iterated Prisoner' Dilemma, Tit-for-Tat strategy (beginning with cooperating move, then mimic opponent's move thereafter) and its variants are often the best strategy (not strictly an ESS but feels like it), however this also depends on what strategies opponents adopt.
 
 ### The long reach of the gene
+
+The extended phenotype includes all effects gene has in the world (including effects on other living things). An animal's behavior (or extended phenotype) tends to maximize the survival of the genes for that behavior, whether or not those genes happen to be in the body of the particular animal performing it.
+
+_Digression:_ Parasites don't need to live inside host. If a parasite transmit its genes to the next generation via the same vehicle as host's genes? If no, then it may likely damage the host.
+
+_Further readings:_ Plasmids, bacterial conjugation
+
