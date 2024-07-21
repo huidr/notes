@@ -39,4 +39,4 @@ The following are notes, synopses and opinions on some of the books I have read.
 
 ### Psychology
 
-- H. R. Bhatia, [_Elements of Educational Psychology_](general-nonfiction/bhatia-educational-psychology)
+- H. R. Bhatia, [_Elements of Educational Psychology_](general-nonfiction/bhatia-educational-psychology.md)
