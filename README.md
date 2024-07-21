@@ -18,6 +18,7 @@
 
 - [Bill Bryson, _A Short History of Nearly Everything_](general-nonfiction/bill-bryson-ashone.md)
 - [Jared Diamond, _Guns, Germs, and Steel_](general-nonfiction/jared-diamond-ggs.pdf)
+- [John Derbyshire, _Prime Obsession_](general-nonfiction/derbyshire-prime-obsession.pdf)
 - [Richard Dawkins, _The Selfish Gene_](general-nonfiction/dawkins-selfish-gene.md)
 
 ### History
