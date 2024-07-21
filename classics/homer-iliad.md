@@ -2,10 +2,10 @@
 
 ### Contents
 
-1. [Book I](#book-i-achilles-withdraws-from-the-war)
+1. [Book I](#book-i)—Achilles withdraws from the war
 2. [Book II](#book-ii)
 
-### Book I—Achilles withdraws from the war
+### Book I
 
 _The quarrel between Agamemnon and Achilles—Achilles withdraws from the war, and sends his mother Thetis to ask Jove to help the Trojans—Scene between Jove and Juno on Olympus_
 
