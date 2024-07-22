@@ -79,7 +79,7 @@ Hector and Paris enter the battlefield. Alarmed, Minerva and Apollo converse abo
 
 Hector is intimidated but fights boldly. However, Ajax blocks his blows and is close to wounding Hector. But as night falls, the two agree to end the duel and exchange goodwill.
 
-A Trojan advisor suggests returning Helen. Paris objects but offer treasure he took with her and more. Diomed objects to this purposal and all Achaeans stand with him, but agree on a day for the burial of the dead. Achaeans build a wall around their ships. Poseidon objects to this wall but Jove assures he can wash it away as they leave.
+A Trojan advisor suggests returning Helen. Paris objects but offers treasure he took with her and more. Diomed objects to this purposal and all Achaeans stand with him, but agree on a day for the burial of the dead. Achaeans build a wall around their ships. Poseidon objects to this wall but Jove assures he can wash it away as they leave.
 
 ### Book VIII
 
