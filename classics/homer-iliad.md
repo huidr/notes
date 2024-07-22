@@ -7,7 +7,9 @@
 3. [Book III](#book-iii)—Woes for Paris
 4. [Book IV](#book-iv)—Minerva resumes the war
 5. [Book V](#book-v)—Woes for Venus and Mars
-6. [Book VI](#book-vi)—Hector 
+6. [Book VI](#book-vi)—Hector returns to Troy
+7. [Book VII](#book-vii)—Ajax duels Hector
+8. [Book VIII](#book-viii)—Jove intervenes
 
 ### Book I
 
@@ -65,8 +67,26 @@ _Glaucus and Diomed—The story of Bellerophon—Hector and Andromche._
 
 Menelaus catches a Trojan charioteer who begs for mercy and promises ransom. As Menelaus is moved to grant the request, Agamemnon intervenes and together they kill the Trojan. Priam's son Helenus advices Hector to return to Troy and ask the queen to make an offering for Minerva.
 
-Diomed encounters Glaucus, wonders about his lineage. On knowing their forefathers' friendship and exchange of gifts, Diomed offers friendship and they exchange armor (Diomed got a gold armor and gave away a bronze one).
+Diomed encounters Glaucus, wonders about his lineage. On knowing their forefathers' friendship and exchange of gifts, Diomed offers friendship and they exchange armor (Diomed gets a gold armor while giving away a bronze one).
 
 Hector rebukes Paris for staying away from the battle, then visits his wife Andromache who fears for him and asks him to withdraw from the battle. He declines and then moves to hug his son. As he return to battle, Andromache weeps as if he would not return again.
 
 ### Book VII
+
+_Hector and Ajax fight—Hector is getting worsted when night comes on and parts them—They exchange presents—The burial of the dead, and the building of a wall round their ships by the Achaeans—The Achaeans buy their wine of Agamemnon and Menelaus_
+
+Hector and Paris enter the battlefield. Alarmed, Minerva and Apollo converse about what to do; the latter suggests a duel to end the day. Minerva telepathically contacts seer Helenus, and consequently Hector challenges the strongest Achaean to fight him. Menelaus volunteers but is rebuked and stopped by Agamemnon, who himself volunteers along with other Achaeans. Ajax is selected.
+
+Hector is intimidated but fights boldly. However, Ajax blocks his blows and is close to wounding Hector. But as night falls, the two agree to end the duel and exchange goodwill.
+
+A Trojan advisor suggests returning Helen. Paris objects but offer treasure he took with her and more. Diomed objects to this purposal and all Achaeans stand with him, but agree on a day for the burial of the dead. Achaeans build a wall around their ships. Poseidon objects to this wall but Jove assures he can wash it away as they leave.
+
+### Book VIII
+
+_Jove forbids the gods to interfere further—There is an even fight till midday, but then Jove inclines the scales of victory in favour of the Trojans, who eventually chase the Achaeans within their wall—Juno and Minerva set out to help the Trojans: Jove sends Iris to turn them back, but later on he promises Juno that she shall have her way in the end—Hector's triumph is stayed by nightfall—The Trojans bivouac on the plain._
+
+Jove forbids the other gods from interfering in the war anymore, then walks off to take charge. As the mortals fight, Jove aligns with the Trojans as they chase the Achaeans to their ships. As the Achaeans stand on the verge of getting wiped out, Juno upbraids Poseidon but neither have the strength to defy Jove.
+
+Agamemnon prays to Jove for the lives of Achaeans. Touched, Jove sends a sign of assent in the form of an eagle. Teucer woes the Trojans, almost hit Hector with his arrow but with Apollo's intervention, kills his charioteer instead. As Achaeans begin to kill some Trojans, Jove urges Hector who then drives out his foes. Juno and Minerva defy Jove, who sends Iris to tell them Hector would not stop until Achilles returns to battle.
+
+As night falls, Hector makes a speech, lights out flames to ensure Achaeans do not sail away. Victory looks imminent.
