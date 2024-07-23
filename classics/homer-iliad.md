@@ -14,6 +14,9 @@
 10. [Book X](#book-x)—Spies
 11. [Book XI](#book-xi)—The wounded Achaeans
 12. [Book XII](#book-xii)—A breach in the wall
+13. [Book XIII](#book-xiii)—Neptune intervenes
+14. [Book XIV](#book-xiv)—Jove put to sleep
+15. [Book XV](#book-xv)—Trojans on the deck
 
 ### Book I
 
@@ -123,7 +126,7 @@ The battle resumes; Agamemnon kills many foes and drives the Trojans back to the
 
 As the battle rages on, many Achaean fighters are wounded and forced to retreat. Paris wounds Diomed with an arrow in his foot; however, the undaunted Diomed rebukes him. Ulysses is wounded and about to be overwhelmed but Ajax comes to the rescue and drives the Trojans away. Hector rushes to block Ajax's advances while taking care he does not engage with him directly. Jove puts fear into the heart of Ajax forcing him to retreat; however, Ajax holds his ground.
 
-Achilles sends Patroclus to identify the wounded fighter Nestor is bringing in. Nestor scorns why Achilles should care about the wounded; he asks Patroclus to convince Achilles to return, or at least Patroclus leading his troops in Achilles's armor should bring valor to the demoralized Achaeans. Patroclus encounters fellow wounded Achaeans and he laments.
+Achilles sends Patroclus to identify the wounded fighter Nestor is bringing in. Nestor scorns why Achilles should care about the wounded; he asks Patroclus to convince Achilles to return, or at least Patroclus leading his troops in Achilles's armor should bring valor to the demoralized Achaeans. Patroclus encounters fellow wounded Achaeans and laments.
 
 ### Book XII
 
@@ -131,6 +134,36 @@ _The Trojans and their allies break the wall, led on by Hector._
 
 Hector and Trojans march on foot toward the Achaeans for the trench before the wall blocks their chariots. They see a sign: an eagle gets bitten by the snake it is carrying. Polydamas interprets this as an omen for fall of Trojans. Hector rebukes him and thomps the wall.
 
-The Achaeans try to defend the wall and the two Ajaxes boost their morale. Jove sends his son Sarpedon (Glaucus's cousin, toether they command the Lycians) who rips a section of the wall away. Achaeans rush to block the breach and the two sides reach a temporary stalemate.
+The Achaeans try to defend the wall and the two Ajaxes boost their morale. Jove sends his son Sarpedon (Glaucus's cousin, together they command the Lycians) who rips a section of the wall away. Achaeans rush to block the breach and the two sides reach a temporary stalemate.
 
 Jove lends power to Hector who lift a giant rock and smash it on the gates. The Trojans raid the Achaeans who flee to their ships.
+
+### Book XIII
+
+_Neptune helps the Achaeans—The feats of Idomeneus—Hector at the ships._
+
+Satisfied, Jove leaves thinking no god will interfere; however, Neptune, furiously angry with Jove, has been watching the fall of the Achaeans whom he now pities. Neptune empowers the two Ajaxes. The fall of his grandson Amphimachus made Neptune exceedingly angry; he incites Idomeneus, who along with other Achaeans kill many Trojans.
+
+Idomeneus kills Alcathous (Aeneas's sister's husband); Deiphobus relays this to Aeneas and asks him to defend her sister's husband's body. Undaunted, Idomeneus fights Aeneas. Menelaus kills Pisander and rebukes Jove for siding with the prideful.
+
+As Trojans continue to fall, Polydamas successfully convinces Hector to withdraw a bit. Paris incites Hector who finds out many Trojans are dead or wounded. Jove then drives on the Trojans; Hector advances and encounters Great Ajax who delivers a brave speech. Hector promises to kill him and the armies clash again.
+
+### Book XIV
+
+_Agamemnon proposes that the Achaeans should sail home, and is rebuked by Ulysses—Juno beguiles Jupiter—Hector is wounded._
+
+Nestor hears the cries of the battle and gathers the wounded Achaean leaders. Agamemnon, feeling that Achaeans will fall, suggests sailing away. Ulysses contemptuously rejects the idea; Diomed suggests they go front, not to fight for they are wounded, but to inspire their fellowmen. On the way, Neptune assures Agamemnon that Trojans shall retreat.
+
+Juno was gladden at the sight of her brother Neptune on Achaean's side. She asks Venus to make her as beautiful as one can be, and bribes Sleep, promising his marriage to Pasithea (one of the Grances), to help her. She charms Jove on Ida. When asked where she intends to go, she lies that she wants to see Oceanus and mother Tethys. Jove suggests they make love; to avoid a scandle, they hide in a cloud, making love, and Jove sleeps. Juno informs Neptune that Jove is asleep.
+
+Neptune inspires the Achaeans, provides them the best armor. Great Ajax crushes Hector who begins to spit up blood. Hector retreats and the Achaeans get a upper hand.
+
+### Book XV
+
+_Jove awakes, tells Apollo to heal Hector, and the Trojans again become victorious._
+
+Jove wakes up and scolds Juno, but she lies that Neptune helped the Achaeans on its own out of pity. Jove puts her to work to undo Neptune's exploits which she agrees. Jove then sends Iris to call off a reluctant Neptune, and asks Apollo to heal Hector.
+
+Hector rages again, to the surprise of the Achaeans who thought him to be dead. Apollo fills the trench and knocks down the wall for the Trojans's chariots. Nestor prays to Jove; neither side gains ground. Patroclus, who was tending to the wounded Eurypylus, rushes in the hope of persuading Achilles to fight.
+
+Ajax urges his younger half-brother Teucer to aim at Hector. Teucer would have vanquished Hector; however, Jove breaks his bowstring. Distraught as Jove is against them, but undaunted, Ajax rallies and commands the Achaeans. With Jove's help, Hector reaches a ship. Great Ajax, alone on the deck, fights off the Trojans.
