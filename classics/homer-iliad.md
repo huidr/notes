@@ -10,6 +10,10 @@
 6. [Book VI](#book-vi)—Hector returns to Troy
 7. [Book VII](#book-vii)—Ajax duels Hector
 8. [Book VIII](#book-viii)—Jove intervenes
+9. [Book IX](#book-ix)—The Embassy to Achilles
+10. [Book X](#book-x)—Spies
+11. [Book XI](#book-xi)—The wounded Achaeans
+12. [Book XII](#book-xii)—A breach in the wall
 
 ### Book I
 
@@ -90,3 +94,43 @@ Jove forbids the other gods from interfering in the war anymore, then walks off 
 Agamemnon prays to Jove for the lives of Achaeans. Touched, Jove sends a sign of assent in the form of an eagle. Teucer woes the Trojans, almost hit Hector with his arrow but with Apollo's intervention, kills his charioteer instead. As Achaeans begin to kill some Trojans, Jove urges Hector who then drives out his foes. Juno and Minerva defy Jove, who sends Iris to tell them Hector would not stop until Achilles returns to battle.
 
 As night falls, Hector makes a speech, lights out flames to ensure Achaeans do not sail away. Victory looks imminent.
+
+### Book IX
+
+_The Embassy to Achilles._
+
+Disheartened, Agamemnon proposes to leave Troy; however, Diomed rebukes him telling he has no valor. Diomed declares he will stay and fight even if Agamemnon leaves. Then on Nestor's advice, Agamemnon decides to yield to Achilles, sends his men who found Achilles and Patroclus by the sea.
+
+Odysseus asks him to come back; Achilles says he is sailing away in three days, declines all gifts. He encourages Phoenix to come with him but gives him the liberty to decide, but Phoenix tells him he will not stay without him. As Ajax whines about Achilles's savagery and remorselessness, Achilles says he will not fight unless Hector raids his tent.
+
+As Odysseus relay the news to Agamemnon, Diomed reprimands that Agamemnon's choices have only boosted Achilles's pride and suggests they should fight with or without him.
+
+_Background:_ Phoenix, following a dispute with his father, fled to Peleus and became his vassal. Then he became an instructor and mentor of Achilles.
+
+### Book X
+
+_Ulysses and Diomed go out as spies, and meet Dolon, who gives them information: they then kill him, and profiting by what he had told them, kill Rhesus king of the Thracians and take his horses._
+
+In the night, Agamemnon and Menelaus could not sleep and converse on how to save the Achaeans. Nestor gathers the Achaeans and ask for anyone who would spy on the Trojans camped nearby. Diomed volunteers but asks for a partner. Many volunteered; fearing for Menelaus who volunteered, Agamemnon asks Diomed to choose his favorite partner; Diomed chooses Ulysses.
+
+In the Trojan camp, Hector asks for a spy and Dolon volunteers. Hector promises him the horse of Achilles if he succeeds in spying. Ulysses sees Dolon first, whom they capture and get information of Trojan camps out of him. Diomed kills him and other Trojans until Minerva asks him to stop lest he should invoke some god to rouse the Trojans; the spys return. However, Apollo knowing Minerva's involvement, rouses the Trojans.
+
+### Book XI
+
+_In the forenoon the fight is equal, but Agamemnon turns the fortune of the day towards the Achaeans until he gets wounded and leaves the battlefield—Hector then drives everything before him till he is wounded by Diomed—Paris wounds Diomed—Ulysses, Nestor, and Idomeneus perform prodigies of valour—Machaon is wounded—Nestor drives him off in his chariot—Achilles sees the pair driving towards the camp and sends Patroclus to ask who it is that is wounded—This is the beginning of evil for Patroclus—Nestor makes a long speech._
+
+The battle resumes; Agamemnon kills many foes and drives the Trojans back to ther gates. Jove, through Iris, sends a message to Hector to not engage with Agamemnon unless he is wounded or retreats. Hector rages on the Achaeans until Diomed fights him and nearly knocks him out with a spear to his helmet. Hector retreats.
+
+As the battle rages on, many Achaean fighters are wounded and forced to retreat. Paris wounds Diomed with an arrow in his foot; however, the undaunted Diomed rebukes him. Ulysses is wounded and about to be overwhelmed but Ajax comes to the rescue and drives the Trojans away. Hector rushes to block Ajax's advances while taking care he does not engage with him directly. Jove puts fear into the heart of Ajax forcing him to retreat; however, Ajax holds his ground.
+
+Achilles sends Patroclus to identify the wounded fighter Nestor is bringing in. Nestor scorns why Achilles should care about the wounded; he asks Patroclus to convince Achilles to return, or at least Patroclus leading his troops in Achilles's armor should bring valor to the demoralized Achaeans. Patroclus encounters fellow wounded Achaeans and he laments.
+
+### Book XII
+
+_The Trojans and their allies break the wall, led on by Hector._
+
+Hector and Trojans march on foot toward the Achaeans for the trench before the wall blocks their chariots. They see a sign: an eagle gets bitten by the snake it is carrying. Polydamas interprets this as an omen for fall of Trojans. Hector rebukes him and thomps the wall.
+
+The Achaeans try to defend the wall and the two Ajaxes boost their morale. Jove sends his son Sarpedon (Glaucus's cousin, toether they command the Lycians) who rips a section of the wall away. Achaeans rush to block the breach and the two sides reach a temporary stalemate.
+
+Jove lends power to Hector who lift a giant rock and smash it on the gates. The Trojans raid the Achaeans who flee to their ships.
