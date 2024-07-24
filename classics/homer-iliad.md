@@ -17,6 +17,9 @@
 13. [Book XIII](#book-xiii)—Neptune intervenes
 14. [Book XIV](#book-xiv)—Jove put to sleep
 15. [Book XV](#book-xv)—Trojans on the deck
+16. [Book XVI](#book-xvi)—Patroclus
+17. [Book XVII](#book-xvii)—The body of Patroclus
+18. [Book XVIII](#book-xviii)—Sorrows
 
 ### Book I
 
@@ -167,3 +170,35 @@ Jove wakes up and scolds Juno, but she lies that Neptune helped the Achaeans on 
 Hector rages again, to the surprise of the Achaeans who thought him to be dead. Apollo fills the trench and knocks down the wall for the Trojans's chariots. Nestor prays to Jove; neither side gains ground. Patroclus, who was tending to the wounded Eurypylus, rushes in the hope of persuading Achilles to fight.
 
 Ajax urges his younger half-brother Teucer to aim at Hector. Teucer would have vanquished Hector; however, Jove breaks his bowstring. Distraught as Jove is against them, but undaunted, Ajax rallies and commands the Achaeans. With Jove's help, Hector reaches a ship. Great Ajax, alone on the deck, fights off the Trojans.
+
+### Book XVI
+
+_Fire being now thrown on the ship of Protesilaus, Patroclus fights in the armour of Achilles—He drives the Trojans back, but is in the end killed by Euphorbus and Hector._
+
+Patroclus tearly begs Achilles to return to battle, or at least allow him to wear his armor and fight. Moved, Achilles allows him to fight but warns to only drive the Trojans away from their ships and not to venture further. Achilles delivers a speech to the Myrmidons; Patroclus and Automedon to lead them; Achilles prays to Jove.
+
+As Patroclus and the Myrmidons rage and kill, the Trojans begin to flee to confusion. Jove wonders if he should save his son Sarpedon but Juno argues it would set a bad example for other gods. Sarpedon charges and throws spears (and misses) at Patroclus—and is killed by Patroclus. Sorrowful Glaucus prays to Apollo and reproaches Hector; the Trojans and Lycians fight the Myrmidons and Achaeans around the body of Sarpedon.
+
+The Achaeans take Sarpedon's armor but Jove sends Apollo to take the body home for burial. Patroclus chases Hector and the Trojans to their gates. Hector wonders whether to continue fighting or flee inside the gates. Apollo incites Hector. Apollo then strikes Patroclus in the back, knocking away his armor and weapons. A young Troojan then stabs Patroclus in the back. Hector finishes Patroclus with a spear to the gut; however, Patroclus, as he lays dying, warns Hector that Achilles will bring him down.
+
+### Book XVII
+
+_The fight around the body of Patroclus._
+
+Both sides rage over Patroclus's body. Menelaus kills Euphorbus, who wanted to re-stab Patroclus to take glory, but calls in Great Ajax to help him in driving off Hector. Glaucus scorns Hector for abandoning Sarpedon's body and declares Great Ajax is braver than him. Hector gets Achilles's armor and puts it on, much to Jove's disapproval because he has no right to the famous armor, and intends to take Patroclus's body and feed it to the dogs of Troy.
+
+On Jove's approval, Minerval takes the form of Phoenix and incites Menelaus to save Patroclus's body; Menelaus wishes Minerva shall give him strength. The mention of her name before any of other gods pleases her; she gives him strength and more. Apollo keeps spurring Hector who, alongside Aeneas and others, briefly try to seize Achilles's horses.
+
+Menelaus asks Antilochus to relay the sad news to Achilles so that he may come to rescue the body. Menelaus declares Patroclus was the bravest of the Achaeans and shall be sorely missed. Antilochus, with tears and struck with horror, runs off. Menelaus and Meriones lifted the body and carried it away while the two Ajaxes hold off Hector, Aeneas and the Trojans.
+
+_Discussion_: Menelaus's dilemma of honor: should he stand against Hector and die or desert Patroclus? He makes a strategic significant decision (a rare instance where no god is prompted) to seek Great Ajax's help. Meanwhile, Hector despises Glaucus for saying Great Ajax is braver than him.
+
+### Book XVIII
+
+_The grief of Achilles over Patroclus—The visit of Thetis to Vulcan and the armour that he made for Achilles._
+
+Achilles has a bad feeling that Patroclus might be dead. When he learns it from Antilochus, he breaks down that Antilochus holds his hands less he should slit his own throat. Thetis rises from the sea and weeps that his end is also near as it will come soon after Hector's fall; however, she asks him to wait until the next day as she will bring him an armor from Vulcan.
+
+Minerva incites Achilles to join the war; his presence uplifts the Trojans; the body of Patroclus is regained; Polydamus suggests retreating as Achilles now has a chance to break inside Troy; Hector rebukes him, declares he will stay and the Trojans applaud him.
+
+At night, the Achaeans mourns Patroclus. Achilles vows Patroclus will not be buried until Hector is slain. Vulcan welcomes Thetis. Because Thetis has helped him in the past, he glads makes the armor.
