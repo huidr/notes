@@ -17,11 +17,13 @@ The following are notes, synopses and opinions on some of the books I have read.
 - Dante Alighieri, [_Divine Comedy_](classics/dante-alighieri-commedia.md)
 - Fyodor Dostoevsky, [_Crime and Punishment_](classics/dostoevsky-c&p.md)
 - Homer, [_Iliad_](classics/homer-iliad.md)
+- Homer, [_Odyssey_](classics/homer-odyssey.md)
 - Kahlil Gibran, [_The Prophet_](classics/kahlil-gibran-prophet.md) 
 
 ### General nonfiction
 
 - Bill Bryson, [_A Short History of Nearly Everything_](general-nonfiction/bill-bryson-ashone.md)
+- Mario Livio, [_Brilliant Blunders_](general-nonfiction/livio-blunders.md)
 - Rachel Carson, [_Silent Spring_](general-nonfiction/carson-silent-spring.md)
 
 ### Biology
