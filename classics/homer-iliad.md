@@ -51,7 +51,7 @@ Jove sends Iris to warn the Trojans of the uncomming battle; Troy prepares for w
 
 _Alexandria, also called Paris, challenges Menelaus—Helen and Priam view the Achaeans from the wall—The covenant—Paris and Menelaus fight, and Paris is worsted—Venus carries him off to save him—Scene between him and Helen._
 
-Paris boldy strides among Trojan forces but hides when he sees Menalaus. Hector reprimands him for being more beautiful than brave, which Paris does not deny. Hector, on Paris's wishes, proposes a combat between Paris and Menelaus, and the winner takes Helen and war concludes thus. Iris informs Helen, who now yearns for her former husband. Helen and Priam watches the battle, and Priam enquires about the Achaeans he sees—Agamemnon, Ulysses, Ajax.
+Paris boldy strides among Trojan forces but hides when he sees Menelaus. Hector reprimands him for being more beautiful than brave, which Paris does not deny. Hector, on Paris's wishes, proposes a combat between Paris and Menelaus, and the winner takes Helen and war concludes thus. Iris informs Helen, who now yearns for her former husband. Helen and Priam watches the battle, and Priam enquires about the Achaeans he sees—Agamemnon, Ulysses, Ajax.
 
 Priam takes the covenant. Combat begins; Menelaus gets the upper hand, strangles him until Venus intervenes to rescue Paris. Venus then asks Helen to stay with Paris. Helen rebukes Venus—it's unfair for Menelaus has won, and Venus is unfit to tread on Olympus for having suggested this—but is frightened.
 
@@ -93,15 +93,15 @@ _Hector and Ajax fight—Hector is getting worsted when night comes on and parts
 
 Hector and Paris enter the battlefield. Alarmed, Minerva and Apollo converse about what to do; the latter suggests a duel to end the day. Minerva telepathically contacts seer Helenus, and consequently Hector challenges the strongest Achaean to fight him. Menelaus volunteers but is rebuked and stopped by Agamemnon, who himself volunteers along with other Achaeans. Ajax is selected.
 
-Hector is intimidated but fights boldly. However, Ajax blocks his blows and is close to wounding Hector. But as night falls, the two agree to end the duel and exchange goodwill.
+Hector is intimidated but fights boldly. However, Ajax blocks his blows and is close to wounding Hector. But as night falls, the two agree to end the duel and exchange goodwill presents.
 
-A Trojan advisor suggests returning Helen. Paris objects but offers treasure he took with her and more. Diomed objects to this purposal and all Achaeans stand with him, but agree on a day for the burial of the dead. Achaeans build a wall around their ships. Poseidon objects to this wall but Jove assures he can wash it away as they leave.
+A Trojan advisor suggests returning Helen. Paris objects but offers treasure he took with her and more. Diomed objects to this purposal and all Achaeans stand with him, but agree on a day for the burial of the dead. Achaeans build a wall around their ships. Neptune objects to this wall but Jove assures he can wash it away as they leave.
 
 ### Book VIII
 
 _Jove forbids the gods to interfere further—There is an even fight till midday, but then Jove inclines the scales of victory in favour of the Trojans, who eventually chase the Achaeans within their wall—Juno and Minerva set out to help the Trojans: Jove sends Iris to turn them back, but later on he promises Juno that she shall have her way in the end—Hector's triumph is stayed by nightfall—The Trojans bivouac on the plain._
 
-Jove forbids the other gods from interfering in the war anymore, then walks off to take charge. As the mortals fight, Jove aligns with the Trojans as they chase the Achaeans to their ships. As the Achaeans stand on the verge of getting wiped out, Juno upbraids Poseidon but neither have the strength to defy Jove.
+Jove forbids the other gods from interfering in the war anymore, then walks off to take charge. As the mortals fight, Jove spurs the Trojans as they chase the Achaeans to their ships. As the Achaeans stand on the verge of getting wiped out, Juno upbraids Neptune but neither have the strength to defy Jove.
 
 Agamemnon prays to Jove for the lives of Achaeans. Touched, Jove sends a sign of assent in the form of an eagle. Teucer woes the Trojans, almost hit Hector with his arrow but with Apollo's intervention, kills his charioteer instead. As Achaeans begin to kill some Trojans, Jove urges Hector who then drives out his foes. Juno and Minerva defy Jove, who sends Iris to tell them Hector would not stop until Achilles returns to battle.
 
@@ -193,7 +193,7 @@ _The fight around the body of Patroclus._
 
 Both sides rage over Patroclus's body. Menelaus kills Euphorbus, who wanted to re-stab Patroclus to take glory, but calls in Great Ajax to help him in driving off Hector. Glaucus scorns Hector for abandoning Sarpedon's body and declares Great Ajax is braver than him. Hector gets Achilles's armor and puts it on, much to Jove's disapproval because he has no right to the famous armor, and intends to take Patroclus's body and feed it to the dogs of Troy.
 
-On Jove's approval, Minerval takes the form of Phoenix and incites Menelaus to save Patroclus's body; Menelaus wishes Minerva shall give him strength. The mention of her name before any of other gods pleases her; she gives him strength and more. Apollo keeps spurring Hector who, alongside Aeneas and others, briefly try to seize Achilles's horses.
+On Jove's approval, Minerva takes the form of Phoenix and incites Menelaus to save Patroclus's body; Menelaus wishes Minerva shall give him strength. The mention of her name before any of other gods pleases her; she gives him strength and more. Apollo keeps spurring Hector who, alongside Aeneas and others, briefly try to seize Achilles's horses.
 
 Menelaus asks Antilochus to relay the sad news to Achilles so that he may come to rescue the body. Menelaus declares Patroclus was the bravest of the Achaeans and shall be sorely missed. Antilochus, with tears and struck with horror, runs off. Menelaus and Meriones lifted the body and carried it away while the two Ajaxes hold off Hector, Aeneas and the Trojans.
 
@@ -255,7 +255,7 @@ _The funeral of Patroclus, and the funeral games._
 
 Achilles and the Myrmidons mourn Patroclus. He vows he will not wash Hector's blood off his body unitl Patroclus is buried. He falls alseep and Patroclus's spirit visits him in a dream, asking why he has forgotten him. His spirit cannot enter the land of Hades until his body is buried. Recalling their shared childhood, Patroclus asks that their bones be put in the same jar. Achilles reaches out to embrace Patroclus but the body vanishes. Achilles wakes up.
 
-The Achaeans build a pyre for Patroclus and surrounds his body with slain animals and enemies. Achilles cuts a lock of har and burns it with Patroclus. Achilles set dogs on Hector's body but Venus and Apollo keeps the body safe. The next day, Achilles organizes funeral games.
+The Achaeans build a pyre for Patroclus and surrounds his body with slain animals and enemies. Achilles cuts a lock of his hair and burns it with Patroclus. Achilles set dogs on Hector's body but Venus and Apollo keeps the body safe. The next day, Achilles organizes funeral games.
 
 ### Book XXIV
 
