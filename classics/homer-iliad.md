@@ -20,6 +20,12 @@
 16. [Book XVI](#book-xvi)—Patroclus
 17. [Book XVII](#book-xvii)—The body of Patroclus
 18. [Book XVIII](#book-xviii)—Sorrows
+19. [Book XIX](#book-xix)—Achilles
+20. [Book XX](#book-xx)—Gods join the war
+21. [Book XXI](#book-xxi)—Gods fight
+22. [Book XXII](#book-xxii)—Hector
+23. [Book XXIII](#book-xxiii)—Funeral
+24. [Book XXIV](#book-xxiv)—Another funeral
 
 ### Book I
 
@@ -201,4 +207,64 @@ Achilles has a bad feeling that Patroclus might be dead. When he learns it from 
 
 Minerva incites Achilles to join the war; his presence uplifts the Trojans; the body of Patroclus is regained; Polydamus suggests retreating as Achilles now has a chance to break inside Troy; Hector rebukes him, declares he will stay and the Trojans applaud him.
 
-At night, the Achaeans mourns Patroclus. Achilles vows Patroclus will not be buried until Hector is slain. Vulcan welcomes Thetis. Because Thetis has helped him in the past, he glads makes the armor.
+At night, the Achaeans mourns Patroclus. Achilles vows Patroclus will not be buried until Hector is slain. Vulcan welcomes Thetis. Because Thetis has helped him in the past, he gladly makes the armor.
+
+### Book XIX
+
+_Achilles is reconciled with Agamemnon, puts on the armour which Vulcan had made him, and goes out to fight._
+
+Thetis delivers Achilles's new armor and promises to prevent Patroclus's body from decay. Assembling his Myrmidons and leaders of the army together, he reconciles with Agamemnon and intends to join war immediately. Agamemnon promises to deliver his gifts and Briseis immediately; Achilles is indifferent to the gifts, but wants to fight. Odysseus suggests eating good first.
+
+Agamemnon delivers the gifts. Briseis weeps for Patroclus (who seemingly promised her marriage to Achilles?) but Achilles will not eat. Minerva gives Achilles immunity to hunger. Achilles puts on his armor.
+
+As Achilles prepares for departure, his horses (as Juno gives them voice) tells him they will serve him but cannot fight Achilles's fate that is coming soon. Achilles isn't moved; he accepts his fate.
+
+### Book XX
+
+_The gods hold a council and determine to watch the fight, from the hill Callicolone, and the barrow of Hercules—A fight between Achilles and Aeneas is interrupted by Neptune, who saves Aeneas—Achilles kills many Trojans._
+
+Jove holds a council and gives the gods the liberty to choose sides and join the war. Juno, Minerva, Neptune, Mercury and Vulcan join the Achaeans and Mars, Apollo, Diana, Leto, Xanthus and Venus join the Trojans. Apollo incites Aeneas against Achilles. The gods decide to watch rather than directly join in.
+
+Aeneas reveals his lineage to Achilles; they fight: Aeneas's spear is stopped by Achilles's shield; Achilles's spear nearly touches Aeneas's body, frightening him. As Achilles nearly kills him, Neptune decides to save Aeneas so that his fate remains unchanged.
+
+Apollo warns Hector not to challenge Achilles on any account. Afraid, Hector steps away. Achilles vanquishes many Trojans including Polydorus (Hector's youngest brother and the fastest) who was showing off his speed. This enrages Hector and he fights Achilles; however, Apollo saves Hector. Achilles rages on, vanquishes many Trojans.
+
+### Book XXI
+
+_The fight between Achilles and the river Scamander—The gods fight among themselves—Achilles drives the Trojans within their gates._
+
+Achilles pushes the Trojan army back, drives them into the river Scamander and slaughters in huge numbers. Lycaon son of Priam begs for mercy but Achilles isn't moved. The dead bodies Achilles killed clog the river and this angers god Scamander.
+
+Scamander overwhelms Achilles with waves and whirlpools; however, Vulcan, on Juno's command, combats Scamander with fire until the river god swears to not interfere with the fate of Troy. Minerva knocks Mars out and injures Venus when she tries to help him. Juno humiliates Diana, sending her running home. Neptune rebukes Apollo for siding with the Trojans who insulted them and failed to deliver gifts after building their walls; however, Apollo declines the combat and retreats to protect Troy.
+
+As Achilles continue to rout the Trojans, their gates open, on Priam's command, to save them. Apollo distracts Achilles and saves Agenor from him.
+
+### Book XXII
+
+_The death of Hector._
+
+Apollo questions Achilles why he chases a god; Achilles mocks him for robbing him of his glory and for saving Troy. Despite the pleas of his parents, Hector stands at the gate; however, he regrets not listening to Polydamas. When Achilles approaches him, Hector flees in fear and is chased by Achilles.
+
+Taking the form of Deiphobus, Minerva and convinces Hector to make a stand and fight together. Hector agrees; however, he asks Achilles to let the winner give up the body of the dead; Achilles declines and rebukes him. Achilles throws his spear first, and Hector dodges. Unbeknownst to him, Minerva brings the spear back to Achilles. Hector's spear is bounded off from Achilles's shield. Hector calls to Deiphobus for another spear, but finds no one; thus, he realizes his fate is upon him.
+
+Hector charges with his sword; Achilles spears him through a hole in the armor (his armor) and slashes his neck. Dying, Hector begs Achilles to ransom his body back to his parents; Achilles declines and drags his body using his chariot back to the ships. Andromache learns of the news and faints. The whole city mourns.
+
+### Book XXIII
+
+_The funeral of Patroclus, and the funeral games._
+
+Achilles and the Myrmidons mourn Patroclus. He vows he will not wash Hector's blood off his body unitl Patroclus is buried. He falls alseep and Patroclus's spirit visits him in a dream, asking why he has forgotten him. His spirit cannot enter the land of Hades until his body is buried. Recalling their shared childhood, Patroclus asks that their bones be put in the same jar. Achilles reaches out to embrace Patroclus but the body vanishes. Achilles wakes up.
+
+The Achaeans build a pyre for Patroclus and surrounds his body with slain animals and enemies. Achilles cuts a lock of har and burns it with Patroclus. Achilles set dogs on Hector's body but Venus and Apollo keeps the body safe. The next day, Achilles organizes funeral games.
+
+### Book XXIV
+
+_Priam ransoms the body of Hector—Hector's funeral._
+
+Achilles, still grieving, drags the body of Hector around the tomb whenever he misses his comrade. Gods quarrel over this. Jove offers a compromise: Achilles to give up the body for a ransom, which Priam will bring in person and alone. On Jove's command, Thetis convinces Achilles to give up the body and Iris gives the message to Priam.
+
+Although Hecuba scorns the idea and curses Achilles, Priam is ready to go, but prays to Jove for a sign of approval. Jove sends a huge eagle. On Jove's command, Mercury disguises himself as Achilles's squire and guides Priam safely to Achilles.
+
+Priam kneels and kisses Achilles's hands. Priam's appeal touches him and they weep together; however when Priam suggests he sail home safely to his own father, Achilles warns him not to tempt his rage. Achilles provides him hospitality and pledges to hold off attacking until Hector is buried.
+
+Fearing Priam might be captured, Mercury wakes him before dawn and guides him to Troy. There, they mourn. After nine days of mourning, his body is burned.
