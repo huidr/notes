@@ -15,10 +15,13 @@ The following are notes, synopses and opinions on some of the books I have read.
 
 - Alexandre Dumas, [_The Count of Monte Cristo_](classics/dumas-monte-cristo.pdf)
 - Dante Alighieri, [_Divine Comedy_](classics/dante-alighieri-commedia.md)
+- Fyodor Dostoevsky, [_The House of the Dead_](classics/dostoevsky-dead-house.md)
+- Fyodor Dostoevsky, [_Notes from Underground_](classics/dostoevsky-underground.md)
 - Fyodor Dostoevsky, [_Crime and Punishment_](classics/dostoevsky-c&p.md)
 - Homer, [_Iliad_](classics/homer-iliad.md)
 - Homer, [_Odyssey_](classics/homer-odyssey.md)
-- Kahlil Gibran, [_The Prophet_](classics/kahlil-gibran-prophet.md) 
+- Kahlil Gibran, [_The Prophet_](classics/kahlil-gibran-prophet.md)
+- Marcel Proust, [_In Search of Lost Time_](classics/proust.md)
 
 ### General nonfiction
 
