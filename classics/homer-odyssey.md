@@ -2,7 +2,7 @@
 
 ### The episode of Telemachus
 
-1. [Book I—Ulysses](#book-i-ulysses)
+1. [Book I](#book-i)—Ulysses
 2. [Book II](#book-ii)—Telemachus
 3. [Book III](#book-iii)—Nestor
 4. [Book IV](#book-iv)—Menelaus
@@ -21,11 +21,18 @@
 11. [Book IX](#book-ix)—Tiresias
 12. [Book IX](#book-ix)—Helios
 
-### To Ithica
+### To Ithaca
 
-13. [Book IX](#book-ix)—
+13. [Book IX](#book-ix)—Neptune
+14. [Book X](#book-x)—Eumaeus
+15. [Book XI](#book-xi)—Theoclymenus
+16. [Book XII](#book-xii)—Amphinomous
 
-### Book I—Ulysses
+### Vengeance at the Palace
+
+17. [Book IX](#book-ix)—
+
+### Book I
 
 _The gods in council—Minerva's visit to Ithaca—The challenge from Telemachus to the suitors._
 
@@ -105,7 +112,7 @@ Ulysses gives a half of his men under the command of Eurylochus who sets out in 
 
 _The visit to the dead._
 
-On the land of Hades, Ulysses  encounters ghosts of the dead. Elpenor demands a proper funeral, which Ulysses promises. Ulysses sees his mother whom he did not know had died. Tiresias tells him he could reach Ithaca but ahead lies great peril and informs him what is happening in his home. Ulysses encounters several wives and daughters, some of them boasts of having slept with gods including Jove and Neptune.
+On the land of Hades, Ulysses  encounters ghosts of the dead. Elpenor demands a proper funeral, which Ulysses promises. Ulysses sees his mother whom he did not know had died. She died in grief over her son's absence. Tiresias tells him he could reach Ithaca but ahead lies great peril and informs him what is happening in his home. Ulysses encounters several wives and daughters, some of them boasts of having slept with gods including Jove and Neptune.
 
 Ulysses sees his fallen comrades. Agamemnon weeps and recollects how Clytemnestra murdered him, his comrades and Cassandra. He urges Ulysses to be careful of women although he declares Penelope is virtuous. Achilles inquires about his father and son. Ulysses knows nothing of his father but tells him the exploits of his son during the Trojan war and that he safely sailed away. Great Ajax is still angry with Ulysses over Achilles's armor.
 
@@ -121,15 +128,30 @@ The travelers put wax into their ears, thus are immune to the sweet voices of th
 
 _Ulysses leaves Scheria and returns to Ithaca._
 
+On route to Ithaca, Ulysses falls asleep. The Phaeacians put him and his treasure safely on the shore and left. Neptune is furious at the Phaeacians for helping Ulysses. He wrecks the ship. Dismayed, Alcinous remembers a prophecy and to save their city from being buried under a mountain, they offer sacrifices to Neptune. Ulysses wakes up to find himself in an unknown land. He sees Minerva, disguised as a shepherd, and he pretends to be someone else. Then Minerva reveals her identity. She hides the treasure in a cave and changes his physique so that no one will recognise him. Then they plan how he should face his foes at his home.
+
 ### Book XIV
 
 _Ulysses in the hut with Eumaeus._
+
+In disguise of an old beggar, Ulysses meets his old swineherd Eumaeus, who believes his master Ulysses is dead. When pressed, the traveler makes up his story and tells him Ulysses is alive and shall come, which Eumaeus refuses to believe. Nevertheless, Eumaeus gives him food and shelter.
 
 ### Book XV
 
 _Minerva summons Telemachus from Lacedaemon—He meets with Theoclymenus at Pylos and brings him to Ithaca—On landing he goes to the hut of Eumaeus._
 
+Before dawn, Minerva wakes Telemachus, tells him about the assassination plot and asks him to leave immediately. She also offers him a strategy to avoid their ambush. With gifts from Menelaus and Helen, Telemachus leaves with Pisistratus. Theoclymenus, a seer and exile, seeks refuge in his ship. (He escaped from Argos after killing a relative, fled to Pylos).
+
+Back in Eumaeus's hut, the traveler tells Eumaeus that he plans to go begging and ask the suitors to be their servant. Shocked at this idea, Eumaeus tells him the suitors only take young servants and asks the traveler to rather stay with him. The swineherd tells him Laertes is still alive. When asked, he narrates his story. Eumaeus was born into royalty but was kidnapped and forced to become a servant.
+
+On the way back, Theoclymenus interprets an action of a hawk as a omen that Telemachus shall reign in Ithaca as the most powerful royalty. Telemachus hopes it comes true and promises gifts for him if it does. Then he asks his friend Piraeus to give Theoclymenus shelter. Then off he goes to Eumaeus.
+
 ### Book XVI
 
 _Ulysses reveals himself to Telemachus._
 
+Telemachus inquires Eumaeus about the old traveler. Eumaeus asks him if he could take him home, which Telemachus declines as he is alone and cannot even face the suitors. The traveler declares if he [traveler] were Ulysses or Ulysses's son, he would have rather fought and died in his house than let his estate degraded by foes. Telemachus sends Eumaeus to tell Penelope that her son has returned. Upon Minerva's advice, the traveler returns to the hut after having changed to a younger version of himself. Telemachus wonders if he is a god. The traveler reveals his identity and they plan how to thwart the suitors.
+
+Back at the palace, the suitors plot how to kill Telemachus. Amphinomus is the most well-behaved of the suitors. He is against killing Telemachus. He suggests they should be patient and wait for the will of gods.
+
+### Book XVII
