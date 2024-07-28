@@ -52,7 +52,7 @@ Telemachus wishes for a ship. Minerva, now disguising herself as Telemachus, gat
 
 _Telemachus visits Nestor at Pylos._
 
-Telemachus and Minerva, disguised as mentor, reaches the land of Nestor where they witness a large ceremonial sacrifices to Neptune. Nestor has little information about Ulysses, but narrates how the Achaeans went different ways after the war. Agamemnon had left his cousin Aegisthus to rule in his stead during the Trojan War, but Aegisthus seized the throne and became the lover of Agamemnon's wife Clytemnestra. Upon his return, Agamemnon was killed by the usurper; the king's death was then avenged by his son Orestes, and daughter Electra.
+Telemachus and Minerva, disguised as Mentor, reaches the land of Nestor where they witness a large ceremonial sacrifices to Neptune. Nestor has little information about Ulysses, but narrates how the Achaeans went different ways after the war. Agamemnon had left his cousin Aegisthus to rule in his stead during the Trojan War, but Aegisthus seized the throne and became the lover of Agamemnon's wife Clytemnestra. Upon his return, Agamemnon was killed by the usurper; the king's death was then avenged by his son Orestes, and daughter Electra.
 
 Nestor offers lodging for the night and a chariot and the help of his son Pisistratus for his journey to Sparta to meet Menelaus. Minerva flies away as an eagle, and Nestor makes sacrifice to honor her.
 
