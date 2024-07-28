@@ -26,7 +26,7 @@
 13. [Book IX](#book-ix)—Neptune
 14. [Book X](#book-x)—Eumaeus
 15. [Book XI](#book-xi)—Theoclymenus
-16. [Book XII](#book-xii)—Amphinomous
+16. [Book XII](#book-xii)—Amphinomus
 
 ### Vengeance at the Palace
 
