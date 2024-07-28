@@ -2,7 +2,7 @@
 
 ### The episode of Telemachus
 
-1. [Book I—Ulysses](#book-i-Ulysses)
+1. [Book I—Ulysses](#book-i-ulysses)
 2. [Book II](#book-ii)—Telemachus
 3. [Book III](#book-iii)—Nestor
 4. [Book IV](#book-iv)—Menelaus
