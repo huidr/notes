@@ -17,20 +17,30 @@
 ### The story of Ulysses
 
 9. [Book IX](#book-ix)—Polyphemus
-10. [Book IX](#book-ix)—Circe
-11. [Book IX](#book-ix)—Tiresias
-12. [Book IX](#book-ix)—Helios
+10. [Book X](#book-x)—Circe
+11. [Book XI](#book-xi)—Tiresias
+12. [Book XII](#book-xii)—Helios
 
 ### To Ithaca
 
-13. [Book IX](#book-ix)—Neptune
-14. [Book X](#book-x)—Eumaeus
-15. [Book XI](#book-xi)—Theoclymenus
-16. [Book XII](#book-xii)—Amphinomus
+13. [Book XIII](#book-xiii)—Minerva
+14. [Book XIV](#book-xiv)—Eumaeus
+15. [Book XV](#book-xv)—Theoclymenus
+16. [Book XVI](#book-xvi)—Amphinomus
 
-### Vengeance at the Palace
+### Setting up
 
-17. [Book IX](#book-ix)—
+17. [Book XVII](#book-xvii)—Melanthius
+18. [Book XVIII](#book-xviii)—Irus
+19. [Book XIX](#book-xix)—Eurycleia
+20. [Book XX](#book-xx)—Philoetius
+
+### Vengeance at the palace
+
+21. [Book XXI](#book-xxi)—Antinous
+22. [Book XXII](#book-xxii)—Eurylochus
+23. [Book XXIII](#book-xxiii)—Penelope
+24. [Book XXIV](#book-xxiv)—Laertes
 
 ### Book I
 
@@ -155,3 +165,49 @@ Telemachus inquires Eumaeus about the old traveler. Eumaeus asks him if he could
 Back at the palace, the suitors plot how to kill Telemachus. Amphinomus is the most well-behaved of the suitors. He is against killing Telemachus. He suggests they should be patient and wait for the will of gods.
 
 ### Book XVII
+
+_Telemachus and his mother meet—Ulysses and Eumaeus come down to the town, and Ulysses is insulted by Melanthius—He is recognized by the dog Argos—He is insulted and presently struck by Antinous with a stool—Penelope desires that he shall be sent to her._
+
+In the palace, Piraeus brings Theoclymenus and Telemachus narrates his journey to his mother. Theoclymenus predicts Ulysses is back in Itaca, reading to throw out the suitors; Penelope refuses to believe. On the road, Melanthius mocks the swineherd and the beggar. On Telemachus's advice, the beggar goes around the suitors begging. Most have pity but Antinous mocks him and the swineherd for bringing him in. The beggar prays Antinous would be punished by the gods. Antinous grows furious and hits the beggar with a footstool. Penelope is displeased with the suitors; she asks Eumaeus to invite the beggar in, as she wants to hear his stories and particularly about Ulysses. The beggar acts quite reasonably; he wants to meet her at sundown when the suitors are away.
+
+### Book XVIII
+
+_The fight with Irus—Ulysses warns Amphinomus—Penelope gets presents from the suitors—The braziers—Ulysses rebukes Eurymachus._
+
+Another beggar Irus mocks the old beggar. Antinous convinces Irus to fight the old beggar. Irus is defeated rather easily. The beggar warns Amphinomus of dire events to come and suggests he leave; Amphinomus is alarmed but stays. Then, in the presence of the suitors, the beggar asks the servants to tend to Penelope, but is laughed at. One such woman mocks him for his behavior, but he threatens them. The suitors protests, but Amphinomus calms them down and let Telemachus tend to the beggar.
+
+### Book XIX
+
+_Telemachus and Ulysses remove the Armour—Ulysses interviews Penelope—Euryclea washs his feet and recognises the scar on his leg—Penelope tells her dream to Ulysses._
+
+Telemachus and the beggar hide the weapons in the house. Melantho rails at the beggar again, but Penelope rebukes her. The beggar and Penelope have a conversation; the beggar makes up his story; he is the brother of Idomeneus, a descendant of Minos of Creta. Penelope is convinced that he met Ulysses when he describes what exactly Ulysses wore, and she sobs but refuses to believe that Ulysses will be there soon that year. While washing his legs, Eurycleia notices a scar and deduces he is Ulysses, but is made to hold her tongue. Eurycleia offers to tell him which maids are disloyal to him; Ulysses tells he will judge for himself. Penelope recounts her dream (an eagle killing all the geese) to Ulysses. Penelope tells him that she plans to hold a competition the next day to finally choose a suitor. She will ask them to demonstrate a skill that Ulysses has demonstrated before. The beggar tells her Ulysses will come before the competition can begin. She retires to her room and weeps.
+
+### Book XX
+
+_Ulysses cannot sleep—Penelope's prayer to Diana—The two sings from heaven—Eumaeus and Philoetius arrive—The suitors dine—Ctesippus throws an ox's foot at Ulysses—Theoclymenus foretells disaster and leaves the house._
+
+Ulysses cannot fall asleep, thinking how he would face the suitors the next day. Minerva visits him. Ulysses overhears Penelope praying for her death if Ulysses doesn't appear. Melanthius mocks the beggar for still staying, but Philoetius is kind to him. The suitors plan to murder Telemachus, but Amphinomus declares they will not succeed, rather they should go to dinner. The seer Theoclymenus warns the suitors of the bad omens he sees. The suitors laugh him off. One insolent fellow mocks Telemachus for bringing the swineherd and then the seer.
+
+### Book XXI
+
+_The trial of the axes, during which Ulysses reveals himself to Eumaeus and Philoetius._
+
+The contest commences. Penelope brings out Ulysses's bow. Telemachus tries and fails to string it three times; on the fourth, his father signals him to stop. The beggar reveals his identity to Eumaeus and Philoetius after they swear they would fight for Ulysses if he returns. They weep. The suitors take turns and each one of them fails. Antinous requests to postpone the contest for a day. After all the suitors fail, the beggar requests to try to string the bow. Antinous is furious and rebukes him. Penelope questions him if he is scared that the beggar may succeed and marry her; to this, Eurymachus replies they fear a scandal if no suitor can string it while an old beggar does. As planned, Eumaeus tries to bring the bow to the beggar but drops it when the suitors scold him. Telemachus encourages him to take it up again and give it to the beggar. The suitors laughs at Telemachus. The beggar then asks Eurycleia to close the doors of the women's apartments. To the dismay of the suitors, he easily strings it and shoots an arrow through the 12 axes. Telemachus arms himself with weapons and stay close to Ulysses.
+
+### Book XXII
+
+_The killing of the suitors—The maids who have misconducted themselves are made to cleanse the cloisters and are then hanged._
+
+The beggar strikes Antinous with an arrow. Shocked, the suitors curse him (they think he killed by mistake). But the beggar reveals his identity and vows to kill them. Eurylochus tries diplomacy, says they were indeed wrong. Ulysses declines and is ready to attack them. Eurylochus asks the suitors to take out their swords. Ulysses asks Telemachus to bring shields, spears and helmets from the store house. Eumaeus and Philoetius are armed. Ulysses is puzzled to see the suitors arming themselves and deduces either some women or Melanthius is responsible. Eumaeus and Philoetius finds Melanthius in the store house and subdues him. Minerva, in the form of Mentor, arrives at the scene and is threatened for siding with Ulysses. This makes her furious and she rebukes Ulysses that his strength has waned. The two sides fight. Ulysses and his men kill several suitors. Minerva protects Ulysses and his men from harm. Telemachus saves Phemius and Medon from Ulysses. All other suitors are killed. Ulysses then asks Eurycleia to bring the women who have misconducted.  Telemachus, Eumaeus and Philoetius, along with the women, take out the dead bodies. Later, the women are killed.
+
+### Book XXIII
+
+_Penelope eventually recognizes her husband—Early in the morning Ulysses, Telemachus, Eumaeus, and Philoetius leave the town._
+
+Eurycleia rushes to tell Penelope about Ulysses's homecoming. Penelope refuses to believe. Eurycleia recounts everything that happened, Penelope is joyous, but still considers the possible of a god disguising as the beggar. She goes down and looks at Ulysses. Telemachus reprimands her for standing so far from her husband. Later, she tricks him to revealing a secret only they know, thus proving his identity. Ulysses asks his men to raise songs so that the people will think it is a wedding, and not a battlefield. At night, Penelope recounts her stories and sufferings in his absence. Ulysses recounts his tales of adventure.
+
+### Book XXIV
+
+_The ghosts of the suitors in hades—Ulyses and his men go to the house of Laertes—The people of Ithaca come out to attack Ulysses, but Minerva concludes a peace._
+
+
