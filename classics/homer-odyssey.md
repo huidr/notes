@@ -204,7 +204,7 @@ The beggar strikes Antinous with an arrow. Shocked, the suitors curse him (they 
 
 _Penelope eventually recognizes her husband—Early in the morning Ulysses, Telemachus, Eumaeus, and Philoetius leave the town._
 
-Eurycleia rushes to tell Penelope about Ulysses's homecoming. Penelope refuses to believe. Eurycleia recounts everything that happened, Penelope is joyous, but still considers the possible of a god disguising as the beggar. She goes down and looks at Ulysses. Telemachus reprimands her for standing so far from her husband. Later, she tricks him to revealing a secret only they know, thus proving his identity. Ulysses asks his men to raise songs so that the people will think it is a wedding, and not a battlefield. At night, Penelope recounts her stories and sufferings in his absence. Ulysses recounts his tales of adventure.
+Eurycleia rushes to tell Penelope about Ulysses's homecoming. Penelope refuses to believe. Eurycleia recounts everything that happened, Penelope is joyous, but still considers the possible of a god disguising as the beggar. She goes down and looks at Ulysses. Telemachus reprimands her for standing so far from her husband. Later, she tricks him to revealing a secret only they know, thus proving his identity. Ulysses asks his men to raise songs so that the people will think it is a wedding, and not a battlefield. At night, Penelope recounts her stories and sufferings in his absence. Ulysses recounts his tales of adventure. However, Ulysses still has things to do: to travel far inland and offer sacrifices for Neptune, if he wants to lead a long and peaceful life.
 
 ### Book XXIV
 
