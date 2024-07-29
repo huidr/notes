@@ -210,4 +210,9 @@ Eurycleia rushes to tell Penelope about Ulysses's homecoming. Penelope refuses t
 
 _The ghosts of the suitors in hades—Ulyses and his men go to the house of Laertes—The people of Ithaca come out to attack Ulysses, but Minerva concludes a peace._
 
+In the land of Hades, the spirit of Achilles and that of Agamemnon converse. They discuss their manner of death. Agamemnon praises Achilles, says even in death he was well loved—Thetis and the goddesses came to mourn. Agamemnon is suprised to see Amphimedon. Agamemnon reminds him the time he and Menelaus came to persuade Ulysses to come to war. Amphimedon recounts the story of Ulysses's homecoming. Agamemnon praises Penelope.
+
+Ulysses sets out for his father's farm with Telemachus, Eumaeus and Philoetius. He asks them to go to the house and get a pig for dinner, while he intends to see his father. When he sees the old man in rags, he sobs. He wonders whether to rush, reveal and cry or be crafty; however chooses the latter. He feigns to be a friend of Ulysses. But when the old man breaks down sobbing, he rushes to embrace him and reveals his identity. He shows the scar and recounts shared memories as proof.
+
+Meanwhile, Antinous's father persuades a group of people to attack Ulysses. One of them reveals an immortal being in the form of Mentor sided with Ulysses, thus the death of suitors is god's will. More of half of the men are convinced and leaves. The remaining ones come to attack Ulysses. Laertes is joyous when Telemachus promises not to degrade the family's name. As they are about to fight, Minerva intervenes and concludes a peace.
 
