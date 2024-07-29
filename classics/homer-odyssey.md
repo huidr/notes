@@ -138,7 +138,7 @@ The travelers put wax into their ears, thus are immune to the sweet voices of th
 
 _Ulysses leaves Scheria and returns to Ithaca._
 
-On route to Ithaca, Ulysses falls asleep. The Phaeacians put him and his treasure safely on the shore and left. Neptune is furious at the Phaeacians for helping Ulysses. He wrecks the ship. Dismayed, Alcinous remembers a prophecy and to save their city from being buried under a mountain, they offer sacrifices to Neptune. Ulysses wakes up to find himself in an unknown land. He sees Minerva, disguised as a shepherd, and he pretends to be someone else. Then Minerva reveals her identity. She hides the treasure in a cave and changes his physique so that no one will recognise him. Then they plan how he should face his foes at his home.
+On route to Ithaca, Ulysses falls asleep. The Phaeacians put him and his treasure safely on the shore and left. Neptune is furious at the Phaeacians for helping Ulysses. He wrecks the ship. Dismayed, Alcinous remembers a prophecy and to save their city from being buried under a mountain, they offer sacrifices to Neptune. Ulysses wakes up to find himself in an unknown land. He sees Minerva, disguised as a shepherd, and he pretends to be someone else. Then Minerva reveals her identity and praises him for his cleverness. She hides the treasure in a cave and changes his physique so that no one will recognise him. Then they plan how he should face his foes at his home.
 
 ### Book XIV
 
