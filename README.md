@@ -15,6 +15,7 @@ The following are notes, synopses and opinions on some of the books I have read.
 
 - Alexandre Dumas, [_The Count of Monte Cristo_](classics/dumas-monte-cristo.pdf)
 - Dante Alighieri, [_Divine Comedy_](classics/dante-alighieri-commedia.md)
+- Charles Dickens, [_David Copperfield_](classics/dickens-david-copperfield.md)
 - Fyodor Dostoevsky, [_The House of the Dead_](classics/dostoevsky-dead-house.md)
 - Fyodor Dostoevsky, [_Notes from Underground_](classics/dostoevsky-underground.md)
 - Fyodor Dostoevsky, [_Crime and Punishment_](classics/dostoevsky-c&p.md)
