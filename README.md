@@ -21,6 +21,7 @@ The following are notes, synopses and opinions on some of the books I have read.
 - Fyodor Dostoevsky, [_Crime and Punishment_](classics/dostoevsky-c&p.md)
 - Homer, [_Iliad_](classics/homer-iliad.md)
 - Homer, [_Odyssey_](classics/homer-odyssey.md)
+- J. D. Salinger, [_The Catcher in the Rye_](classics/salinger-catcher.md)
 - Kahlil Gibran, [_The Prophet_](classics/kahlil-gibran-prophet.md)
 - Marcel Proust, [_In Search of Lost Time_](classics/proust.md)
 
