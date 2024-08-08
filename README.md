@@ -37,6 +37,7 @@ The following are notes, synopses and opinions on some of the books I have read.
 
 ### History
 
+- David Graeber, David Wengrow, [_The Dawn of Everything_](general-nonfiction/graeber-wengrow-the-dawn.md)
 - Gangmumei Kamei, [_History of Manipur: Pre-colonial Period_](history/gangmumei-kamei-hom.md)
 - Jared Diamond, [_Guns, Germs, and Steel_](general-nonfiction/jared-diamond-ggs.pdf)
 
