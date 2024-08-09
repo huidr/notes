@@ -12,4 +12,4 @@ Discovery of radioactivity and nuclear reactions provided new energy source; maj
 
 ### Pauling
 
-Pauling gave alpha helix structure of proteins. He believed in a triple helix structure of the DNA.
+Pauling gave alpha helix structure of proteins. Avery and his group established that DNA is responsible for turning nonvirulent bacteria into virulent ones; however, other scientists (including Pualing) did not believe that DNA had anything to do with heredity, rather they believed proteins are the inheritance units. While Franklin achieved good x-ray diffraction photos of DNA, Pauling was bent on convincing peeps about the alpha helix structure of proteins. Soon, Pauling got interested in DNA and published a triple helix structure of the DNA.
