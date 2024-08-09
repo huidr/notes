@@ -21,10 +21,10 @@ This page is still under construction and some notes may be missing.
 
 ### Philosophy
 
-- Emerson, [_Essays_](philosophy/emerson-essays.md)
-- Gaarder, [_Sophie's World_](philosophy/gaarder-sophies-world.md)
-- Russell, [_History of Western Philosophy_](philosophy/russell-western-philosophy.md)
-- Thoreau, [_Walden_](philosophy/thoreau-walden.md)
+- Emerson (1841, 1844), [_Essays_](philosophy/emerson-essays.md)
+- Thoreau (1854), [_Walden_](philosophy/thoreau-walden.md)
+- Russell (1946), [_History of Western Philosophy_](philosophy/russell-western-philosophy.md)
+- Gaarder (1991), [_Sophie's World_](philosophy/gaarder-sophies-world.md)
 
 ### Literature
 
@@ -34,6 +34,8 @@ This page is still under construction and some notes may be missing.
 - Dostoevsky, [_Notes from Underground_](classics/dostoevsky-underground.md)
 - Dostoevsky, [_Crime and Punishment_](classics/dostoevsky-c&p.md)
 - Dumas, [_The Count of Monte Cristo_](classics/dumas-monte-cristo.pdf)
+- Eliot, [_Prufrock and Other Observations_](classics/eliot-prufrock.md)
+- Eliot, [_The Wasteland_](classics/eliot-wasteland.md)
 - Gibran, [_The Prophet_](classics/kahlil-gibran-prophet.md)
 - Homer, [_Iliad_](classics/homer-iliad.md)
 - Homer, [_Odyssey_](classics/homer-odyssey.md)
