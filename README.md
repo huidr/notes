@@ -57,8 +57,14 @@ This page is still under construction and some notes may be missing.
 
 ### Evolutionary biology
 
+- Darwin, [_On the Origin of Species_](general-nonfiction/darwin-origin.md)
 - Dawkins, [_The Selfish Gene_](general-nonfiction/dawkins-selfish-gene.md)
 - Dawkins, [_The Extended Phenotype_](general-nonfiction/dawkins-extended-phenotype.md)
+- Dawkins, [_The Blind Watchmaker_](general-nonfiction/dawkins-blind-watchmaker.md)
+- Futuyma, [_Evolution_](general-nonfiction/futuyma-evolution.md)
+- Lane, [_The Vital Question_](general-nonfiction/lane-vital-question.md)
+- Shubin, [_Your Inner Fish_](general-nonfiction/shubin-inner-fish.md)
+- Weiner, [_The Beak of the Finch_](general-nonfiction/weiner-beak.md)
 
 ### Psychology
 
