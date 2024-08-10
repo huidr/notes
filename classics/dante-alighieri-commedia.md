@@ -85,3 +85,13 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 20. [XXXII] The procession resumes and Dante follows it to arrive at the [Tree of Knowledge](https://en.wikipedia.org/wiki/Tree_of_the_knowledge_of_good_and_evil) (now bare of its leaves) where he falls asleep; Dante wakes up to see an eagle crashing through the tree into the chariot followed by a series of violent assaults (allegory of events in church history)—[XXXIII] Beatrice prophesies that God will avenge the offence by sending someone; at noon, Matelda leads Dante, accompanied by Statius, into the river Eunoe; cleansed and remade, Dante is ready to ascend to Paradise.
 
 ### Paradiso
+
+**Moon** (Cantos I-V)
+
+1. It's noon, and Dante stands with Beatrice in the Garden of Eden. As they ascend through the atmosphere, Dante has a strange out-of-body experience. Beatrice explains: human souls has innate tendency toward God, and since he has been purified of his sins, he feels this attraction.
+2. Dante gives a warning to his readers whom, he expects, are scholars, theologians and philosophers. The Moon is a solid, dense cloud. He asks Beatrice why the Moon has dark spots. He recounts several stories he has heard, however Beatrice explains: the uneveness is the reflection of the variety God has put in His creation.
+3. Piccarda, sister of Dante's childhood friend Donati, explains: souls in the Moon are virtuous souls but who failed to fulfill some vows. Piccardo vowed to be a nun but was taken from her convent by force. Dante enquires if the spirits are dissatisfied with the lower Heaven; they say they are content and otherwise, it wouldn't be paradise for they would be opposing God's will.
+4. Dante wonders if Plato was right when he said that souls go back to stars upon death. Beatrice answers that it is partly true—souls of Piccarda and others are not remote from God, and stars-and-planets imagery is simply a way of telling God's presence for the limited mortal mind.
+5. Beatrice explains: free will is God's greatest gift to mankind. One should not make vows in haste. Then the duo travels to Mercury and a flock of spirits greet them.
+
+**Mercury** (Cantos V-)
