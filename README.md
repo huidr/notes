@@ -48,9 +48,12 @@ This page is still under construction and some notes may be missing.
 - Chandra & co., [_India After Independence_](history/chandra-after-independence.md)
 - Diamond, [_Guns, Germs, and Steel_](general-nonfiction/jared-diamond-ggs.pdf)
 - Graeber, Wengrow, [_The Dawn of Everything_](general-nonfiction/graeber-wengrow-the-dawn.md)
+- Harari, [_Sapiens_](general-nonfiction/harari-sapiens.md)
 - Kamei, [_History of Manipur_](history/gangmumei-kamei-hom.md)
 - Thapar, [_Ancient India_](history/thapar-ancient-india.md)
 - Thapar, [_Midieval India_](history/thapar-midieval-india.md)
+- Tuchman, [_The Guns of August_](history/tuchman-guns.md)
+- Zinn, [_A People's History of the United States_](history/zinn-peoples-history.md)
 
 ### Evolutionary biology
 
