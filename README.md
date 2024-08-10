@@ -50,6 +50,7 @@ This page is still under construction and some notes may be missing.
 - Graeber, Wengrow, [_The Dawn of Everything_](general-nonfiction/graeber-wengrow-the-dawn.md)
 - Kamei, [_History of Manipur_](history/gangmumei-kamei-hom.md)
 - Thapar, [_Ancient India_](history/thapar-ancient-india.md)
+- Thapar, [_Midieval India_](history/thapar-midieval-india.md)
 
 ### Evolutionary biology
 
