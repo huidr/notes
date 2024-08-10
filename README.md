@@ -49,6 +49,7 @@ This page is still under construction and some notes may be missing.
 - Diamond, [_Guns, Germs, and Steel_](general-nonfiction/jared-diamond-ggs.pdf)
 - Graeber, Wengrow, [_The Dawn of Everything_](general-nonfiction/graeber-wengrow-the-dawn.md)
 - Kamei, [_History of Manipur_](history/gangmumei-kamei-hom.md)
+- Thapar, [_Ancient India_](history/thapar-ancient-india.md)
 
 ### Evolutionary biology
 
