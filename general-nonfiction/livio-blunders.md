@@ -24,3 +24,7 @@ To account for the expansion of the universe (an implication of Hubble's discove
 
 ### Einstein
 
+Einstein's original equations predicted a changing universe. To allow universe to be static (in the sense of steady state), he added the cosmological constant $\Lambda$ (repulsive gravity). Later, after Hubble's discovery of the expansion of universe, he removed it. The story of him calling $\Lambda$ "greatest blunder" he made in life is probably made up by Gamow. A few scientists, however, still wanted to include $\Lambda$. Several decades later, the accelerating universe is discovered (dark energy) making $\Lambda$ relevant again.
+
+
+
