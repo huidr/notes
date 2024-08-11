@@ -47,6 +47,7 @@ This page is still under construction and some notes may be missing.
 - Chandra & co., [_India's Struggle for Independence_](history/chandra-struggle.md)
 - Chandra & co., [_India After Independence_](history/chandra-after-independence.md)
 - Diamond, [_Guns, Germs, and Steel_](general-nonfiction/jared-diamond-ggs.pdf)
+- Frankopan, [_The Silk Roads_](history/frankopan-silk-roads.md)
 - Graeber, Wengrow, [_The Dawn of Everything_](general-nonfiction/graeber-wengrow-the-dawn.md)
 - Harari, [_Sapiens_](general-nonfiction/harari-sapiens.md)
 - Kamei, [_History of Manipur_](history/gangmumei-kamei-hom.md)
