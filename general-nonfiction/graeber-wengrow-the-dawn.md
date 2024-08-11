@@ -2,8 +2,8 @@
 
 ### Contents
 
-- [Farewell to Humanity's Childhood](#farewell-to-humanitys-childhood)
-- [Wicked Liberty](#wicked-liberty)
+1. [Farewell to Humanity's Childhood](#farewell-to-humanitys-childhood)
+2. [Wicked Liberty](#wicked-liberty)
 
 ### Farewell to Humanity's Childhood
 
