@@ -17,4 +17,7 @@
 
 ### Wicked Liberty
 
-
+8. The Age of Enlightenment in Europe was not without foreign influence—for instance, the idea of governments ruling over a people of common language and culture, run by bureaucrats trained in liberal arts who passed competitive exams were entirely new in Europe but had been prevalent for centuries in China.
+9. Native Americans pointed out the lack of individual freedom and equality in European institutions. Debates followed on whether or not freedom and equality are good.
+10. Enlightenment thinkers were influenced by Native Americans. Many Europeans came to embrace the ideals of freedom and equality after encounters with the Natives.
+11. Thinkers such as Hobbes and Locke concluded that, for better or worse, the state of nature is that of freedom and equality.
