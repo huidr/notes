@@ -22,7 +22,7 @@
 10. Enlightenment thinkers were influenced by Native Americans. Many Europeans came to embrace the ideals of freedom and equality after encounters with the Natives.
 11. Thinkers such as Hobbes and Locke concluded that, for better or worse, the state of nature is that of freedom and equality.
 12. The Jesuits from Europe, whose goal was to convince the Americans of the superiority of Catholic faith, often acknowledged how rational and clear-sighted the Americans were (some even commented that the Natives were cleverer than them)—they would point out flaws and holes in Christian faith and reasoning.
-13. The American savages had far more freedom and equality (which is the expression of freedom) than the Europeans—and their equality is nothing like the "equality below law" had no arbitrary authority.
+13. The American savages had far more freedom and equality (which is the expression of freedom) than the Europeans—and their equality is nothing like the "equality below law" for they had no arbitrary authority.
 14. Primitive communism was more apparent in Native American societies than in European ones—likely to help/share bread with other families, etc. Money did not turn into power and the concept of private property is almost non-existent.
 15. 
 
