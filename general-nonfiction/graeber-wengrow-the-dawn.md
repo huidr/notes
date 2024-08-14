@@ -4,6 +4,7 @@
 
 1. [Farewell to Humanity's Childhood](#farewell-to-humanitys-childhood)
 2. [Wicked Liberty](#wicked-liberty)
+3. [Unfreezing the Ice Age](#unfreezing-the-ice-age)
 
 ### Farewell to Humanity's Childhood
 
@@ -24,7 +25,12 @@
 12. The Jesuits from Europe, whose goal was to convince the Americans of the superiority of Catholic faith, often acknowledged how rational and clear-sighted the Americans were (some even commented that the Natives were cleverer than them)—they would point out flaws and holes in Christian faith and reasoning.
 13. The American savages had far more freedom and equality (which is the expression of freedom) than the Europeans—and their equality is nothing like the "equality below law" for they had no arbitrary authority.
 14. Primitive communism was more apparent in Native American societies than in European ones—likely to help/share bread with other families, etc. Money did not turn into power and the concept of private property is almost non-existent.
-15. 
+15. The indigenous American critique of European society (social hierarchy and order, blind submission to faith and arbitrary authority, lack of individual liberty) had a direct impact on European thought and enlightenment. Debates followed; some advocated the idea and some responded by founding a theory of social evolution (that societies evolve from hunters to pastoralists to farmers to modern society)
+16. Rousseau argued that social inequality is a product of private property. Political radicals of American Revolution and French Revolution adopted his ideas. Rousseau played a central role in the founding of left-wing politics.
+
+### Unfreezing the Ice Age
+
+17. 
 
 
 
