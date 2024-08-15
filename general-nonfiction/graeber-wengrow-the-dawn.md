@@ -33,7 +33,7 @@
 
 17. Early humans were much more physically diverse than today. They must have also been so socially diverse that it would be impossible to talk about "original human society". Any attempt would then be an instance of myth making.
 18. Archaeological findings indicate that Ice Age societies had grand monuments, princely burials, centres of trade and craft production. They aren't as simple, innocent and egalitarian as we thought them to be.
-19. There could have been seasonal variations in social life. Hunter-gathering in summer and chief-like social structure in winter (the chief ensuring everyone is nourished and no one falls into destitute).
+19. There could have been seasonal variations in social life. Hunter-gathering in summer and chief-like social structure in winter (the chief—not a lawgiver, but a pacifist and benefactor—ensuring everyone is nourished and no one falls into destitute).
 20. If the early humans constantly moved between band-life and chiefdom-life, then one cannot talk about a social evolution from bands to tribes to chiefdoms to state.
 
 ### Free People, the Origin of Cultures, and the Advent of Private Property
