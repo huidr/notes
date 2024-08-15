@@ -5,6 +5,7 @@
 1. [Farewell to Humanity's Childhood](#farewell-to-humanitys-childhood)
 2. [Wicked Liberty](#wicked-liberty)
 3. [Unfreezing the Ice Age](#unfreezing-the-ice-age)
+4. [Free People, the Origin of Cultures, and the Advent of Private Property](#free-people-the-origin-of-cultures-and-the-advent-of-private-property)
 
 ### Farewell to Humanity's Childhood
 
@@ -33,4 +34,5 @@
 17. 
 
 
+### Free People, the Origin of Cultures, and the Advent of Private Property
 
