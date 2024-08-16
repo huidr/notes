@@ -6,6 +6,7 @@
 2. [Wicked Liberty](#wicked-liberty)
 3. [Unfreezing the Ice Age](#unfreezing-the-ice-age)
 4. [Free People, the Origin of Cultures, and the Advent of Private Property](#free-people-the-origin-of-cultures-and-the-advent-of-private-property)
+5. [Many Seasons Ago](#many-seasons-ago)
 
 ### Farewell to Humanity's Childhood
 
@@ -38,5 +39,16 @@
 
 ### Free People, the Origin of Cultures, and the Advent of Private Property
 
-21. 
+21. Truly egalitarian means to eliminate all possibilities of accumulation of any surplus—for instance, food brought home is finished the same day, and anything extra is shared, but never stored.
+22. Hunter-gatherers had to work for a lesser number of hours to meet daily needs and had more time for leisure or travel. They were aware of farming but saw no reason to abandon foraging in favor of that.
+23. Sahlin's writing almost echoes the biblical narrative—adoption of farming (a conscious choice) came with an enormous cost, for they fell into chaos plagued with war, disease, poverty and slavery, and the punishment for original sin is the infinity of our new desires.
+24. Poverty Point (now a UNESCO world heritage site) was a hunter-gatherer metropolis with the size of a Mesopotamian city-state—indicates labour organization, geometric and mathematical techniques, and possibly sharing of other forms of knowledge.
+25. Poverty Point (categorized under the "Archaic" period—supposedly a long time period before anything particularly important was happening), structures along the shores of Atlantic, Gulf of Mexico, and the Jomon period indicate rich social structure before the advent of farming.
+26. The agricultural argument—goes back to John Locke who argued that when a person mixes their labour with nature, the labour enters the object conferring individual ownership—was used to justify extermination of indigenous peoples and makes no sense. Farming is not the only way to care and improve the productivity of land. Foragers had maintained land for millennia by performing controlled burning, weeding and allowing flora and fauna to recover.
+27. Some forager societies had hierarchy (even one person with absolute power) and were acquainted with the notion of the sacred. The notions of the sacred and private property are intertwined—both operating on exclusion. If private property had an origin, it's as old as the sacred, which is likely as old as humanity itself.
+
+### Many Seasons Ago
+
+28. 
+
 
