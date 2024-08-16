@@ -7,6 +7,7 @@
 3. [Unfreezing the Ice Age](#unfreezing-the-ice-age)
 4. [Free People, the Origin of Cultures, and the Advent of Private Property](#free-people-the-origin-of-cultures-and-the-advent-of-private-property)
 5. [Many Seasons Ago](#many-seasons-ago)
+6. [Gardens of Adonis](#gardens-of-adonis)
 
 ### Farewell to Humanity's Childhood
 
@@ -49,6 +50,12 @@
 
 ### Many Seasons Ago
 
-28. 
+28. Along the North American Pacific coast were two culture areas—Canadians and Californians—and archaeological and linguistic evidence suggest they were connected by movement of people and trade. Surprisingly their cultures were quite different. While Canadians had a hierarchical social structure, human sacrifices, raiding and inherited slavery, the Californians had barely any of these.
+29. Wars and slavery are intertwined. Canadian aristocrats found it difficult to reduce their free subjects to the workforce, hence they raided and turned the war captives to slaves.
+30. Cultures were structures of refusal—people defined themselves in contrast to others, and in the process, set themselves as a distinct group. Californians, though they were in contact with Canadians, consciously rejected their ways in favor of own values.
+31. Hierarchy and inequality tend to emerge together. Domination first appears on the most basic, intimate level. Self-consciously egalitarian politics emerge to prevent such relations from extending beyond those small worlds into the public sphere.
 
+### Gardens of Adonis
+
+32. 
 
