@@ -8,6 +8,7 @@
 4. [Free People, the Origin of Cultures, and the Advent of Private Property](#free-people-the-origin-of-cultures-and-the-advent-of-private-property)
 5. [Many Seasons Ago](#many-seasons-ago)
 6. [Gardens of Adonis](#gardens-of-adonis)
+7. [The Ecology of Freedom](#the-ecology-of-freedom)
 
 ### Farewell to Humanity's Childhood
 
@@ -57,5 +58,11 @@
 
 ### Gardens of Adonis
 
-32. 
+32. An argument in evolutionary anthropology suggests that matriarchy might have been the original condition of humankind—because the physiological paternity wasn't understood and people assumed women are single-handedly responsible for bringing babies. True matriarchy (say, arbitrary power in the hands of women) is exceedingly rare. Other forms—say, women role models on an economic basis—may be considered.
+33. Domestication is what happens when a crop loses its ability to grow by itself in the wild—this is brought by genetic mutations through human activities. Recent research concludes that this can happen within a few decades. On the contrary, archaeological evidence suggests the so-called "Agricultural Revolution" took 3000 years to complete in the Fertile Crescent.
+34. Common sense suggests cereal-farming came first, other uses of straw followed later. Archaeological evidence shows it's the other way round. People settled in permanent villages in the Fertile Crescent long before cultivation. People harvested wild grass for straw—used for various purposes like burning, making roofs, basket-making, clothing, thatch, etc.—and the grass lost its ability for seed dispersal.
+35. Flood-retreat farming—allowing the nature to rear crops, for instance, a river flooding its banks bringing alluvial soil—was an important feature of early Neolithic economies. Such ecological systems fostered incremental growth of settlements and populations for three millennia. This happened independently in various places in the Fertile Crescent with no epicenter.
 
+### The Ecology of Freedom
+
+36. 
