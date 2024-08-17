@@ -23,7 +23,10 @@ This page is still under construction and some notes may be missing.
 
 - Emerson (1841, 1844), [_Essays_](philosophy/emerson-essays.md)
 - Thoreau (1854), [_Walden_](philosophy/thoreau-walden.md)
+- Nietzsche (1886), [_Beyond Good and Evil_](philosophy/nietzsche-bge.md)
+- Nietzsche (1887), [_On the Genealogy of Morality_](philosophy/nietzsche-genealogy.md)
 - Russell (1946), [_History of Western Philosophy_](philosophy/russell-western-philosophy.md)
+- Kuhn (1962), [_The Structure of Scientific Revolutions_](philosophy/kuhn-structure.md)
 - Gaarder (1991), [_Sophie's World_](philosophy/gaarder-sophies-world.md)
 
 ### Literature
