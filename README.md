@@ -22,6 +22,8 @@ This page is still under construction and some notes may be missing.
 ### Philosophy
 
 - Aurelius, [_Meditations_](philosophy/aurelius-meditations.md)
+- Camus, [_The Myth of Sisyphus_](philosophy/camus-sisyphus.md)
+- Camus, [_The Rebel_](philosophy/camus-rebel.md)
 - Emerson, [_Essays_](philosophy/emerson-essays.md)
 - Gaarder, [_Sophie's World_](philosophy/gaarder-sophies-world.md)
 - Kuhn, [_The Structure of Scientific Revolutions_](philosophy/kuhn-structure.md)
