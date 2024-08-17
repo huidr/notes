@@ -28,7 +28,7 @@ This page is still under construction and some notes may be missing.
 - Nietzsche, [_Beyond Good and Evil_](philosophy/nietzsche-bge.md)
 - Nietzsche, [_On the Genealogy of Morality_](philosophy/nietzsche-genealogy.md)
 - Nietzsche, [_Thus Spoke Zarathustra_](philosophy/nietzsche-zarathustra.md)
-- Plato, [_The Republic_](philosophy/plato-republic.md)
+- Plato, [_Republic_](philosophy/plato-republic.md)
 - Russell, [_History of Western Philosophy_](philosophy/russell-western-philosophy.md)
 - Thoreau, [_Walden_](philosophy/thoreau-walden.md)
 - Wittgenstein, [_Tractatus Logico-Philosophicus_](philosophy/wittgenstein-tractatus.md)
