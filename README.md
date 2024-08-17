@@ -21,13 +21,18 @@ This page is still under construction and some notes may be missing.
 
 ### Philosophy
 
-- Emerson (1841, 1844), [_Essays_](philosophy/emerson-essays.md)
-- Thoreau (1854), [_Walden_](philosophy/thoreau-walden.md)
-- Nietzsche (1886), [_Beyond Good and Evil_](philosophy/nietzsche-bge.md)
-- Nietzsche (1887), [_On the Genealogy of Morality_](philosophy/nietzsche-genealogy.md)
-- Russell (1946), [_History of Western Philosophy_](philosophy/russell-western-philosophy.md)
-- Kuhn (1962), [_The Structure of Scientific Revolutions_](philosophy/kuhn-structure.md)
-- Gaarder (1991), [_Sophie's World_](philosophy/gaarder-sophies-world.md)
+- Aurelius, [_Meditations_](philosophy/aurelius-meditations.md)
+- Emerson, [_Essays_](philosophy/emerson-essays.md)
+- Gaarder, [_Sophie's World_](philosophy/gaarder-sophies-world.md)
+- Kuhn, [_The Structure of Scientific Revolutions_](philosophy/kuhn-structure.md)
+- Nietzsche, [_Beyond Good and Evil_](philosophy/nietzsche-bge.md)
+- Nietzsche, [_On the Genealogy of Morality_](philosophy/nietzsche-genealogy.md)
+- Nietzsche, [_Thus Spoke Zarathustra_](philosophy/nietzsche-zarathustra.md)
+- Plato, [_The Republic_](philosophy/plato-republic.md)
+- Russell, [_History of Western Philosophy_](philosophy/russell-western-philosophy.md)
+- Thoreau, [_Walden_](philosophy/thoreau-walden.md)
+- Wittgenstein, [_Tractatus Logico-Philosophicus_](philosophy/wittgenstein-tractatus.md)
+- Wittgenstein, [_Philosophical Investigations_](philosophy/wittgenstein-investigations.md)
 
 ### Literature
 
