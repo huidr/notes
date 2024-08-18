@@ -85,4 +85,5 @@ This page is still under construction and some notes may be missing.
 
 - Bryson, [_A Short History of Nearly Everything_](general-nonfiction/bill-bryson-ashone.md)
 - Carson, [_Silent Spring_](general-nonfiction/carson-silent-spring.md)
+- Laxmikanth, [_Indian Polity_](general-nonfiction/laxmikanth-indian-polity.md)
 - Livio, [_Brilliant Blunders_](general-nonfiction/livio-blunders.md)
