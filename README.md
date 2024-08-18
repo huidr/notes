@@ -17,6 +17,7 @@ This page is still under construction and some notes may be missing.
 
 - Derbyshire, [_Prime Obsession_](general-nonfiction/derbyshire-prime-obsession.pdf)
 - Hofstadter, [_Gödel, Escher, Bach_](general-nonfiction/hofstadter-geb.md)
+- Penrose, [_The Emperor's New Mind_](general-nonfiction/penrose-emperor.md)
 
 ### Philosophy
 
