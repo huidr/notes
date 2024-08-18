@@ -9,6 +9,7 @@
 5. [Many Seasons Ago](#many-seasons-ago)
 6. [Gardens of Adonis](#gardens-of-adonis)
 7. [The Ecology of Freedom](#the-ecology-of-freedom)
+8. [Imaginary Cities](#imaginary-cities)
 
 ### Farewell to Humanity's Childhood
 
@@ -65,4 +66,10 @@
 
 ### The Ecology of Freedom
 
-36. 
+36. Adoption of agriculture in the remote past did not entail the inception of private property, territoriality, state politics, or irreversible departure from forager egalitarianism. Agriculture did not spread quickly as some historians want us to believe. The process was messy and not unidirectional and with mixed results.
+37. The end of the Ice Age provided a warmer climate necessary for farming. The process was very slow and un-revolutionary. Many foragers found the idea unappealing. In-and-out-of-farming (primarily foraging but occasionally taking up cultivation) was successful for millennia.
+38. The new Neolithic farmers were underdogs and initially only farmed on the land unappealing or inaccessible to the foragers. Cultivation had to be worked out using trial and error. Sometimes the foragers would raid on the new farmers.
+
+### Imaginary Cities
+
+39. 
