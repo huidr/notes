@@ -11,8 +11,7 @@ This page is still under construction and some notes may be missing.
 3. [Literature](#literature)
 4. [History and prehistory](#history-and-prehistory)
 5. [Evolutionary biology](#evolutionary-biology)
-6. [Pyschology](#psychology)
-7. [General nonfiction](#general-nonfiction)
+6. [General nonfiction](#general-nonfiction)
 
 ### Mathematics
 
@@ -77,12 +76,9 @@ This page is still under construction and some notes may be missing.
 - Shubin, [_Your Inner Fish_](general-nonfiction/shubin-inner-fish.md)
 - Weiner, [_The Beak of the Finch_](general-nonfiction/weiner-beak.md)
 
-### Psychology
-
-- Bhatia, [_Elements of Educational Psychology_](general-nonfiction/bhatia-educational-psychology.md)
-
 ### General nonfiction
 
+- Bhatia, [_Elements of Educational Psychology_](general-nonfiction/bhatia-educational-psychology.md)
 - Bryson, [_A Short History of Nearly Everything_](general-nonfiction/bill-bryson-ashone.md)
 - Carson, [_Silent Spring_](general-nonfiction/carson-silent-spring.md)
 - Laxmikanth, [_Indian Polity_](general-nonfiction/laxmikanth-indian-polity.md)
