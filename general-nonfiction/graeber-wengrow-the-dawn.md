@@ -72,4 +72,8 @@
 
 ### Imaginary Cities
 
-39. 
+39. Ecological factors often played a role in the rise of cities. Deltaic environments (wetland, flora and fauna, migratory birds) attracted human populations. This and other factors led to specialized forms of farming. In this way, extensive agriculture may have been an outcome, not a cause, of urbanization.
+40. Ukranian mega-sites (older than Mesopotamian cities) were inhabited by foragers, hunter-gatherers and in-and-out-farmers (who occasionally employed small-scale farming and also fed on wild foods). These cities seem to have been egalitarian—decisions arrived at by assemblies of representatives of families.
+41. Early Mesopotamian cities seem to have been self-governed with no authoritarian rule. Women, sons, daughters and manual labourers played their part in decision-making. Temples provided refuge and support to the urban needy.
+42. The Uruk expansion involved no weapons but rather it influenced the nearby settlements with their culture and ways of life. In nearby cities, private structures were built, in place of temples, to house weapons and armoury—the heroic societies—marking the rise of warrior aristocracies and palaces. In this way, aristocracy, perhaps monarchy itself, first emerged in opposition to egalitarian Mesopotamian cities.
+43. 
