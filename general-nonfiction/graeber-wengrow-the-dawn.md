@@ -10,6 +10,7 @@
 6. [Gardens of Adonis](#gardens-of-adonis)
 7. [The Ecology of Freedom](#the-ecology-of-freedom)
 8. [Imaginary Cities](#imaginary-cities)
+9. [Hiding in Plain Sight](#hiding-in-plain-sight)
 
 ### Farewell to Humanity's Childhood
 
@@ -76,4 +77,11 @@
 40. Ukranian mega-sites (older than Mesopotamian cities) were inhabited by foragers, hunter-gatherers and in-and-out-farmers (who occasionally employed small-scale farming and also fed on wild foods). These cities seem to have been egalitarian—decisions arrived at by assemblies of representatives of families.
 41. Early Mesopotamian cities seem to have been self-governed with no authoritarian rule. Women, sons, daughters and manual labourers played their part in decision-making. Temples provided refuge and support to the urban needy.
 42. The Uruk expansion involved no weapons but rather it influenced the nearby settlements with their culture and ways of life. In nearby cities, private structures were built, in place of temples, to house weapons and armoury—the heroic societies—marking the rise of warrior aristocracies and palaces. In this way, aristocracy, perhaps monarchy itself, first emerged in opposition to egalitarian Mesopotamian cities.
-43. 
+43. Mohenjo-daro seemed to be egalitarian with equal distribution of wealth and writing, with no clear evidence of authoritarian rule. The civic life seemed to be at the Great Bath—a public place for purification of bodies. Indus civilization had their script but it vanished with their cities and was not deciphered.
+44. There is no necessary correspondence between the concepts of social hierarchy and the practical mechanics of governance. A caste system may co-exist with egalitarian governance (the Bali example—the seka system, inspired by Hinduism but everyone takes part in politics).
+45. A very common theory is that kingdoms form, following agriculture in river valleys, to maintain complex irrigation systems. Bali once again provides a counter-example. Their irrigation is managed entirely by consensus of farmers on egalitarian decision-making.
+46. The Hobbesian idea is refuted by a particular case in China. When kingship failed in a city, anarchism followed. During the anarchy, the city expanded its size and flourished for two centuries.
+
+### Hiding in Plain Sight
+
+47. 
