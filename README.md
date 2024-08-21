@@ -62,6 +62,7 @@ This page is still under construction and some notes may be missing.
 - Harari, [_Sapiens_](general-nonfiction/harari-sapiens.md)
 - Kamei, [_History of Manipur_](history/gangmumei-kamei-hom.md)
 - Mann, [_1491_](history/mann-1491.md)
+- McCullough, [_1776_](history/mccullough-1776.md)
 - Thapar, [_Ancient India_](history/thapar-ancient-india.md)
 - Thapar, [_Medieval India_](history/thapar-midieval-india.md)
 - Tuchman, [_The Guns of August_](history/tuchman-guns.md)
