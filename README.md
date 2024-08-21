@@ -61,6 +61,7 @@ This page is still under construction and some notes may be missing.
 - Graeber, Wengrow, [_The Dawn of Everything_](general-nonfiction/graeber-wengrow-the-dawn.md)
 - Harari, [_Sapiens_](general-nonfiction/harari-sapiens.md)
 - Kamei, [_History of Manipur_](history/gangmumei-kamei-hom.md)
+- Mann, [_1491_](history/mann-1491.md)
 - Thapar, [_Ancient India_](history/thapar-ancient-india.md)
 - Thapar, [_Medieval India_](history/thapar-midieval-india.md)
 - Tuchman, [_The Guns of August_](history/tuchman-guns.md)
