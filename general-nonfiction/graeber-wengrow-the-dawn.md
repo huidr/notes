@@ -11,6 +11,7 @@
 7. [The Ecology of Freedom](#the-ecology-of-freedom)
 8. [Imaginary Cities](#imaginary-cities)
 9. [Hiding in Plain Sight](#hiding-in-plain-sight)
+10. [Why the State Has No Origin](#why-the-state-has-no-origin)
 
 ### Farewell to Humanity's Childhood
 
@@ -84,4 +85,14 @@
 
 ### Hiding in Plain Sight
 
-47. 
+47. When the Mexica arrived, they founded their Aztec city Tenochtitlan, modelling it on Teotihuacan, an abandoned city. Most myths surrounding Teotihuacan were made by the Mexica. But Teotihuacan, as archaeological evidence suggests, was devoid of royalty and authoritarian rule (when they existed, they almost inevitably left traces).
+48. The pyramids of Teotihuacan were built with human sacrifices. The entire city was built without working animals and metal tools. But surprisingly, history took a turn and Teotihuacan became largely egalitarian. Instead of building palaces, the citizens embarked on a project of urban renewal, supplying high-quality apartments for nearly all the city's population, regardless of wealth or status. The authority was possibly divided among local assemblies—there are complexes dispersed throughout the city.
+49. Although there are no signs of royalty in Teotihuacan. Interestingly, there is art in Tikal depicting rulers in Teotihuacano tradition and clothing. Was it that some bandit, trader, traveler from Teotihuacan landed there and was treated with royalty (as it happened throughout history)? Did Teotihuacan eventually fall, because some such ruler returned and having learnt new ways, revolted?
+50. Traxcala, as archaeology and other written sources confirm, was an indigenous republic—governed by a council of elected officials answerable to the citizenry—which existed long before Europeans set foot on American soil. Later, Traxcala decided to lend hand to the Spanish in conquering their old rival the Aztec empire.
+
+### Why the State Has No Origin
+
+
+
+
+
