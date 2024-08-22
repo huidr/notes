@@ -86,7 +86,7 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 ### Paradiso
 
-**Moon** (Cantos I-V)
+**Moon**: Vow Breakers (Cantos I-V)
 
 1. It's noon, and Dante stands with Beatrice in the Garden of Eden. As they ascend through the atmosphere, Dante has a strange out-of-body experience. Beatrice explains: human souls has innate tendency toward God, and since he has been purified of his sins, he feels this attraction.
 2. Dante gives a warning to his readers whom, he expects, are scholars, theologians and philosophers. The Moon is a solid, dense cloud. He asks Beatrice why the Moon has dark spots. He recounts several stories he has heard, however Beatrice explains: the uneveness is the reflection of the variety God has put in His creation.
@@ -94,4 +94,18 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 4. Dante wonders if Plato was right when he said that souls go back to stars upon death. Beatrice answers that it is partly true—souls of Piccarda and others are not remote from God, and stars-and-planets imagery is simply a way of telling God's presence for the limited mortal mind.
 5. Beatrice explains: free will is God's greatest gift to mankind. One should not make vows in haste. Then the duo travels to Mercury and a flock of spirits greet them.
 
-**Mercury** (Cantos V-)
+**Mercury**: Fame Seekers (Cantos V-VII)
+
+6. The 6th-century Byzantine emperor Justinian speaks to Dante about his past life, recounts the history of Rome from its mythological origins and is disdainful of the constant violence over the rule of Rome. (This is the only canto in _Divine Comedy_ written entirely in one voice—that of Justinian).
+7. Beatrice narrates God's journey to Earth in the form of a human to set things right and then to sacrifice his life. While this may sound unnecessary (because God could have just forgiven humanity), Beatrice says, it is the right and finest way—to live as a human, suffer and pay the debt.
+
+**Venus**: Ardent Lovers (Cantos VIII-IX)
+
+8. Dante asks Charles Martel (was briefly a king of Hungary) "How can it be that sweet seed leads to sour?" (how can the children of a wise and just ruler not follow his footsteps?) God gives humans unique skills to play different roles in society, Charles says, but they often use it wrongly and force themselves into roles they are ill-suited.
+9. The souls explain that the inhabitants of Venus are those who gave in to earthly pleasures—particularly sexual desires. But they are not saddened by their past nor do they repent—there are no unhappy souls in paradise.
+
+**Sun**: Wise Spirits (Cantos X-XIV)
+
+10. The souls gather around Dante and Beatrice in a halo and sing a song. Then they encounter Thomas Aquinas, who identifies several philosophers, theologians and historians.
+11. 
+
