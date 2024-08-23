@@ -109,4 +109,9 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 10. The souls gather around Dante and Beatrice in a halo and sing a song. Then they encounter Thomas Aquinas, who identifies several philosophers, theologians and historians.
 11. Thomas resumes his speech and tells of saints sent by God to guide the Church on Earth. He recounts the life of Saint Francis (describes him as a groom, married to poverty) and briefly mentions Saint Dominic, the founder of Dominican order.
 12. Two circles of souls surround Dante as another saint Bonaventure narrates the life of Saint Dominic, describing him as the knight fighting under Christ and as wedded to faith. Bonaventure points out several other Christian thinkers and preachers.
+13. Thomas Aquinas once again speaks to Dante, claiming that Solomon was the wisest king who ever lived. Solomon was modest when he asked God for only wisdom to govern his people, when he could have asked for more. God created angels and souls directly, and human bodies, plants, animals and others indirectly.
+14. Anticipating Dante’s question, Beatrice asks about the fate of the spirits after they are reunited with their bodies at the Last Judgment. Solomon himself answers: the blessed will shine even brighter once they have recovered their bodies.
 
+**Mars**: Holy Warriors (Cantos XIV-XVIII)
+
+15. 
