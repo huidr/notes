@@ -107,5 +107,6 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 **Sun**: Wise Spirits (Cantos X-XIV)
 
 10. The souls gather around Dante and Beatrice in a halo and sing a song. Then they encounter Thomas Aquinas, who identifies several philosophers, theologians and historians.
-11. 
+11. Thomas resumes his speech and tells of saints sent by God to guide the Church on Earth. He recounts the life of Saint Francis (describes him as a groom, married to poverty) and briefly mentions Saint Dominic, the founder of Dominican order.
+12. Two circles of souls surround Dante as another saint Bonaventure narrates the life of Saint Dominic, describing him as the knight fighting under Christ and as wedded to faith. Bonaventure points out several other Christian thinkers and preachers.
 
