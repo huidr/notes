@@ -97,5 +97,6 @@
 53. An empire run entirely by military force is susceptible to another stronger force of the same nature—when the Spanish conquered Inca, most things fell in place while rebellions continued ceaselessly at places where there were no kingships.
 54. Sovereignty alone cannot be a state. A king's power even if it is absolute only extends as far as they can reach. Contrary to common theory, complex society (need for irrigation?) does not necessarily entail bureaucracy. There is archaeological evidence for bureaucracy in very early small societies.
 55. One reason why Ancient Egypt is regarded as one of the earliest states is because they had both sovereignty and bureaucracy (but practically no heroic, competitive politics). When a Dynasty failed, they turned/returned to heroic societies (a time historians refer to as "intermediate" or "dark ages"—nothing significant changed except the loss of sovereignty).
+56. One misconception is visualising civilization as building of cities which in turn led to formation of states. Minoan Crete offers an archaeological puzzle. There is no clear evidence of monarchy and it appears to have been a theocracy of priestesses.
 
 
