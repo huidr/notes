@@ -92,11 +92,10 @@
 
 ### Why the State Has No Origin
 
-51. A common definition defines a state as an institution that has monopoly on the use of violence within a territory. The authors suggest three principles—control of violence, control of information and individual charisma—as bases of social power. In modern states, these translate to sovereignty, bureaucracy (administration) and competitive politics.
+51. A common definition defines a state as an institution that has monopoly on the use of violence within a territory. The authors suggest three principles—control of violence, control of information and individual charisma (heroic society)—as bases of social power. In modern states, these translate to sovereignty, bureaucracy (administration) and competitive politics.
 52. It's a misconception to assume that once a society becomes complex, it necessitates a top-down social structure (government). Sometimes the existence of a complex society is taken as proof for existence of the state. Early cities refute this outlook.
 53. An empire run entirely by military force is susceptible to another stronger force of the same nature—when the Spanish conquered Inca, most things fell in place while rebellions continued ceaselessly at places where there were no kingships.
-54. Sovereignty alone cannot be a state. A king's power even if it is absolute only extends as far as they can reach. Complex society (need for irrigation?) does not necessarily entail bureaucracy. There is archaeological evidence for bureaucracy in very early small societies.
-55. One reason why Ancient Egypt is regarded as one of the earliest states is because they had both sovereignty and bureaucracy (but practically no heroic, competitive politics). When a Dynasty failed, they turned/returned to heroic societies (a time historians refer to as "intermediate" or "dark ages").
-
+54. Sovereignty alone cannot be a state. A king's power even if it is absolute only extends as far as they can reach. Contrary to common theory, complex society (need for irrigation?) does not necessarily entail bureaucracy. There is archaeological evidence for bureaucracy in very early small societies.
+55. One reason why Ancient Egypt is regarded as one of the earliest states is because they had both sovereignty and bureaucracy (but practically no heroic, competitive politics). When a Dynasty failed, they turned/returned to heroic societies (a time historians refer to as "intermediate" or "dark ages"—nothing significant changed except the loss of sovereignty).
 
 
