@@ -117,8 +117,8 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 15. Cacciaguida is joyous to see his descendant Dante and is grateful to Beatrice for guiding him to paradise. Dante is puzzled and inquires about his identity. Cacciaguida reveals his identity, recalls Florence of his time—vastly different and more pristine, pure and chaste—and comments the city has been ruined by greed and money. Then he recounts his death in the Crusades.
 16. Cacciaguida, Dante's great-great-grandfather, continues his speech. He recounts that many of the fallen families of his descendants (ruined by pride) were thriving during his own time. He comments that the ranks of the Church have become corrupted during Dante's time.
 17. Dante asks Cacciaguida about the misfortunes that await him. Cacciaguida says Dante will have to leave Florence (in exile) and shall rely on the kindness of strangers. Dante wonders if he should include his journey and visions (who ends up in Hell or Heaven) in his poetry at the risk of making himself unpopular, but Cacciaguida encourages him to write poetry truthfully and without fear of rebuke.
-18. 
+18. Dante glances at Beatrice and cannot take away his eyes—lost in her beauty but will not praise it because he does not trust his own speech or memory. Cacciaguida then speaks about the souls that reside in Mars. Then Dante and Beatrice ascends to the next heaven.
 
-(Cantos XIX-)
+**Jupiter**: Just Rulers (Cantos XXVIII-XX)
 
 19. 
