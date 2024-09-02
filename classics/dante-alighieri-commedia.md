@@ -121,4 +121,14 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 **Jupiter**: Just Rulers (Cantos XXVIII-XX)
 
-19. 
+19. Dante speaks to the Justice Eagle—the amalgamation of all the just souls that inhabit Jupiter in one voice—asking for justice on Earth. The Justice Eagle says humans can grasp only as far as their eyes can see (cannot see underneath the sea) and this limits the justice they see on Earth and therefore, humans should be righteous and evildoers shall be punished on Judgement Day.
+20. The Eagle instructs Dante to look in its eyes. Dante sees several souls (for instance, King David in its pupil), but is especially bewildered to see two pagans—Trajan and Ripheus—among them. The Eagle explains that direct divine intervention saved them. Trajan was brought back to life to be baptized and God opened Ripheus's eyes centuries before Christ's coming.
+
+**Saturn**: Contemplatives (Cantos XXI-XXII)
+
+21. Beatrice has become so beautiful that she should refrain from smiling, otherwise it will burn Dante into ashes (like a lightning bolt does to branch). Dante sees a golden ladder and souls descending from it. He enquires why there is no music in this Heaven but the soul replies that there is but is  beyond the limits of human ears. Then the souls circle Dante and give a wild cry, perplexing him.
+22. Beatrice explains that the cry is a prayer for vengeance on those who are corrupting the Church and the prayer shall be answered during Dante's time. Benedict explains the nature of the ladder—Dante cannot see high up because it signifies God's truth and knowledge which is beyond human understanding. Dante turns back to see the heavens—the Earth appears small and insignificant.
+
+**Fixed Stars**: Church Triumphants (Cantos XXII-XXVII)
+
+23. 
