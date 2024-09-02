@@ -131,4 +131,6 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 **Fixed Stars**: Church Triumphants (Cantos XXII-XXVII)
 
-23. 
+23. Dante glances at the group of saints and the Christ at its head. Christ is too bright and radiant for Dante's eyes to behold—this allows Dante to glance at a milder radiance, Beatrice's smile. An angel sings hymns of praise to Virgin Mary.
+24. Peter questions Dante on faith. Dante replies that faith is the substance of the things we hope and is evidence of things unseen. Peter questions him further. When asked why he should trust the Bible, Dante replies that the miracles recorded there are proofs of the strength of Christian faith. Peter objects and says the miracles, as asserted in the Bible, cannot be cited as proofs of accuracy. Dante comments that it's even more miraculous that Christianity would flourish without any real miracles to sustain it.
+25. 
