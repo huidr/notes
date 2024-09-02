@@ -145,4 +145,6 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 **Empyrean**: Blessed, Angels, Holy Trinity (Cantos XXX-XXXIII)
 
-31. 
+31. Dante gazes at the concentric tiers of saints visited by angels here and there. He compares this to the corrupt politics of Florence. As he turns back, he finds Saint Bernard instead. Bernard directs his gaze at Beatrice who has taken her seat in the choir. Dante recites a prayer thanking Beatrice for bringing him to Heaven and giving him a chance at salvation. He hopes to meet Beatrice again in Heaven. Bernard then directs his gaze to Virgin Mary.
+32. Bernard shows Dante the court of Heaven. He gazes at Eve, Rachel and other biblical figures. There are two ranks—one who believed in Christ even before his coming and this rank is filled, the other who believed in him after his coming and this has some vacancies.
+33. Bernard prays to Mary to make Dante worthy to feel the presence of God. Mary agrees, and Dante gazes at the center of the court. His eyesight is better than ever and he sees the Trinity—as three circles sharing a single circumference. Dante feels the divine presence and love.
