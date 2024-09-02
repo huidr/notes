@@ -139,4 +139,10 @@ Dante describes Hell as existing underneath Jerusalem, having been created by th
 
 **Primum Mobile**: Angelic Orders (Cantos XXVII-XXX)
 
-28. 
+28. Dante gazes upon the Primum Mobile and Beatrice explains what he sees. There are nine concentric halo-like rings representing nine ranks of angels. At the center is a fine and bright light. The closer a ring is to this center, the higher is its rank—those angels closer to God that understand him more.
+29. Beatrice recounts moments of creation to Dante. God created the universe and the angels in a moment of instant joy and not to satisfy any need. Humans are created somewhat later. The fall happened when the angel Lucifer rebelled. The angels are many in numbers.
+30. Dante and Beatrice ascend to the Empyrean which blinds him with its radiance. As his vision improves, he sees beautiful hills and flowers. Drinking from a river restores his eyesight completely. All this, Beatrice explains, is God's way of presenting paradise to him because he is not ready to gaze at the real paradise yet. Saints and angels gather in a ring. Pointing to an empty spot in the choir, Beatrice prophesies that it will soon be occupied by Emperor Henry VII.
+
+**Empyrean**: Blessed, Angels, Holy Trinity (Cantos XXX-XXXIII)
+
+31. 
