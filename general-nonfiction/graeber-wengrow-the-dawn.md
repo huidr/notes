@@ -102,4 +102,12 @@
 
 ### Full Circle
 
-57. 
+57. Evolutionists have moved on from the traditional social evolution theory from bands to tribes to chiefdoms to states. Are current social structures inevitable? It's difficult to predict future events, but once they happen they seem inevitable.
+58. Native Americans have an old clan system based on animals—treated as ancestors. It's possible to travel across the width of the continent and find someone of the same clan and find help. This is surprising because they have diverse language families.
+59. Historical events are impossible to predict and happen only once. Pre-Columbian America offers a perfect example why monarchy may not have been inevitable. Cahokia had every chance to become a grain-state. But the top-down structure failed and the settlers moved away to become local republics. This disapproves the idea that once state formation is done, there is no getting out. Cahokia sidestepped the evolutionary trap—that agriculture leads to empires.
+60. Three fundamental freedoms: (1) to move, (2) to disobey, (3) to establish social structures by rational idea. The third may follow from the first two.
+
+### Conclusion
+
+61. 
+
