@@ -13,6 +13,7 @@
 9. [Hiding in Plain Sight](#hiding-in-plain-sight)
 10. [Why the State Has No Origin](#why-the-state-has-no-origin)
 11. [Full Circle](#full-circle)
+12. [Conclusion](#conclusion)
 
 ### Farewell to Humanity's Childhood
 
@@ -105,9 +106,9 @@
 57. Evolutionists have moved on from the traditional social evolution theory from bands to tribes to chiefdoms to states. Are current social structures inevitable? It's difficult to predict future events, but once they happen they seem inevitable.
 58. Native Americans have an old clan system based on animals—treated as ancestors. It's possible to travel across the width of the continent and find someone of the same clan and find help. This is surprising because they have diverse language families.
 59. Historical events are impossible to predict and happen only once. Pre-Columbian America offers a perfect example why monarchy may not have been inevitable. Cahokia had every chance to become a grain-state. But the top-down structure failed and the settlers moved away to become local republics. This disapproves the idea that once state formation is done, there is no getting out. Cahokia sidestepped the evolutionary trap—that agriculture leads to empires.
-60. Three fundamental freedoms: (1) to move, (2) to disobey, (3) to establish social structures by rational idea. The third may follow from the first two.
+60. Three fundamental freedoms: (1) to move, (2) to disobey, (3) to establish social structures by rational idea. The third may follow from the first two. The story of Cahokia might have inspired the indigenous critique of European society which later led to (inspired) the Enlightenment. There is no reason to assume this rejection of prevailing social structures did not happen in the far past.
 
 ### Conclusion
 
-61. 
-
+61. Big histories place big importance on technological advancements (Stone-Bronze-Iron, or Agricultural-Industrial). It's easy to overestimate the role of technology in shaping human history. That Teotihuacan used stone tools and Mohenjo-daro used metal tools makes little difference in their social structure, city size, etc. It's a misconception to assume a major technological advancements brought big changes in human history. Indeed, technological advancements come incrementally. Prehistoric inventions still benefit us today (making bread via yeasts?) and Greeks came up with the principle of the steam engine but used it for opening doors.
+62. The origin of monarchy might have been rituals (the first kings were dead kings?) or charity (chiefs giving refuge and care to strangers, widows, orphans, etc.) There were long periods (centuries) between wars after the advent of agriculture. Wars and patriarchy are related. Patriarchy and monarchy have similar model. 
