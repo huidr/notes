@@ -9,7 +9,7 @@ This page is still under construction and some notes may be missing.
 1. [Mathematics](#mathematics)
 2. [Philosophy](#philosophy)
 3. [Literature](#literature)
-4. [History and prehistory](#history-and-prehistory)
+4. [History, prehistory & big history](#history-prehistory-&-big-history)
 5. [Evolutionary biology](#evolutionary-biology)
 6. [General nonfiction](#general-nonfiction)
 
@@ -52,8 +52,9 @@ This page is still under construction and some notes may be missing.
 - Proust, [_In Search of Lost Time_](classics/proust.md)
 - Salinger, [_The Catcher in the Rye_](classics/salinger-catcher.md)
 
-### History and prehistory
+### History, prehistory & big history
 
+- Bryson, [_A Short History of Nearly Everything_](general-nonfiction/bill-bryson-ashone.md)
 - Chandra & co., [_India's Struggle for Independence_](history/chandra-struggle.md)
 - Chandra & co., [_India After Independence_](history/chandra-after-independence.md)
 - Diamond, [_Guns, Germs, and Steel_](general-nonfiction/jared-diamond-ggs.pdf)
@@ -82,7 +83,6 @@ This page is still under construction and some notes may be missing.
 ### General nonfiction
 
 - Bhatia, [_Elements of Educational Psychology_](general-nonfiction/bhatia-educational-psychology.md)
-- Bryson, [_A Short History of Nearly Everything_](general-nonfiction/bill-bryson-ashone.md)
 - Carson, [_Silent Spring_](general-nonfiction/carson-silent-spring.md)
 - Laxmikanth, [_Indian Polity_](general-nonfiction/laxmikanth-indian-polity.md)
 - Livio, [_Brilliant Blunders_](general-nonfiction/livio-blunders.md)
