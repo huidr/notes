@@ -5,6 +5,7 @@
 1. [The First Major Challenge: The Revolt of 1857](#the-first-major-challenge-the-revolt-of-1857)
 2. [Civil Rebellions and Tribal Uprisings](#civil-rebellions-and-tribal-uprisings)
 3. [Peasant Movements and Uprisings after 1857](#peasant-movements-and-uprisings-after-1857)
+4. [Foundation of the Indian National Congress: The Myth](#foundation-of-the-indian-national-congress-the-myth)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -21,4 +22,10 @@
 
 ### Peasant Movements and Uprisings after 1857
 
-8. 
+8. Indigo Revolt of 1859-1860 in Bengal: Peasants were forced to grow indigo by being paid a low advance; the conditions were oppressive; they rebelled by not growing indigo anymore and retaliating the lathiyals sent by the planters. Peasants attacked factories and resisted police attacks. The revolt was large-scaled with unity between Hindus and Muslims—leading to success as planters closed down factories and indigo cultivation stopped.
+9. Agrarian unrest in 1870s and early 1880s in Bengal: Agrarian leagues were formed in retaliation to zamindars' increased rents. The government defended zamindars whenever violence took place, otherwise maintained neutrality. Reconciliation came easy as the leagues were only against zamindars, displayed no anti-colonial sentiments and only acted within the law. Some protections came in the form of Bengal Tenancy Act of 1885.
+10. Deccan peasants' boycott of moneylenders (who were mostly outsiders: Marwaris and Gujaratis) in some districts of Maharastra in the 1870s. Since there were no anti-colonial sentiments and the demands were reasonable, success came easy. Once the debt bonds were surrendered, no more violence was needed.
+
+### Foundation of the Indian National Congress: The Myth
+
+11. 
