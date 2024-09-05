@@ -21,31 +21,18 @@ This page is still under construction and some notes may be missing.
 
 ### Philosophy
 
-- Aurelius, [_Meditations_](philosophy/aurelius-meditations.md)
-- Camus, [_The Myth of Sisyphus_](philosophy/camus-sisyphus.md)
-- Camus, [_The Rebel_](philosophy/camus-rebel.md)
-- Emerson, [_Essays_](philosophy/emerson-essays.md)
 - Gaarder, [_Sophie's World_](philosophy/gaarder-sophies-world.md)
 - Kuhn, [_The Structure of Scientific Revolutions_](philosophy/kuhn-structure.md)
-- Nietzsche, [_Beyond Good and Evil_](philosophy/nietzsche-bge.md)
-- Nietzsche, [_On the Genealogy of Morality_](philosophy/nietzsche-genealogy.md)
-- Nietzsche, [_Thus Spoke Zarathustra_](philosophy/nietzsche-zarathustra.md)
-- Plato, [_Republic_](philosophy/plato-republic.md)
-- Russell, [_History of Western Philosophy_](philosophy/russell-western-philosophy.md)
 - Thoreau, [_Walden_](philosophy/thoreau-walden.md)
-- Wittgenstein, [_Tractatus Logico-Philosophicus_](philosophy/wittgenstein-tractatus.md)
-- Wittgenstein, [_Philosophical Investigations_](philosophy/wittgenstein-investigations.md)
 
 ### Literature
 
 - Dante, [_Divine Comedy_](classics/dante-alighieri-commedia.md)
 - Dickens, [_David Copperfield_](classics/dickens-david-copperfield.md)
 - Dostoevsky, [_The House of the Dead_](classics/dostoevsky-dead-house.md)
-- Dostoevsky, [_Notes from Underground_](classics/dostoevsky-underground.md)
 - Dostoevsky, [_Crime and Punishment_](classics/dostoevsky-c&p.md)
 - Dumas, [_The Count of Monte Cristo_](classics/dumas-monte-cristo.pdf)
 - Eliot, [_Prufrock and Other Observations_](classics/eliot-prufrock.md)
-- Eliot, [_The Wasteland_](classics/eliot-wasteland.md)
 - Gibran, [_The Prophet_](classics/kahlil-gibran-prophet.md)
 - Homer, [_Iliad_](classics/homer-iliad.md)
 - Homer, [_Odyssey_](classics/homer-odyssey.md)
@@ -58,16 +45,10 @@ This page is still under construction and some notes may be missing.
 - Chandra & co., [_India's Struggle for Independence_](history/chandra-struggle.md)
 - Chandra & co., [_India After Independence_](history/chandra-after-independence.md)
 - Diamond, [_Guns, Germs, and Steel_](general-nonfiction/jared-diamond-ggs.pdf)
-- Frankopan, [_The Silk Roads_](history/frankopan-silk-roads.md)
 - Graeber, Wengrow, [_The Dawn of Everything_](general-nonfiction/graeber-wengrow-the-dawn.md)
 - Harari, [_Sapiens_](general-nonfiction/harari-sapiens.md)
 - Kamei, [_History of Manipur_](history/gangmumei-kamei-hom.md)
-- Mann, [_1491_](history/mann-1491.md)
-- McCullough, [_1776_](history/mccullough-1776.md)
-- Thapar, [_Ancient India_](history/thapar-ancient-india.md)
-- Thapar, [_Medieval India_](history/thapar-midieval-india.md)
 - Tuchman, [_The Guns of August_](history/tuchman-guns.md)
-- Zinn, [_A People's History of the United States_](history/zinn-peoples-history.md)
 
 ### Evolutionary biology
 
