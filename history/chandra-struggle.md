@@ -8,6 +8,7 @@
 4. [Foundation of the Congress: The Myth](#foundation-of-the-congress-the-myth)
 5. [Foundation of the Indian National Congress: The Reality](#foundation-of-the-indian-national-congress-the-reality)
 6. [Socio-Religious Reforms and the National Awakening](#socio-religious-reforms-and-the-national-awakening)
+7. [An Economic Critique of Colonialism](#an-economic-critique-of-colonialism)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -41,4 +42,10 @@
 
 ### Socio-Religious Reforms and the National Awakening
 
-16. 
+16. Raja Rammohan Roy, in 1828, pointed out that the caste system and the divisions in Hinduism is a huge roadblock toward patriotic feeling. A Hindu deals with sacredness everywhere in daily life. Social conditions of women were distressing—birth was unwelcome, marriage was a burden and widowhood was unauspicious.
+17. Need for socio-religious reforms. But practices based on faith cannot be directly challenged without bringing faith into question. Therefore, Rammohan demonstrated sati had no religious sanction, Vidyasagar defended widow marriage with scriptural support and Dayanand based his anti-casteism on Vedic authority.
+18. The 19th century brought great socio-religious in Indian societies—dispense with old traditions but resisted the colonial hegemony. Intellectuals argued against polygamy and polytheism; many advocated "one religion, one god"; some vouched for no religion.
+
+### An Economic Critique of Colonialism
+
+19. 
