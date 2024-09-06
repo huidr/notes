@@ -9,6 +9,7 @@
 5. [Foundation of the Indian National Congress: The Reality](#foundation-of-the-indian-national-congress-the-reality)
 6. [Socio-Religious Reforms and the National Awakening](#socio-religious-reforms-and-the-national-awakening)
 7. [An Economic Critique of Colonialism](#an-economic-critique-of-colonialism)
+8. [The Fight to Secure Press Freedom](#the-fight-to-secure-press-freedom)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -48,4 +49,10 @@
 
 ### An Economic Critique of Colonialism
 
-19. 
+19. The strongest reason for anti-colonialism was given by the Moderates—the indigenous economy was regressing and imperialism is the culprit. Dadabhai Naoroji, R. C. Dutt and M. G. Ranade were the main proponents of economic nationalism. The need for industrialization using modern technology was felt but it should come from indigenous capital, not foreign capital.
+20. Handicrafts industry was falling. But the colonial administrators cited foreign trade and building of railways as signs of economic boost. Early nationalists argued that free trade was ruining indigenous industries—India was serving as provider of raw materials. The economic drain theory had an added advantage that it was easily understood by the peasants.
+21. The drain theory revealed the nature of colonial rule. This degraded their moral force (primary school texts had taught about the benefits of British rule). This planted a feeling of mistrust in the benevolence of the colonial power. The demand of self-government was slowly surfacing. At the 1905 Benares Congress session, Dadabhai Naoroji suggested self-government as the only remedy to India's woes.
+
+### The Fight to Secure Press Freedom
+
+22. 
