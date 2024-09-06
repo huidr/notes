@@ -7,6 +7,7 @@
 3. [Peasant Movements and Uprisings after 1857](#peasant-movements-and-uprisings-after-1857)
 4. [Foundation of the Congress: The Myth](#foundation-of-the-congress-the-myth)
 5. [Foundation of the Indian National Congress: The Reality](#foundation-of-the-indian-national-congress-the-reality)
+6. [Socio-Religious Reforms and the National Awakening](#socio-religious-reforms-and-the-national-awakening)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -34,4 +35,10 @@
 
 ### Foundation of the Indian National Congress: The Reality
 
-13. 
+13. The early objectives of the Congress was to induct the people into politics and national feeling. Colonial critics cited the diversity of caste, religion, creed as main challenges toward this goal. The Congress leaders conceded this; nonetheless, declared that India was a nation-in-the-making. They foresaw that this nation building process would take long.
+14. To bring diverse people under a national umbrella, the Congress decided their sessions be held by rotation at various cities. The mass politics was new and the people should be introduced to politics. Importance of nation-wide organization and leadership was seen. From the beginning, the Congress was organized as a parliament and the proceedings were democratic. They stood for sovereignty of the people, freedom of the press, freedom of speech, against racial discrimation.
+15. The formation of the Congress was the culmination of various unrest and agitations (regarding tariffs, right for Indian judges to try Europeans, etc) in the preceding decades. In its initial stage, the Congress did not organize mass movements. Early nationalists took time to understand the nature of colonial state. Having a distinguished British ex-officer as the organizer worked in their favor for it were an Indian organizing a mass all-India anti-colonial movement, the reaction of the colonial state could have been harsh and quick.
+
+### Socio-Religious Reforms and the National Awakening
+
+16. 
