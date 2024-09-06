@@ -5,7 +5,8 @@
 1. [The First Major Challenge: The Revolt of 1857](#the-first-major-challenge-the-revolt-of-1857)
 2. [Civil Rebellions and Tribal Uprisings](#civil-rebellions-and-tribal-uprisings)
 3. [Peasant Movements and Uprisings after 1857](#peasant-movements-and-uprisings-after-1857)
-4. [Foundation of the Indian National Congress: The Myth](#foundation-of-the-indian-national-congress-the-myth)
+4. [Foundation of the Congress: The Myth](#foundation-of-the-congress-the-myth)
+5. [Foundation of the Indian National Congress: The Reality](#foundation-of-the-indian-national-congress-the-reality)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -26,6 +27,11 @@
 9. Agrarian unrest in 1870s and early 1880s in Bengal: Agrarian leagues were formed in retaliation to zamindars' increased rents. The government defended zamindars whenever violence took place, otherwise maintained neutrality. Reconciliation came easy as the leagues were only against zamindars, displayed no anti-colonial sentiments and only acted within the law. Some protections came in the form of Bengal Tenancy Act of 1885.
 10. Deccan peasants' boycott of moneylenders (who were mostly outsiders: Marwaris and Gujaratis) in some districts of Maharastra in the 1870s. Since there were no anti-colonial sentiments and the demands were reasonable, success came easy. Once the debt bonds were surrendered, no more violence was needed.
 
-### Foundation of the Indian National Congress: The Myth
+### Foundation of the Congress: The Myth
 
-11. 
+11. The safety-valve theory (or myth) of the foundation of the Congress—A. O. Hume under, under the direction and guidance of the Viceroy Lord Dufferin, founded the Congress to channel the emerging unrest and potential mass revolution into a safety valve. Citing this genesis, several intellectuals, extreme right-wing, liberals criticized that the Congress had been compromising and anti-national from the beginning and this played a role in behavior afterwards.
+12. This chapter takes on this myth. It argues that, by citing evidences, Hume, after his retirement from ICS in 1882, had publicly encouraged Indians to take part in politics, to unite and discuss political reforms while Dufferin was critical of the Congress for taking part in political matters and was never supportive of the movement. Dufferin and others were fearful of an Irish-type revolutinary agitation in India.
+
+### Foundation of the Indian National Congress: The Reality
+
+13. 
