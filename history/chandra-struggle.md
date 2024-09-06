@@ -10,6 +10,7 @@
 6. [Socio-Religious Reforms and the National Awakening](#socio-religious-reforms-and-the-national-awakening)
 7. [An Economic Critique of Colonialism](#an-economic-critique-of-colonialism)
 8. [The Fight to Secure Press Freedom](#the-fight-to-secure-press-freedom)
+9. [Propaganda in the Legislatures](#propaganda-in-the-legislatures)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -55,4 +56,10 @@
 
 ### The Fight to Secure Press Freedom
 
-22. 
+22. Early on, nationalists saw the importance of the press. Nearly one-third of the founding members of the Congress were journalists. Newspapers were not business enterprises and were published as public service. Since 1870, Section 124A of the Indian Penal Code had existed, which punished whoever attempted to excite disaffection of the Government—to bypass this, Indian journalists came up with clever strategies such as publishing anti-imperialist excerpts, sometimes without quotes, from London-based socialist or Irish newspapers or other publications drawing parallels with the Indian condition.
+23. As newspapers became highly critical of colonial administration, especially Lord Lytton's inhuman response to the victims of famine of 1876-77, the Vernacular Act of 1878, directed at Indian language newspapers, was passed in secrecy in a single sitting of the Imperial Legislative Council, providing confiscation of press if the Government believed it was publishing seditious material. It is mostly aimed at _Amrita Bazar Patrika_ which came out in Bengali and English. Overnight, the editors converted it into an English newspaper! Following public oppositions, the act was repealed in 1881 by Lord Ripon.
+24. The chapter then gives a very interesting account of B. G. Tilak's life as an editor and champion of the press. A short mention of Gandhi's imprisonment under the same conditions except that Tilak pleaded not guilty (1908) and Gandhiji openly conceded guilt (1922)—only shows how far the national movement had evolved!
+
+### Propaganda in the Legislatures
+
+25. 
