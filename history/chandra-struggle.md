@@ -11,6 +11,7 @@
 7. [An Economic Critique of Colonialism](#an-economic-critique-of-colonialism)
 8. [The Fight to Secure Press Freedom](#the-fight-to-secure-press-freedom)
 9. [Propaganda in the Legislatures](#propaganda-in-the-legislatures)
+10. [The Swadeshi Movement—1903-1908](#the-swadeshi-movement-1903-1908)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -62,4 +63,14 @@
 
 ### Propaganda in the Legislatures
 
-25. 
+25. The Imperial Legistative Council (1861-1947) was formed by adding new members to Governor General's Executive Council—mostly a fraud, almost powerless, could not discuss any budget or bill without the Government's consent, could not discuss the actions of the administration—but it had a few Indian members (mostly zamindars and merchants) to represent the voice of the people. The ILC was hence heavily criticized by the public but the Moderates were rather careful not to push too hard with heavy demands—till 1892, their demand was limited to expansion and reform of Legislative Councils.
+26. Due to nationalist agitation, Government amended Indian Councils Act of 1892 changing some functioning of Legislative Councils. Number of members increased and were given the right to discuss budget but could neither vote on it nor move a motion to amend it. They could ask questions but were not allowed to discuss answers. The nationalists saw this as a mockery of their demands. Later, the Legistative Councils became more useful as nationalists P. Mehta and G. K. Gokhale became members.
+
+### The Swadeshi Movement—1903-1908
+
+27. The Swadeshi Movement arose in resistance to Bengal partition, which would benefit the Government as it would divide the population, reduce Bengali speakers to minority among Oriya and Hindi speakers and would create a divide between Hindus and Muslims following a formation of Muslim-majority state with capital at Dacca. Despite huge protests at everywhere, the partition was announced in 1905—the techniques of the Moderates were cleary not working—boycott of foreign products began, zamindars even joined the common people in the movement—on the night of partition, _Vande Mataram_ became the theme song of the movement.
+28. Militant nationalists led by Tilak and Lajpat Rai wanted to extend the boycott and Swadeshi to the rest of India and turn it into a full fledged political mass struggle. Moderates were not willing to go that far. In Bengal, Radical Nationalism began—boycott of government schools and colleges, titles, offices and services. Other features (effects) of the Swadeshi movement were self-reliance, love for Indian traditional art, music, literature (think of Tagore), founding of National Council of Education in Bengal, Swadeshi textile mills and factories.
+
+### The Split in the Congress and the Rise of Revolutionary Nationalism
+
+29. 
