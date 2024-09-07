@@ -11,7 +11,7 @@
 7. [An Economic Critique of Colonialism](#an-economic-critique-of-colonialism)
 8. [The Fight to Secure Press Freedom](#the-fight-to-secure-press-freedom)
 9. [Propaganda in the Legislatures](#propaganda-in-the-legislatures)
-10. [The Swadeshi Movement—1903-1908](#the-swadeshi-movement-1903-1908)
+10. [The Swadeshi Movement—1903-1908](#the-swadeshi-movement1903-1908)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -70,7 +70,8 @@
 
 27. The Swadeshi Movement arose in resistance to Bengal partition, which would benefit the Government as it would divide the population, reduce Bengali speakers to minority among Oriya and Hindi speakers and would create a divide between Hindus and Muslims following a formation of Muslim-majority state with capital at Dacca. Despite huge protests at everywhere, the partition was announced in 1905—the techniques of the Moderates were cleary not working—boycott of foreign products began, zamindars even joined the common people in the movement—on the night of partition, _Vande Mataram_ became the theme song of the movement.
 28. Militant nationalists led by Tilak and Lajpat Rai wanted to extend the boycott and Swadeshi to the rest of India and turn it into a full fledged political mass struggle. Moderates were not willing to go that far. In Bengal, Radical Nationalism began—boycott of government schools and colleges, titles, offices and services. Other features (effects) of the Swadeshi movement were self-reliance, love for Indian traditional art, music, literature (think of Tagore), founding of National Council of Education in Bengal, Swadeshi textile mills and factories.
+29. The Government consciously used communalism to thwart Swadeshi. In most parts of Bengal, a line of division was drawn between landlords (mostly Hindus) and peasants (mostly Muslims)—All India Muslim League was formed under the guidance of the Government. The rest of India were not very ready to adopt entirely new violent political movements. Besides, Tilak was imprisoned, several leaders were arrested, deported or retired. The Congress also splited into two factions. The Government also took violent action on the participants—physical beating, suspension from offices and schools. The Swadeshi hence could not be sustained.
 
 ### The Split in the Congress and the Rise of Revolutionary Nationalism
 
-29. 
+30. 
