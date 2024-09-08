@@ -12,6 +12,8 @@
 8. [The Fight to Secure Press Freedom](#the-fight-to-secure-press-freedom)
 9. [Propaganda in the Legislatures](#propaganda-in-the-legislatures)
 10. [The Swadeshi Movement—1903-1908](#the-swadeshi-movement1903-1908)
+11. [The Split in the Congress and the Rise of Revolutionary Nationalism](#the-split-in-the-congress-and-the-rise-of-revolutionary-nationalism)
+12. [World War I and Indian Nationalism: The Ghadar](#world-war-i-and-indian-nationalism-the-ghadar)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -74,4 +76,16 @@
 
 ### The Split in the Congress and the Rise of Revolutionary Nationalism
 
-30. 
+30. The Government planned to isolate the Radicals from the Moderates; the former can be dealt with force and repression and then the Moderates can be ignored. The Government offered a bait: promised to reform Legislative Councils and asked for cooperation—the Moderates conceded to this, while vigorous movement was taking place in the country.
+31. The Radicals wanted to extend the Swadeshi and the Boycott to the nation and include more drastic measures (non-cooperation). The Moderates wanted to restrict the Swadeshi only in Bengal and were against any drastic movements. The split happened in 1907; the Government took immediate actions to wipe out the Radicals—their leader Tilak was imprisoned, several Radicals arrested and some retired. The Moderates also lost support, especially from the youth. After 1908, the national movement as a whole declined. To promote communalism, the Government then gave separate electorates for Muslims.
+32. The failure of the Congress made way for Revolutionary Nationalism. Young revolutionaries bombed unpopular government officials (once they accidentally killed two English ladies, and the culprits were hanged). Secret societies were formed; an unsucessfull attempt was made at Viceroy Lord Hardinge's life (he was only wounded). Some revolutionary activities followed in England as well.
+
+### World War I and Indian Nationalism: The Ghadar
+
+33. The West Coast of North America had a good size of Indian immigrants and the _Ghadar_, a weekly publication, was circulated to ignite revolutionary and anti-British feeling by uniting all Indians living there. Har Dayal was arrested by the US Government for spreading anarchist literature (although everyone suspected the British had something to do with it) but he escaped and fled to Berlin.
+34. When WWI broke out, the revolutionaries saw an opportunity to strike. A large number of immigrant Indians returned for armed revolution. The Government, not ignorant to this, scrutinized the incoming Indians and detained suspicious ones. Back in Punjab, the people would not share the romantic adventures of the Ghadar. Soon, several revolutionaries and leaders were beheaded, hanged or imprisoned.
+35. Was then the Ghadar a success or a failure? It helped in the unification of religions and formation of a secular nationalist outlook. It had all the main ingredients of Moderates' critique of colonialism, armed with youth and energy to strike. But it also lacked leadership (Har Dayal was more of a propagandist) and the militants were united by enthusiasm rather than careful organization. They underestimated the strength of the British in India and wrongly assumed that with their actions, the mass of the India would be ignited.
+
+### The Home Rule Movement and Its Fallout
+
+36. 
