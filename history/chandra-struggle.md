@@ -14,6 +14,8 @@
 10. [The Swadeshi Movement—1903-1908](#the-swadeshi-movement1903-1908)
 11. [The Split in the Congress and the Rise of Revolutionary Nationalism](#the-split-in-the-congress-and-the-rise-of-revolutionary-nationalism)
 12. [World War I and Indian Nationalism: The Ghadar](#world-war-i-and-indian-nationalism-the-ghadar)
+13. [The Home Rule Movement and Its Fallout](#the-home-rule-movement-and-its-fallout)
+14. [Gandhiji's Early Career and Activism](#gandhijis-early-career-and-activism)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -77,7 +79,7 @@
 ### The Split in the Congress and the Rise of Revolutionary Nationalism
 
 30. The Government planned to isolate the Radicals from the Moderates; the former can be dealt with force and repression and then the Moderates can be ignored. The Government offered a bait: promised to reform Legislative Councils and asked for cooperation—the Moderates conceded to this, while vigorous movement was taking place in the country.
-31. The Radicals wanted to extend the Swadeshi and the Boycott to the nation and include more drastic measures (non-cooperation). The Moderates wanted to restrict the Swadeshi only in Bengal and were against any drastic movements. The split happened in 1907; the Government took immediate actions to wipe out the Radicals—their leader Tilak was imprisoned, several Radicals arrested and some retired. The Moderates also lost support, especially from the youth. After 1908, the national movement as a whole declined. To promote communalism, the Government then gave separate electorates for Muslims.
+31. The Radicals wanted to extend the Swadeshi and the Boycott to the nation and include more drastic measures (non-cooperation). The Moderates wanted to restrict the Swadeshi only in Bengal and were against any drastic movements. The split happened in 1907; the Government took immediate actions to wipe out the Radicals—their leader Tilak was imprisoned, several Radicals arrested and some retired. The Moderates also lost support, especially from the youth. After 1908, the national movement as a whole declined. To promote communalism, the Government then gave separate electorates for Muslims (by Indian Councils Act of 1909).
 32. The failure of the Congress made way for Revolutionary Nationalism. Young revolutionaries bombed unpopular government officials (once they accidentally killed two English ladies, and the culprits were hanged). Secret societies were formed; an unsucessfull attempt was made at Viceroy Lord Hardinge's life (he was only wounded). Some revolutionary activities followed in England as well.
 
 ### World War I and Indian Nationalism: The Ghadar
@@ -88,4 +90,10 @@
 
 ### The Home Rule Movement and Its Fallout
 
-36. 
+36. When Tilak was released in 1914, he found the movement in a different state of affairs—the Congress had been largely inactive. Initial efforts to merge the Radicals with the Moderates proved to be futile. After the death of P. Mehta (leader of the Bengal group that opposed the Radicals), the Moderates (largely led by Annie Besant) reconciled with the Radicals (Tilak)—then came the Home Rule Leagues, inspired by the Irish example—Tilak's League operated in Maharastra (excluding Bengal) and Karnataka, Besant's operated in the other parts of India. Braches were set up to impart political education and organization.
+37. The Lucknow Pact of 1916—an agreement between the Congress and AIML—the Congress agreed to separate electorates for Muslims and one-third seats for the Muslims in the Councils and the Muslim League leaders agreed to join the Congress in demanding Indian autonomy.
+38. As Home Rule Leagues garnered momentum, the Government took their action by detaining Besant. This led to more resistance as more Moderates joined the Home Rule Leagues, Tilak advocated the use of passive resistance or civil disobedience and it attracted wider public participation. But Montagu's 1917 declaration that new reforms would be made to induct more Indians in every branch of administration and gradual development of self-governing institutions and Besant's release made the Moderates sit back. Besant herself could not decide whether to strike or wait. Tilak was away for a case in England. The Home Rule Movement was thus left largely leaderless.
+
+### Gandhiji's Early Career and Activism
+
+39. 
