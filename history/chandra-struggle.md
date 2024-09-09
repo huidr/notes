@@ -103,4 +103,12 @@
 
 ### The Non-Cooperation Movement—1920-1922
 
-42. 
+42. Khilafat Movement began against the dismemberment of the Ottaman Empire following the end of WWI—merged with Gandhi's Non-Cooperation Movement—was noted for promoting Hindu-Muslim unity. The Swadeshi and the boycott were revived. The _khadi_ became a uniform of the national movement. Mohammed Ali declared, in Karachi 1921, that it's religiously unlawful for Muslims to continue in the British Army. The visit of the Prince of Wales was a dramatic event—it led to violence against Christians and British-loyalists with some death toll—peace was restored only after Gandhi fasted for three days.
+43. The Non-Cooperation Movement was dealt with further repression. Several leaders and some 30,000 people were arrested and soon, Gandhi was the only top leader who remained out of jail. He sent a letter to Viceroy Lord Reading asking to lift the ban on civil liberties and release of political prisoners. With no other choice left, Gandhi announced the civil disobedience movement to be enacted at Surat and asked the rest of the nation to cooperate and remain quiet. However, at Chauri Chaura, some action of the police angered a crowd leading to a mass quarrel between the parties with some death toll. Gandhi was disappointed and called off the Non-Cooperation Movement.
+44. Gandhi's calling off of Non-Cooperation following the Chuari Chaura event attracted questions and criticisms. This chapter discusses those criticisms—fear of radicals going out of hand and taking over, Gandhi's effort to protect zamindars and landlords, etc.—the authors argue that, in hindsight, Gandhi probably made the right choice: the Chauri Chaura incident gave the Government a reason to justify their potential repression even before the civil disobedience commenced, the people were regressing to the old life after a year-long movement and it was probably time to recuperate.
+
+###
+
+45. 
+
+
