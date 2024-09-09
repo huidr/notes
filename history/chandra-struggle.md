@@ -16,6 +16,7 @@
 12. [World War I and Indian Nationalism: The Ghadar](#world-war-i-and-indian-nationalism-the-ghadar)
 13. [The Home Rule Movement and Its Fallout](#the-home-rule-movement-and-its-fallout)
 14. [Gandhiji's Early Career and Activism](#gandhijis-early-career-and-activism)
+15. [The Non-Cooperation Movement—1920-1922](#the-non-cooperation-movement1920-1922)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -96,4 +97,10 @@
 
 ### Gandhiji's Early Career and Activism
 
-39. 
+39. Gandhi's South Africa journey began in 1893 as a British-educated lawyer to fight a case for a merchant. He saw the enormous racism and injustice, and encouraged the immigrant Indians to stand up. His used moderate methods such as to send petitions, organize protests, and meet British officials for reforms. As this proved futile, he launched his _Satyagraha_ and civil disobedience (people eager to plead guilty and go to prison). At length, by way of negotiations, the Government conceded some demands of the Indians.
+40. Gandhi returned to India in 1915 but didn't get involved in politics for a few years, preferring to study the situation first. He handled the case of Camparan—indigo goods having failed, the planters decided to terminate the plantation but demanded some taxes in exchange for the peasants' freedom. Gandhi enacted civil disobedience, studied the problem and was able to negotiate to get some refunds. Then Gandhi's efforts to gain increased wages for industrial workers at Ahmedabad and fight against taxes at Kheda district followed.
+41. Gandhi realised the Moderate method would not get anywhere but wasn't fond of enacting the Home Rule Movement during the British's vulnerable WWI period. He entered into the national movement during the opposition against the two Rowlatt bills. He launched _Satyagraha_ but things escalated too quickly in Punjab as the Jallianwala Bagh massacre took place.
+
+### The Non-Cooperation Movement—1920-1922
+
+42. 
