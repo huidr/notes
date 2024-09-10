@@ -17,6 +17,9 @@
 13. [The Home Rule Movement and Its Fallout](#the-home-rule-movement-and-its-fallout)
 14. [Gandhiji's Early Career and Activism](#gandhijis-early-career-and-activism)
 15. [The Non-Cooperation Movement—1920-1922](#the-non-cooperation-movement1920-1922)
+16. [Peasant Movements and Nationalism in the 1920s](#peasant-movements-and-nationalism-in-the-1920s)
+17. [The Indian Working Class and the National Movement](#the-indian-working-class-and-the-national-movement)
+
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -107,8 +110,12 @@
 43. The Non-Cooperation Movement was dealt with further repression. Several leaders and some 30,000 people were arrested and soon, Gandhi was the only top leader who remained out of jail. He sent a letter to Viceroy Lord Reading asking to lift the ban on civil liberties and release of political prisoners. With no other choice left, Gandhi announced the civil disobedience movement to be enacted at Surat and asked the rest of the nation to cooperate and remain quiet. However, at Chauri Chaura, some action of the police angered a crowd leading to a mass quarrel between the parties with some death toll. Gandhi was disappointed and called off the Non-Cooperation Movement.
 44. Gandhi's calling off of Non-Cooperation following the Chuari Chaura event attracted questions and criticisms. This chapter discusses those criticisms—fear of radicals going out of hand and taking over, Gandhi's effort to protect zamindars and landlords, etc.—the authors argue that, in hindsight, Gandhi probably made the right choice: the Chauri Chaura incident gave the Government a reason to justify their potential repression even before the civil disobedience commenced, the people were regressing to the old life after a year-long movement and it was probably time to recuperate.
 
-###
+### Peasant Movements and Nationalism in the 1920s
 
-45. 
+45. This chapter outlines some peasant movements: Kisan Shaba movements in UP, Mappila rebellion in Malabar (Muslim agitation in conjunction with Khilafat movement) and Valabhbhai-led Bardoli _Satyagraha_ for tax registance in Gujarat.
+
+### The Indian Working Class and the National Movement
+
+46. 
 
 
