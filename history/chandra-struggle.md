@@ -19,7 +19,7 @@
 15. [The Non-Cooperation Movement—1920-1922](#the-non-cooperation-movement1920-1922)
 16. [Peasant Movements and Nationalism in the 1920s](#peasant-movements-and-nationalism-in-the-1920s)
 17. [The Indian Working Class and the National Movement](#the-indian-working-class-and-the-national-movement)
-
+18. [The Struggles for Gurdwara Reform and Temple Entry](#the-struggles-for-gurdwara-reform-and-temple-entry)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -116,6 +116,12 @@
 
 ### The Indian Working Class and the National Movement
 
-46. 
+46. Working class movements were sporadic and un-organized in the 19th century. A good amount of them occured in the places with foreign capital—the government press, railways or jute mills. In 1920, All India Trade Union Congress was founded and more organized worker strikes followed. Soon these strikes became entangled with national movement as workers realized that _swaraj_ would make their goals achievable.
+47. In the second half of 1920s, there was a growing influence of communication and left trend within the Congress and the workers. In 1927, AITUC decided to boycott the Simon Commission. This was met with repressive laws and arrest of the leaders by the government. In the following years, the communist wing got isolated from the national movement and by 1931, they were thrown out of AITUC in a split. A dip in working class activities followed in the coming years.
+48. Once again the communists rejoined the national movement. The Communists, the Congress Socialists and the Left nationalists led by Nehru and Bose had a big influence within the Congress and elsewhere. After the Nazis attacked the Soviet Union in 1941, the Communists then dissociated from the Quit India Movement led by Gandhi, in support of the Allied forces to defeat fascism.
+
+### The Struggles for Gurdwara Reform and Temple Entry
+
+49. 
 
 
