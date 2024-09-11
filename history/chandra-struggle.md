@@ -21,7 +21,7 @@
 17. [The Indian Working Class and the National Movement](#the-indian-working-class-and-the-national-movement)
 18. [The Struggles for Gurdwara Reform and Temple Entry](#the-struggles-for-gurdwara-reform-and-temple-entry)
 19. [The Years of Stagnation—Swarajists, No-changers and Gandhiji](#the-years-of-stagnationswarajists-no-changers-and-Gandhiji)
-20. [Bhagat Singh, Surya Sen and the Revolutionary Nationalism](#bhagat-singh,-surya-sen-and-the-revolutionary-nationalism)
+20. [Bhagat Singh, Surya Sen and the Revolutionary Nationalism](#bhagat-singh-surya-sen-and-the-revolutionary-nationalism)
 
 ### The First Major Challenge: The Revolt of 1857
 
