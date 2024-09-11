@@ -20,6 +20,8 @@
 16. [Peasant Movements and Nationalism in the 1920s](#peasant-movements-and-nationalism-in-the-1920s)
 17. [The Indian Working Class and the National Movement](#the-indian-working-class-and-the-national-movement)
 18. [The Struggles for Gurdwara Reform and Temple Entry](#the-struggles-for-gurdwara-reform-and-temple-entry)
+19. [The Years of Stagnation—Swarajists, No-changers and Gandhiji](#the-years-of-stagnationswarajists-no-changers-and-Gandhiji)
+20. [Bhagat Singh, Surya Sen and the Revolutionary Nationalism](#bhagat-singh,-surya-sen-and-the-revolutionary-nationalism)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -122,6 +124,17 @@
 
 ### The Struggles for Gurdwara Reform and Temple Entry
 
-49. 
+49. The priests of Gurdwara went corrupt as they took in the offerings for personal again, and then began to live a life of luxury. The government supported them, installed institutions to preach loyalty to Sikhism and used them to keep the people away from nationalist ideas. A shock came when the priests declared the Ghadarites as renegades and honoired General Dyer declaring him to be a Sikh.
+50. This led to the Akali Movement, with an aim to liberate the Gurdwaras and pass the control to local devotees. The movement enacted _Satyagraha_ and it got serious. It got integrated with the national movement as the Akalis began to think of India as the bigger Gurdwara. One of the achievements of the movement was to make the peasants and common people politically conscious and bring Sikh devotees under the national movement radar.
+51. Post-1920s, the nationalist leaders began to take acute steps to rid casteism. In Kerala, Harijans enacted _Satyagraha_ to fight for right to enter temples. Gandhi, during his Kerala tour, supported this movement and didn't visit a single temple that did not permit Harijans. The temple entry movement was resisted by caste Hindus. Although the movement wasn't entirely successful, it was nevertheless a massive step toward dispensing untouchability and casteism throughout the country.
 
+### The Years of Stagnation—Swarajists, No-changers and Gandhiji
+
+52. Following the end of the Non-Cooperation Movement in 1922, Gandhi was arrested. People were demoralized and some began to question Gandhi's methods. The Swaraj Party, led by C. R. Das and Motilal, split from the Congress—with a goal to enter into Legislative Councils and put forth swaraj ideas and if rejected, to make a constant attempt to thwart Council activities so that the government realizes it's impossible for the Councils to run.
+53. Those who opposed this idea—known as no-changers—wanted to continue the boycott and warned that indulgence in Council activities might lead to manipulation by and integration to the government.
+54. Gandhi was released on health grounds and though, he was against the idea of the  Swaraj party, he avoided commenting publicly. A split in the Congress would be highly unproductive. The Swaraj party had some success in their early days in the Councils. They filled the political void following the end of Non-Cooperation Movement while the nation was recouping its strength.
+
+### Bhagat Singh, Surya Sen and the Revolutionary Nationalism
+
+55. 
 
