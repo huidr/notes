@@ -23,6 +23,7 @@
 19. [The Years of Stagnation—Swarajists, No-changers and Gandhiji](#the-years-of-stagnationswarajists-no-changers-and-Gandhiji)
 20. [Bhagat Singh, Surya Sen and the Revolutionary Nationalism](#bhagat-singh-surya-sen-and-the-revolutionary-nationalism)
 21. [The Gathering Storm—1927-1929](#the-gathering-storm1927-1929)
+22. [Civil Disobedience—1930-1932](#civil-disobedience1930-1932)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -143,5 +144,11 @@
 
 ### The Gathering Storm—1927-1929
 
-58. 
+58. The Simon Commission, 1927, was met with a huge mass protest. Wherever Simon and his company went, they were greeted with black flags, rallies, slogans and ridiculed urging him to go back. This led to a new age of youth agitation and participation in politics (e.g., Nehru, Bose emerged as leaders, inspired by socialism). The Nehru Report of 1928 pushed for a dominion status of India along with other demands as their primary goal. This was in response to Lord Birkenhead's constant harp that Indians could not arrive at a common goal of constitutional reforms.
+59. The report had its oppositions. Jinnah, in his Fourteen Points, demanded separate Muslim electorates which were in Lucknow pact but rejected by the report. Likewise, Jawaharlal and Bose had different ideas—complete independence. It was decided, on Gandhi's proposal, that if the Government failed to give dominion status within a year, they would adopt complete independence as their goal and enact civil disobedience movement to achieve that goal.
+60. As Lord Irwin himself told Gandhi that dominion status cannot be achieved, the Congress, in its 1929 Lahore annual sessions, resolved to enact civil disobedience to attain Purna Swaraj. This led to the emergence of Nehru as a national leader (some older nationalists had their doubts but Gandhi believed in him). On 1930 Jan 26, the national flag was hoisted and the declaration of Purna Swaraj. The resolution was to enact non-violent civil disobedience including non-payment of taxes.
+
+### Civil Disobedience—1930-1932
+
+61. 
 
