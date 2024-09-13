@@ -23,7 +23,9 @@
 19. [The Years of Stagnation—Swarajists, No-changers and Gandhiji](#the-years-of-stagnationswarajists-no-changers-and-Gandhiji)
 20. [Bhagat Singh, Surya Sen and the Revolutionary Nationalism](#bhagat-singh-surya-sen-and-the-revolutionary-nationalism)
 21. [The Gathering Storm—1927-1929](#the-gathering-storm1927-1929)
-22. [Civil Disobedience—1930-1932](#civil-disobedience1930-1932)
+22. [Civil Disobedience—1930-1931](#civil-disobedience1930-1931)
+23. [From Karachi to Wardha: The Years from 1932-1934](#from-karachi-to-wardha-the-years-from-1932-1934)
+24. [The Rise of the Left-Wing](#the-rise-of-the-left-wing)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -148,7 +150,18 @@
 59. The report had its oppositions. Jinnah, in his Fourteen Points, demanded separate Muslim electorates which were in Lucknow pact but rejected by the report. Likewise, Jawaharlal and Bose had different ideas—complete independence. It was decided, on Gandhi's proposal, that if the Government failed to give dominion status within a year, they would adopt complete independence as their goal and enact civil disobedience movement to achieve that goal.
 60. As Lord Irwin himself told Gandhi that dominion status cannot be achieved, the Congress, in its 1929 Lahore annual sessions, resolved to enact civil disobedience to attain Purna Swaraj. This led to the emergence of Nehru as a national leader (some older nationalists had their doubts but Gandhi believed in him). On 1930 Jan 26, the national flag was hoisted and the declaration of Purna Swaraj. The resolution was to enact non-violent civil disobedience including non-payment of taxes.
 
-### Civil Disobedience—1930-1932
+### Civil Disobedience—1930-1931
 
-61. 
+61. After writing to Irwin about his plans, Gandhi and members of his Sabarmati Ashram began their historic Dandi March from Ahmedabad, joined by thousands, walking all the way to the Dandi coast where he broke the law by picking up salt, and then he inaugurated the Civil Disobedience Movement. Breaking of salt law followed elsewhere, with non-payment of taxes and various civil disobedience activities. Defiance of forest laws by tribes and no-rent movements were seen in some places.
+62. The colonial government found themselves in a perplexing situation. If they allowed the movement to continue, they would be seen as weak but if they used repression, they would be seen as brutal to use violence on a non-violent movement. Either way, it's a blow to their prestige. Slowly they suspended civil liberties and later the Congress was declared unlawful. There was no mention of dominion status in the Simon Commission report.
+63. The Gandhi-Irwin pact—seen as a disgrace to the colonial government as it seemed to be a truce between two parties in the equal footing—granted the release of political prisoners not convicted of violence, remission of fine not collected, return of lands not sold to third parties, lenient treatment of employees who had resigned, right to make salt for consumption and the end of civil disobedience movement. Gandhi was criticised for the non-commutation of death sentences of Bhagat and his comrades (despite him having tried).
+
+### From Karachi to Wardha: The Years from 1932-1934
+
+64. 
+
+### The Rise of the Left-Wing
+
+
+
 
