@@ -136,5 +136,7 @@
 
 ### Bhagat Singh, Surya Sen and the Revolutionary Nationalism
 
-55. 
+55. When other methods proved futile, revolutionary nationalism would take place. Hindustan Republican Association (or Army), founded in 1924, had a goal to unite Indian states into a Federal Republic. After the Kakori robbery—which led to hanging and deportation—the revolutionaries were once again re-organized, led by Chandrashekhar Azad, into Hindustan Socialist Republican Association putting socialism as a goal.
+56. Lala Lajput's death in an anti-Simon Commission demonstration led to assassination of concerned officer by HSRA. Later, in 1929, Bhagat and B. K. Dutt safe-bombed the Central Legislative Assembly against the passage of the Public Safety Bill and the Trade Disputes Bill which would severely limit civil liberties. The idea was to get caught and tried, and use the court to reach the people. Everyday they would enter the court shouting nationalist slogans and this earned them a hugh support from all over the nation. However, Bhagat, Sukhdev and Rajguru were hanged in 1931.
+57. 
 
