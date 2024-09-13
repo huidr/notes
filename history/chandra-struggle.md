@@ -22,6 +22,7 @@
 18. [The Struggles for Gurdwara Reform and Temple Entry](#the-struggles-for-gurdwara-reform-and-temple-entry)
 19. [The Years of Stagnation—Swarajists, No-changers and Gandhiji](#the-years-of-stagnationswarajists-no-changers-and-Gandhiji)
 20. [Bhagat Singh, Surya Sen and the Revolutionary Nationalism](#bhagat-singh-surya-sen-and-the-revolutionary-nationalism)
+21. [The Gathering Storm—1927-1929](#the-gathering-storm1927-1929)
 
 ### The First Major Challenge: The Revolt of 1857
 
@@ -138,5 +139,9 @@
 
 55. When other methods proved futile, revolutionary nationalism would take place. Hindustan Republican Association (or Army), founded in 1924, had a goal to unite Indian states into a Federal Republic. After the Kakori robbery—which led to hanging and deportation—the revolutionaries were once again re-organized, led by Chandrashekhar Azad, into Hindustan Socialist Republican Association putting socialism as a goal.
 56. Lala Lajput's death in an anti-Simon Commission demonstration led to assassination of concerned officer by HSRA. Later, in 1929, Bhagat and B. K. Dutt safe-bombed the Central Legislative Assembly against the passage of the Public Safety Bill and the Trade Disputes Bill which would severely limit civil liberties. The idea was to get caught and tried, and use the court to reach the people. Everyday they would enter the court shouting nationalist slogans and this earned them a hugh support from all over the nation. However, Bhagat, Sukhdev and Rajguru were hanged in 1931.
-57. 
+57. An organized revolutionary activity was seen in Chittagong, led by Surya Sen, as they seized ammunition, disrupted telephone, telegraph and railways, proclaimed a Provisional Revolutionary Goverment by hoisting the national flag, singing slogans and wearing dhoti. They dispersed into the Chittagong hill and engaged in an arm-fight with the surrounding army. Although they were still in hunt, Surya Sen and his colleagues survived for 3 years as they got support from the villages untill they were finally caught, tried and hanged. As opposed to Bhagat's individual heroism and the ones before, this was an organized mass revolutionary activity—Muslims and Hindus joined, women and students took up arms and assassinated officials.
+
+### The Gathering Storm—1927-1929
+
+58. 
 
