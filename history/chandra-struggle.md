@@ -158,10 +158,12 @@
 
 ### From Karachi to Wardha: The Years from 1932-1934
 
-64. 
+64. The Karachi session resolved the fundamental rights and the national economic programming. The Gandhi-Irwin pact was hated by the British because it conveyed the notion that the Congress and the colonial government were on an equal footing as to sign a truce. Irwin was replaced by Willingdon as Viceroy. Their new policy was to make sure Gandhi could never again garner mass movement as he did before and to prevent mass uprisings. Gandhi asked Willingdon for a meeting but was declined. Then the government enacted various repressive measures, arrested Gandhi and enacted Civil Martial Law leading to suspension of all civil liberties. Within a week, all top leaders of the Congress were in jail.
+65. The colonial government constantly played the game of divide and rule. For instance, they introduced the Communal Award giving separate electorates for Muslims, Sikhs and Christians, and now for Depressed Classes (Harijans and Scheduled Castes). This led to much criticisms and debates, and ultimately to the Poona Pact where the idea of separate electorates were abandoned but the number of reserved seats in Legislative Councils were increased.
+66. Gandhi began his Harijan tour from Wardha in 1933 traversing various villages in India for nearly 9 months propagating to eradicate untouchability in all forms and practices. Throughout the tour, he was attacked by orthodox Hindu devotees. He was accused of attacking Hinduism. In reaction, Gandhi explained his campaign on the grounds of humanity and reason, and that untouchability has no sanction in Hindu Shastras either. Gandhi was of the idea that caste Hindus must repay for what Harijans suffered—explains why Indians born and brought up before 1947 are lenient toward reservation?
 
 ### The Rise of the Left-Wing
 
-
+67. 
 
 
